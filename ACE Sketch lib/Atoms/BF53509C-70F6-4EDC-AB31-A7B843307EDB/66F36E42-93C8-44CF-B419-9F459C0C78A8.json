@@ -31,12 +31,6 @@
   "name": "Atoms / Buttons / Primary / Default",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "F80E4178-8B0C-4965-8741-78F2F8F71DA9",
-      "overrideName": "FED95F5E-6012-40B7-AACA-C12384AAB8E7_stringValue",
-      "value": "label"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
