@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE9B23AC-160D-401C-9B64-3E982300D357",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D7DBF5F-754A-43F5-8C6B-608F8B1EA8D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07EA56D3-93FA-4E79-B051-3A4F6CBF7776",
+    "height": 16,
+    "width": 16,
+    "x": 372,
+    "y": 7474
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DNA / Icons / Placeholder / Small Copy 46",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9E1A09D-C31E-43AB-B994-EBA11B5C9F9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF755CF5-6FB1-4AFF-B606-4BBD72376AC7",
+  "verticalSpacing": 0
+}
