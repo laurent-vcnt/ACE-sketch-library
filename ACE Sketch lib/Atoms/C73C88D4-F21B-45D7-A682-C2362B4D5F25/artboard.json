@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F1625E0D-029C-4830-B9F4-C0F7E42F5A89",
-    "height": 1024,
+    "height": 1561,
     "width": 1600,
     "x": 3298,
     "y": -74
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -139,7 +139,7 @@
       "id": "CCB44EDA-9897-471F-AEB1-6DCDDF63E61B"
     }
   ],
-  "name": "Links Copy",
+  "name": "Inputs",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
