@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3DEF0565-E556-442E-BF40-CA13EAA7B7CC",
+  "do_objectID": "5A7EDD6F-8A39-4940-A60D-E6B76139A262",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EDDEBCAD-C29D-421C-A1B2-193AC5A4253F",
+    "do_objectID": "8A0A5492-710C-490E-B3F2-1CCF9B164AAD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7D619DFB-D7AD-4322-B2D2-EECBCD5BD4F5",
+    "do_objectID": "0B4A962E-A6F3-42CC-A408-59F32F67EC8B",
     "height": 40,
     "width": 300,
-    "x": 390,
-    "y": 571
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -81,7 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BAA64D85-35FE-45D9-8D3F-1F61EEB60D8E",
+  "sharedStyleID": "D246D40E-D37D-4897-815B-16D85A4E3B0E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,17 +91,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.5725490196078431,
-          "red": 0.5372549019607843
+          "blue": 0.03529411764705881,
+          "green": 0.0901960784313725,
+          "red": 0.807843137254902
         },
         "fillType": 0,
         "isEnabled": true,
-        "position": 2,
+        "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "84E28F4B-E162-4033-BD1A-DC57AC15C0CE",
+    "do_objectID": "5E5D850E-E277-439C-9736-702C140208F4",
     "endMarkerType": 0,
     "fills": [
       {
@@ -124,22 +124,22 @@
     "innerShadows": [
       {
         "_class": "innerShadow",
-        "blurRadius": 0,
+        "blurRadius": 3,
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.1,
           "blue": 0,
-          "green": 0.4666666666666667,
-          "red": 0.2588235294117646
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
-        "offsetX": 4,
-        "offsetY": 0,
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
         "spread": 0
       }
     ],

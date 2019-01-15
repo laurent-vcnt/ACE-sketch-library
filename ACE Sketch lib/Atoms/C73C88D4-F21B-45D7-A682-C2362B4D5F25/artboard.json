@@ -55,56 +55,32 @@
       "id": "E187A398-FE9E-4959-AFCB-6F0AAA46D5E9"
     },
     {
-      "class": "rectangle",
-      "id": "B73E9CAE-C932-4AF6-8BF0-2996963759FE"
+      "class": "symbolInstance",
+      "id": "3B4C6B4D-96FC-46E4-A989-430DAD2AA255"
     },
     {
-      "class": "text",
-      "id": "621FB7DF-1684-493B-82C6-2F8C392B5E21"
+      "class": "symbolInstance",
+      "id": "09F99F72-EB10-47F5-A97A-18EC47CD82D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B9FF135-778D-4663-B019-B1A99F6CB57C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B59C27C0-2212-4F62-8912-576C911BCCA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "281EE346-2F86-40CE-ADED-01AA6C101F17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE820F7A-F9EA-4F63-898C-575B1D3B5CA7"
     },
     {
       "class": "text",
       "id": "5E3DFEE8-D5C0-4626-AFB0-981D600362DE"
-    },
-    {
-      "class": "rectangle",
-      "id": "CBBCEE52-2BD9-496A-9EDF-508736B9CE9E"
-    },
-    {
-      "class": "text",
-      "id": "F39E3489-D7A3-4D0A-B647-B0A854FD499D"
-    },
-    {
-      "class": "text",
-      "id": "6A65F2F4-E13D-45EF-B3C8-66F598D9E913"
-    },
-    {
-      "class": "rectangle",
-      "id": "4A99AF98-48C4-4CE6-803F-3EA5B2231E5E"
-    },
-    {
-      "class": "text",
-      "id": "892BA523-0809-4608-9499-7B1B9C4272D0"
-    },
-    {
-      "class": "rectangle",
-      "id": "AFA040B4-38B0-4A64-9548-05FD6A11C35A"
-    },
-    {
-      "class": "text",
-      "id": "D10D6B7D-098C-4043-80FA-7D79DB52A2B3"
-    },
-    {
-      "class": "bitmap",
-      "id": "6309AB5D-D5F3-447B-AC39-5DF8A1B65ACC"
-    },
-    {
-      "class": "text",
-      "id": "D9F22AF5-03B1-4E97-AECF-3824DEBA2E04"
-    },
-    {
-      "class": "rectangle",
-      "id": "B1C5A5A7-3FC8-4EA6-8008-2F87BA90AF4D"
     },
     {
       "class": "text",
@@ -112,31 +88,19 @@
     },
     {
       "class": "text",
-      "id": "B5D6031C-6BD0-42DE-BEA8-A09F6C47914A"
-    },
-    {
-      "class": "rectangle",
-      "id": "D6DE9BCB-EDAA-4D82-9F32-19673D5AB793"
+      "id": "2D110D6D-2982-4E33-B04C-DA83F0953294"
     },
     {
       "class": "text",
-      "id": "87CAB235-ACD5-4E70-A6CA-0FEFE8C42FFB"
+      "id": "AF13AE1F-EABE-49D6-9ADE-48B16A769513"
     },
     {
       "class": "text",
-      "id": "D47FB5B7-26F4-4FB6-98A5-99FED20DD67E"
-    },
-    {
-      "class": "rectangle",
-      "id": "3DEF0565-E556-442E-BF40-CA13EAA7B7CC"
+      "id": "93B3944C-E0D9-4B9B-978A-6230CC58832E"
     },
     {
       "class": "text",
-      "id": "DBDEEDD4-95F9-4677-96B0-194A9DF58E1E"
-    },
-    {
-      "class": "text",
-      "id": "CCB44EDA-9897-471F-AEB1-6DCDDF63E61B"
+      "id": "0AE8E03E-6D3C-4DC6-A612-E19C0EEEBC6A"
     }
   ],
   "name": "Inputs",

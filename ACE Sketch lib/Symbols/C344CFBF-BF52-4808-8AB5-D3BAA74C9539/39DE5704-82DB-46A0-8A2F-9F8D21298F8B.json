@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CBBCEE52-2BD9-496A-9EDF-508736B9CE9E",
+  "do_objectID": "39DE5704-82DB-46A0-8A2F-9F8D21298F8B",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4CE498EA-3081-4703-9E9E-BCB4BC7F3CAF",
+    "do_objectID": "01A494B9-A4E9-454B-84D5-FABB525C833A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "915B0EAC-FE20-4542-8B13-8F6D7F960821",
+    "do_objectID": "A4046928-B09A-44CB-A31F-05A8749963AB",
     "height": 40,
     "width": 300,
-    "x": 31,
-    "y": 358
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -81,7 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BAA64D85-35FE-45D9-8D3F-1F61EEB60D8E",
+  "sharedStyleID": "D246D40E-D37D-4897-815B-16D85A4E3B0E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,17 +91,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.5725490196078431,
-          "red": 0.5372549019607843
+          "blue": 0.03529411764705881,
+          "green": 0.0901960784313725,
+          "red": 0.807843137254902
         },
         "fillType": 0,
         "isEnabled": true,
-        "position": 2,
+        "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "FE501653-4D49-45F7-850E-776F8FA2BF9D",
+    "do_objectID": "3489EBC0-A004-454A-8197-5513A954A934",
     "endMarkerType": 0,
     "fills": [
       {
@@ -109,9 +109,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9607843137254902,
-          "green": 0.9568627450980391,
-          "red": 0.9529411764705882
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

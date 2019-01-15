@@ -27,20 +27,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 21,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Validated Field State"
+    "string": "Error State with value "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DBDEEDD4-95F9-4677-96B0-194A9DF58E1E",
+  "do_objectID": "AF13AE1F-EABE-49D6-9ADE-48B16A769513",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5443BD39-9043-409D-A463-305C0B0327AA",
+    "do_objectID": "2D6FCFF8-4171-4F67-95F1-2889AE516117",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A30F6EE4-25FA-46C8-BB07-79E341C88E6B",
+    "do_objectID": "0BE51DEF-8BFC-4B9D-B2E0-7F9CF9439556",
     "height": 15,
-    "width": 116,
-    "x": 390,
-    "y": 538
+    "width": 179,
+    "x": 31,
+    "y": 387
   },
-  "glyphBounds": "{{0, 2}, {116, 11}}",
+  "glyphBounds": "{{1, 2}, {120, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Validated Field Stat",
+  "name": "Error State with val",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,13 +83,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "21F4F74B-CE0A-4029-A7B5-0AD5D7204F59",
+    "do_objectID": "8B5FC131-61C5-453C-8153-7142D51655A8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B5496929-9143-48D7-8070-76A91146DF6B",
+      "do_objectID": "49936BBB-5CCD-47B1-9959-3BD4D53957FA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -116,7 +116,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

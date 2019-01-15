@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
-  "do_objectID": "50750FD1-4BF1-4762-90C5-A1241AD41ACF",
+  "do_objectID": "531CC379-C36F-460A-9A79-46A2494D8F5C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 2902,
+    "height": 40,
+    "width": 300,
+    "x": 13050,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,18 +46,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "DCB55FFD-432C-4233-80F7-E4AFFE29F23D"
+      "id": "B73E9CAE-C932-4AF6-8BF0-2996963759FE"
     },
     {
-      "class": "shapePath",
-      "id": "9B1CD555-BC7D-4017-9CDA-43F01192DB64"
+      "class": "text",
+      "id": "621FB7DF-1684-493B-82C6-2F8C392B5E21"
     }
   ],
-  "name": "DNA / Icons / Arrow / Default / Down / Medium",
+  "name": "Atoms / input text / normal with placeholder",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C85F974D-083F-4D9C-B77B-2AA5AE4FB2CA",
+  "symbolID": "5B23E77E-655C-4CC7-8EDA-6C49833510A1",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

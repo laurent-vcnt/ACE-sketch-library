@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "BAA64D85-35FE-45D9-8D3F-1F61EEB60D8E",
-  "name": "Input - Regular",
+  "do_objectID": "6E170710-EA94-48E0-910E-BA6957F16F3C",
+  "name": "atoms / input text / container / Disabled",
   "value": {
     "_class": "style",
     "borders": [
@@ -10,9 +10,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8274509803921568,
-          "green": 0.792156862745098,
-          "red": 0.7568627450980392
+          "blue": 0.6,
+          "green": 0.5725490196078431,
+          "red": 0.5372549019607843
         },
         "fillType": 0,
         "isEnabled": true,
@@ -27,9 +27,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.8823529411764706,
+          "green": 0.8509803921568627,
+          "red": 0.8274509803921568
         },
         "fillType": 0,
         "isEnabled": true,
@@ -55,7 +55,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 1,
         "spread": 0

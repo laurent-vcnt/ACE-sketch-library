@@ -27,11 +27,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 22,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Hover and Active State"
+    "string": "Normal State with value"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "AD0AC3BA-160D-4C05-9C2A-1E44CFD96828",
     "height": 15,
-    "width": 129,
-    "x": 391,
-    "y": 137
+    "width": 179,
+    "x": 31,
+    "y": 221
   },
-  "glyphBounds": "{{1, 2}, {128, 11}}",
+  "glyphBounds": "{{1, 2}, {134, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Hover and Active Sta",
+  "name": "Normal State with va",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -116,7 +116,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

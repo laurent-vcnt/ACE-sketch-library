@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Type something here"
+    "string": "Placeholder here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "F981506F-F60B-4264-85CF-F10C91FC9F5A",
     "height": 16,
-    "width": 130,
-    "x": 43,
-    "y": 184
+    "width": 105,
+    "x": 12,
+    "y": 12
   },
-  "glyphBounds": "{{0, 2}, {130, 14}}",
+  "glyphBounds": "{{1, 2}, {103, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,11 +64,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Type something here",
+  "name": "Placeholder here",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "B302AD42-A542-4BE7-BD73-4C57365D8DAF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +79,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "89936474-D4CC-4C4E-BF16-8DC67BF553FE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
