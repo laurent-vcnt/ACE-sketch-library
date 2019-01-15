@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 10,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Input text"
+    "string": "Input text test"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 31,
     "y": 29
   },
-  "glyphBounds": "{{3, 7}, {119, 26}}",
+  "glyphBounds": "{{3, 7}, {174, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Input text",
+  "name": "Input text test",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
