@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2335,
+  "clippingMaskMode": 0,
+  "do_objectID": "C178C157-F277-4F45-BF87-27AD9397D01B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 8702,
+    "y": 264
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "913AFADC-2639-4D2A-B865-0B8A6BBAA9D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "23200F6D-C68D-4580-A7D2-A42D98C3237A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55037D4F-3E5B-4A3E-9557-679D3E8A455A"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFB75904-8B56-430A-BFD6-681CBC7FB99D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B85E216B-E9F2-4C88-A993-0DF656B088E0"
+    }
+  ],
+  "name": "DNA / Icons / Person / Crossmark / Medium",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5B70CD0-ABB1-4DE3-9355-6A3CB1066568",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
