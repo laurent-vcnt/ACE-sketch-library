@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18DAB962-A435-4DA5-9850-8F1229FFB972",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB104A43-5B14-49CB-B0EA-9A21209129A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6996A8D6-0C19-4C97-B745-A1BAEF107939",
+    "height": 44,
+    "width": 298,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / dropdown / list / item / normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4037E58F-9EC8-4D6A-AAF4-7BE5B3ADB9A7",
+      "overrideName": "71B83D93-09E9-4268-B85A-648BDB51FFD5_stringValue",
+      "value": "Normal entry B hovered"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1F59E1D-9297-4F8F-986F-502145739C44",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37C35D2D-EC48-49C4-9674-1DC2BBA07572",
+  "verticalSpacing": 0
+}

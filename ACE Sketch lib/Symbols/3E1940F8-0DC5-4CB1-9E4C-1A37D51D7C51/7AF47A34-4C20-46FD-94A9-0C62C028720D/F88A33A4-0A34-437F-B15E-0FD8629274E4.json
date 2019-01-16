@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F88A33A4-0A34-437F-B15E-0FD8629274E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3505FBA0-14CE-48EF-87B1-A70DA1F8EEF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "591B7A8E-8F7F-4B77-BD8D-121F938754A3",
+    "height": 44,
+    "width": 298,
+    "x": 0,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / dropdown / list / item / normal Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52B3C40A-981F-4D2B-9AB1-FE22511B4BD8",
+      "overrideName": "C25EA2DE-7512-4AE2-82FD-9A442F09653C_stringValue",
+      "value": "Disabled entry D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B054EE75-C02D-4BEE-B280-473355D73463",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9E1AA6A-442C-4BA3-99E1-379DEE1AA232",
+  "verticalSpacing": 0
+}
