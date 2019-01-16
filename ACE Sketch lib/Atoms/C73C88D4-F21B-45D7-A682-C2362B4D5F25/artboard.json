@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F1625E0D-029C-4830-B9F4-C0F7E42F5A89",
-    "height": 3300,
+    "height": 4819,
     "width": 1600,
     "x": 3298,
     "y": -74
@@ -66,7 +66,15 @@
     },
     {
       "class": "text",
+      "id": "EC3004A1-2B10-4C27-946B-FEC119D066C4"
+    },
+    {
+      "class": "text",
       "id": "46D68848-1A1D-400F-BB28-7C33B5BE8ED6"
+    },
+    {
+      "class": "text",
+      "id": "ED51670A-95A0-41A6-BAE7-68F04E382332"
     },
     {
       "class": "text",
@@ -331,6 +339,18 @@
     {
       "class": "text",
       "id": "20ABBBB9-78B4-4210-8E3B-831E1E02ADF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31CAF662-51D1-4A0A-9327-4C9C58BFD911"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E3D3FAB-DE9E-4EB5-877C-DC9D22B48DE0"
+    },
+    {
+      "class": "text",
+      "id": "EDC3BE6C-495C-4E02-A9AD-3B873E99E738"
     }
   ],
   "name": "Inputs",

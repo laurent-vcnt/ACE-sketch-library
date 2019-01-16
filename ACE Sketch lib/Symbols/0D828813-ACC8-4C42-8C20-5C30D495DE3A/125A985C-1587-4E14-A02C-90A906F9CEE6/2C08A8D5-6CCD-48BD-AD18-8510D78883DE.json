@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18DAB962-A435-4DA5-9850-8F1229FFB972",
+  "do_objectID": "2C08A8D5-6CCD-48BD-AD18-8510D78883DE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DB104A43-5B14-49CB-B0EA-9A21209129A6",
+    "do_objectID": "5E5FBEF4-A5D7-4402-B567-639BDE475256",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6996A8D6-0C19-4C97-B745-A1BAEF107939",
+    "do_objectID": "05890498-5ED8-4950-9FEB-24437E514D7D",
     "height": 44,
     "width": 298,
     "x": 0,
-    "y": 44
+    "y": 132
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Atoms / dropdown / list / item / normal Copy",
+  "name": "Atoms / dropdown / list / item / normal Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4037E58F-9EC8-4D6A-AAF4-7BE5B3ADB9A7",
-      "overrideName": "71B83D93-09E9-4268-B85A-648BDB51FFD5_stringValue",
-      "value": "Hovered Entry B"
+      "do_objectID": "9445E133-DC02-40DA-AB6D-7977622BAF34",
+      "overrideName": "A399BD97-22FF-4A1D-AAD5-F2A76D95D941_stringValue",
+      "value": "Normal entry D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A41FDED1-E539-4492-B2E0-EC1C70C35FB5",
+      "overrideName": "0A665BDC-605B-4E3B-93ED-E58DDDD59EFB_symbolID",
+      "value": "ADC825C6-E249-4005-A68E-FDC13B8A1166"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1F59E1D-9297-4F8F-986F-502145739C44",
+    "do_objectID": "211476DF-0C0B-4DE4-896E-EF13D3A023BB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "37C35D2D-EC48-49C4-9674-1DC2BBA07572",
+  "symbolID": "C2364F35-6874-46E1-9BC0-6980972F2E34",
   "verticalSpacing": 0
 }

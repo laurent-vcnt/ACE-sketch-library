@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3DF1DE2-716F-43FB-9B75-852BB79DE0D7",
+  "do_objectID": "AEE79418-FC3C-4CDE-B7EC-2E6F981E7BDC",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3D5733E4-6A89-4B13-AEE4-4131F0187E27",
+    "do_objectID": "33ED9DED-7DA7-4877-B34D-4CCAF58E2AC8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,7 +18,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8868DFCE-4C86-4981-990A-3A5D4D10F3D7",
+    "do_objectID": "D592D570-7A07-4420-9308-C2C50BD8141F",
     "height": 44,
     "width": 300,
     "x": 0,
@@ -100,7 +100,13 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "DDB1DF46-BBAF-4ABA-A96E-FC86606226D6",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F065CBA5-8754-40C5-AC54-5B971D663334",
+      "opacity": 0
+    },
+    "do_objectID": "B9EF8218-080B-42D3-BE92-DFFD6492E85E",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +114,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9176470588235294,
-          "green": 0.9176470588235294,
-          "red": 0.9176470588235294
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

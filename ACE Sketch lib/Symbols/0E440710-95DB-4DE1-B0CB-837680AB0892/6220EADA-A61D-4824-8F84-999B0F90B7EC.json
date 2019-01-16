@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18DAB962-A435-4DA5-9850-8F1229FFB972",
+  "do_objectID": "6220EADA-A61D-4824-8F84-999B0F90B7EC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DB104A43-5B14-49CB-B0EA-9A21209129A6",
+    "do_objectID": "3FC04BF1-9778-4E0E-9799-57F6F18924ED",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6996A8D6-0C19-4C97-B745-A1BAEF107939",
-    "height": 44,
-    "width": 298,
-    "x": 0,
-    "y": 44
+    "do_objectID": "BF8637FF-2ED7-4189-A0E4-CBC2A4B602A8",
+    "height": 20,
+    "width": 86,
+    "x": 12,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Atoms / dropdown / list / item / normal Copy",
+  "name": "Atoms / checkbox / Not checked / Normal",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "4037E58F-9EC8-4D6A-AAF4-7BE5B3ADB9A7",
-      "overrideName": "71B83D93-09E9-4268-B85A-648BDB51FFD5_stringValue",
-      "value": "Hovered Entry B"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1F59E1D-9297-4F8F-986F-502145739C44",
+    "do_objectID": "8A01D4BC-0FFF-486C-8D0D-BD96BBD8A45B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "37C35D2D-EC48-49C4-9674-1DC2BBA07572",
+  "symbolID": "78E31C30-EF1D-4473-A940-A024B08D5BA2",
   "verticalSpacing": 0
 }
