@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "BF53509C-70F6-4EDC-AB31-A7B843307EDB",
+  "do_objectID": "614ED211-2973-4020-864D-A686248856FC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1600,
-    "x": -298,
-    "y": -74
+    "height": 305,
+    "width": 300,
+    "x": 13848,
+    "y": 1332
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,27 +49,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C0E76B09-158F-4AA9-9B1B-3A4CEBA824BD"
+      "class": "symbolInstance",
+      "id": "793C5FCB-6DE6-4D26-BF0A-C55016FA3591"
     },
     {
-      "class": "group",
-      "id": "8ACA636D-8386-43A3-9DDC-C1DA0CA9E7D1"
-    },
-    {
-      "class": "group",
-      "id": "541A3C69-74BB-4257-A30A-35C4277830C5"
+      "class": "symbolInstance",
+      "id": "B04215D6-4251-42FC-ABC9-E505B9F46DB0"
     }
   ],
-  "name": "Buttons",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD 1600",
-    "offersLandscapeVariant": 0,
-    "width": 1600
-  },
+  "name": "Atoms / Datepicker / Opened",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "80968896-F928-4876-A728-8B9B2A46B1BD",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

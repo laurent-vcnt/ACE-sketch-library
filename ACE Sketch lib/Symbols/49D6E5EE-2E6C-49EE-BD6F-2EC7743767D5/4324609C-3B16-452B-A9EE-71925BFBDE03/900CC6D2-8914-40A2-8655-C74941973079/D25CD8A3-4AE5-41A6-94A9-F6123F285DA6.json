@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D25CD8A3-4AE5-41A6-94A9-F6123F285DA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BA123B6-C2C5-4813-A752-0B0D4756BE30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E19F5F21-522C-481E-B822-8F9C65251EA0",
+    "height": 25,
+    "width": 30,
+    "x": 60,
+    "y": 78
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / datepicker / calendar items / Day / Normal Copy 21",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19F3C44B-50D6-409D-98BD-EF97DD9CA825",
+      "overrideName": "696F497E-2474-4CB2-8D23-1587F73A91EC_stringValue",
+      "value": "23"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28F7AE1C-CD64-49EF-9CDD-25A7A1DBFB56",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "822C922B-A193-4BAC-AF1A-35532571C29A",
+  "verticalSpacing": 0
+}

@@ -1,17 +1,20 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "FABD6AC2-46EC-40D7-A2FF-D0E19D0BDEF5",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 122,
   "clippingMaskMode": 0,
-  "do_objectID": "BF53509C-70F6-4EDC-AB31-A7B843307EDB",
+  "do_objectID": "97CEC9B7-E8BA-4622-9F9C-269096904E08",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D80F3326-AC6D-4C4C-96B0-38CB1174A353",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1600,
-    "x": -298,
-    "y": -74
+    "do_objectID": "329F5542-A06F-4163-A484-96166A783B0C",
+    "height": 120,
+    "width": 360,
+    "x": 16471,
+    "y": 170
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -33,10 +37,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "7FACA0F7-00AC-4B64-BF66-A0B755C0198B",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,27 +53,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C0E76B09-158F-4AA9-9B1B-3A4CEBA824BD"
+      "class": "rectangle",
+      "id": "0BE99633-47D0-4D4C-BF57-808F5D167390"
+    },
+    {
+      "class": "rectangle",
+      "id": "3D5C180C-63C6-40B5-A470-D27DF23F7348"
+    },
+    {
+      "class": "text",
+      "id": "3658AAD2-D119-438F-9D9B-50D0A46FA911"
     },
     {
       "class": "group",
-      "id": "8ACA636D-8386-43A3-9DDC-C1DA0CA9E7D1"
-    },
-    {
-      "class": "group",
-      "id": "541A3C69-74BB-4257-A30A-35C4277830C5"
+      "id": "BF555FCC-BC9D-4DFB-A50B-5DEFB1CCC04A"
     }
   ],
-  "name": "Buttons",
+  "name": "Atoms / Textarea / Disabled",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD 1600",
-    "offersLandscapeVariant": 0,
-    "width": 1600
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,14 +78,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "1D3103DD-2821-4F44-9BDB-6891FA2FD160",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "CE2E4CF8-2D84-402D-8C12-9FAD5DDB5743",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "1C6A4E95-780F-4344-A0D2-579019FDDFE5",
     "guides": [
     ]
   }

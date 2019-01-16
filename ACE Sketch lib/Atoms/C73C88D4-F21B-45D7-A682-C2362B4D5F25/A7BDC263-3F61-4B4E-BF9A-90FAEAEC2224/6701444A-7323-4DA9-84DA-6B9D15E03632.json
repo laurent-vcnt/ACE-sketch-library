@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6701444A-7323-4DA9-84DA-6B9D15E03632",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DC073DB-61FB-4683-8A84-C0DAC03AAB09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A20EB5E8-AFFB-42D0-AAC5-952422601474",
+    "height": 120,
+    "width": 360,
+    "x": 300,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / Textarea / Normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FB8EDBC-EC3E-47F2-B137-6FFE234EC8FF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3744B4F-4E8C-42DC-B282-0443CE53CD41",
+  "verticalSpacing": 0
+}

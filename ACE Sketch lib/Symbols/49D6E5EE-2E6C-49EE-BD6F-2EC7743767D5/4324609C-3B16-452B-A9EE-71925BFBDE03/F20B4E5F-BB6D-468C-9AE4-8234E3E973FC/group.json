@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F20B4E5F-BB6D-468C-9AE4-8234E3E973FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3571E25B-41C7-4FD4-9E35-6DB32538EAC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "066C5705-8E03-4B1A-AEA1-4906533B267A",
+    "height": 25,
+    "width": 210,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2A9E2546-12A6-4EF8-BB0D-61E450D93FED"
+    },
+    {
+      "class": "rectangle",
+      "id": "A69780B7-5E9B-4FA0-ABC7-BFB574BDC6C6"
+    },
+    {
+      "class": "rectangle",
+      "id": "E6667EAD-83D9-4C24-A185-9C340C38CA39"
+    },
+    {
+      "class": "rectangle",
+      "id": "46FEFFBA-80E2-4303-95BC-DD854353215D"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8619EC2-38E7-4899-8D00-626D87AB80EA"
+    },
+    {
+      "class": "rectangle",
+      "id": "7A8BD35B-6BB5-453D-8D9A-7C86365B4E63"
+    },
+    {
+      "class": "rectangle",
+      "id": "535AAA90-90AF-4FA1-8AD3-99F2D10A9B54"
+    },
+    {
+      "class": "text",
+      "id": "FAC905C4-0DC0-4797-BE96-ACA536C43CB2"
+    },
+    {
+      "class": "text",
+      "id": "F9FE1ED0-97F2-48CF-8D63-3B709E099D92"
+    },
+    {
+      "class": "text",
+      "id": "0EABF74D-87FB-4C2C-AE42-56186FA7B722"
+    },
+    {
+      "class": "text",
+      "id": "4A4ECD5A-F0A0-400F-AEBB-B24BD4A4C13A"
+    },
+    {
+      "class": "text",
+      "id": "6EB2B73A-4505-460D-B20D-382C16D6065D"
+    },
+    {
+      "class": "text",
+      "id": "68CB128B-4598-4406-BB02-1361F22E7537"
+    },
+    {
+      "class": "text",
+      "id": "7A6A102A-2B11-4D35-B1F0-75956D3020CD"
+    }
+  ],
+  "name": "Days heading row",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3DB0057-0FDA-4F03-8EC1-7BC84A554FC9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

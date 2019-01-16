@@ -1,17 +1,20 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "9BA5D9A6-EA95-4057-A60C-61285BD16507",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 840,
   "clippingMaskMode": 0,
-  "do_objectID": "BF53509C-70F6-4EDC-AB31-A7B843307EDB",
+  "do_objectID": "759C73F1-E0BB-428C-9228-82F462808DDE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "82A6B3F4-3DB5-40E8-8813-4D1E99F6566A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1600,
-    "x": -298,
-    "y": -74
+    "do_objectID": "DEA18F8C-193E-4DEE-96FE-EBDB08877EC6",
+    "height": 265,
+    "width": 298,
+    "x": 14514,
+    "y": 624
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -33,10 +37,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "A8B9D3A1-1DA3-457D-B2BF-84AB0E15F89C",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,30 +50,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C0E76B09-158F-4AA9-9B1B-3A4CEBA824BD"
+      "class": "rectangle",
+      "id": "AB24B1F1-07A8-44AB-BACF-6BE9FA25C372"
     },
     {
-      "class": "group",
-      "id": "8ACA636D-8386-43A3-9DDC-C1DA0CA9E7D1"
+      "class": "rectangle",
+      "id": "6B11BC2C-189A-4460-BF9E-D233D16A3F87"
     },
     {
-      "class": "group",
-      "id": "541A3C69-74BB-4257-A30A-35C4277830C5"
+      "class": "symbolInstance",
+      "id": "E8EEEE20-1488-45E3-9F8F-1B00D3EA6CED"
     }
   ],
-  "name": "Buttons",
+  "name": "Atoms / datepicker / calendar container",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD 1600",
-    "offersLandscapeVariant": 0,
-    "width": 1600
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,14 +74,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "DC99260C-8988-4580-A06A-F477EA978397",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "6768F2C9-76BE-47A2-8762-131165050378",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "7FE10A47-D1E7-4599-A443-12DD8516B943",
     "guides": [
     ]
   }

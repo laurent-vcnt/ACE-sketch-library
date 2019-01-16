@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 1773,
   "clippingMaskMode": 0,
-  "do_objectID": "BF53509C-70F6-4EDC-AB31-A7B843307EDB",
+  "do_objectID": "49D6E5EE-2E6C-49EE-BD6F-2EC7743767D5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1600,
-    "x": -298,
-    "y": -74
+    "height": 211,
+    "width": 240,
+    "x": 15518,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,30 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "C0E76B09-158F-4AA9-9B1B-3A4CEBA824BD"
-    },
-    {
-      "class": "group",
-      "id": "8ACA636D-8386-43A3-9DDC-C1DA0CA9E7D1"
-    },
-    {
-      "class": "group",
-      "id": "541A3C69-74BB-4257-A30A-35C4277830C5"
+      "id": "4324609C-3B16-452B-A9EE-71925BFBDE03"
     }
   ],
-  "name": "Buttons",
+  "name": "Atoms / datepicker / Calendar items / Calendar",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD 1600",
-    "offersLandscapeVariant": 0,
-    "width": 1600
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,6 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "D13CB0AD-3571-437F-B442-0D453F744860",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

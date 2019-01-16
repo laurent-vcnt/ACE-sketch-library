@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "793C5FCB-6DE6-4D26-BF0A-C55016FA3591",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE3FB1AB-07E5-4005-9E13-66175C344BA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C914DDDE-E83E-4C6A-83E5-15743C68BC38",
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / dropdown with embed icon / normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE7F1713-450C-417C-BB70-B96378ADB834",
+      "overrideName": "24017B93-AB9F-4B49-8E20-E44459F80873_stringValue",
+      "value": "2019-01-11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "431D5B47-24BB-4E2B-BF46-3710B7017637",
+      "overrideName": "24017B93-AB9F-4B49-8E20-E44459F80873_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92A66DDD-E38E-46FB-B1F9-321E859F18B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7FFF1D6-D11E-4293-9CBB-53D60BDDE4C9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "077438AF-5CEE-486C-BF4A-C77C9988A3A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4B39BD4-0CBB-41D9-8469-AD44E5A0AC86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DABFDF9-451D-4BE4-B8EA-E08361E7D024",
+    "height": 20,
+    "width": 86,
+    "x": 300,
+    "y": 321
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / checkbox / checked Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40D91C5A-1EFA-48F5-8EA3-B9EEA5AEB155",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B3FBBE3-0E13-4EEC-AFB1-22C2C6131F1F",
+  "verticalSpacing": 0
+}
