@@ -17,30 +17,30 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Light",
-              "size": 28
+              "size": 13
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 19,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Checkbox with label"
+    "string": "Disabled ON State"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "402020B9-A13D-44A3-9AFC-5DCA049D559A",
+  "do_objectID": "D2E7D862-8449-4DD5-B741-4316EDC0AE6E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1737858B-FD7A-415F-9068-D2CAFBB45004",
+    "do_objectID": "1A09E269-9A08-48A5-AF04-5C3CA8263E47",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "552AF959-3EA0-41C0-AAF9-5768C3DF7DD1",
-    "height": 36,
-    "width": 781,
+    "do_objectID": "18D1E5D2-6676-4AEB-982F-61EB6D5D690F",
+    "height": 15,
+    "width": 179,
     "x": 0,
-    "y": 0
+    "y": 209
   },
-  "glyphBounds": "{{1, 7}, {241, 22}}",
+  "glyphBounds": "{{1, 2}, {102, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,22 +74,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Checkbox with label",
+  "lineSpacingBehaviour": 1,
+  "name": "Disabled ON State Copy",
   "nameIsFixed": false,
-  "resizingConstraint": 43,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EBC4FF8A-DFAA-4E50-AB0C-62E21D4EE033",
+    "do_objectID": "83EC1162-22A5-44A5-A23D-1BCAB9E30946",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C1BD3F84-8A3E-4E7C-A757-5DD5E0100C0C",
+      "do_objectID": "2A5ABBE6-3587-42FB-9D09-307C4751AEA7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -102,21 +102,21 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Light",
-            "size": 28
+            "size": 13
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

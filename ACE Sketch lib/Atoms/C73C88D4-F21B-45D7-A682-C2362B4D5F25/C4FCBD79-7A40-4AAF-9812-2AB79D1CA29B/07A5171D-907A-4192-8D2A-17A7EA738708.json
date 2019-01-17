@@ -16,29 +16,31 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 14
+              "name": "Roboto-Light",
+              "size": 13
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0
-          }
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 6,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Normal"
+    "string": "Disabled ON State"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "ED69A92B-C0E3-4CEC-95A4-43FDBCBD6765",
+  "do_objectID": "07A5171D-907A-4192-8D2A-17A7EA738708",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2A520D9A-D0D3-4312-9501-EE05EFE40AD4",
+    "do_objectID": "B26BF285-1ACF-4ED5-8189-683374ED06A9",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -58,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5ACAAE07-75BA-4916-9845-AC4E44019DE2",
-    "height": 16,
-    "width": 120,
-    "x": 331,
-    "y": 4434
+    "do_objectID": "985386A1-7E98-4C77-817E-0AABADF026D6",
+    "height": 15,
+    "width": 179,
+    "x": 0,
+    "y": 209
   },
-  "glyphBounds": "{{1, 2}, {44, 12}}",
+  "glyphBounds": "{{1, 2}, {102, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,21 +75,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Normal Copy",
+  "name": "Disabled ON State",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6016068C-06EB-4A59-98FC-0A86D48C40FA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "536CEAC4-E6A8-4DDE-B577-81726512FF4E",
+    "do_objectID": "366AEF1F-AC05-4336-85E5-5059295A7ED9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "CFD1437C-9AE6-4E11-B458-7016B0CCC447",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -99,14 +101,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 14
+            "name": "Roboto-Light",
+            "size": 13
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0
-        }
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },

@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3450980392156863,
-            "green": 0.3450980392156863,
-            "red": 0.3450980392156863
+            "blue": 0.2666666666666667,
+            "green": 0.2666666666666667,
+            "red": 0.2666666666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "FiraSans-Light",
               "size": 28
             }
           },
@@ -27,20 +27,20 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 19,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Checkbox with label"
+    "string": "Toggle with label (basic)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "402020B9-A13D-44A3-9AFC-5DCA049D559A",
+  "do_objectID": "32E838F7-88AB-4EA5-B837-89D2B54A4D82",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1737858B-FD7A-415F-9068-D2CAFBB45004",
+    "do_objectID": "C0E70BDE-0645-489A-964F-DF6A44D3B05F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "552AF959-3EA0-41C0-AAF9-5768C3DF7DD1",
+    "do_objectID": "55341DAE-9F4A-4CE7-BBCF-9013F8E21F06",
     "height": 36,
-    "width": 781,
+    "width": 601,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 7}, {241, 22}}",
+  "glyphBounds": "{{0, 3}, {302, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Checkbox with label",
+  "name": "Toggle with label (b",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
@@ -83,25 +83,25 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EBC4FF8A-DFAA-4E50-AB0C-62E21D4EE033",
+    "do_objectID": "D140B93E-2E66-4D06-B69F-A7BE7FF9E56A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C1BD3F84-8A3E-4E7C-A757-5DD5E0100C0C",
+      "do_objectID": "5E710602-13D9-46FA-A1CF-0219E4401DFA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3450980392156863,
-          "red": 0.3450980392156863
+          "blue": 0.2666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.2666666666666667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "FiraSans-Light",
             "size": 28
           }
         },
