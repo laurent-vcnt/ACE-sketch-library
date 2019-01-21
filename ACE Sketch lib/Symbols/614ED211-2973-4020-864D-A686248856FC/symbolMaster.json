@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 14,
   "clippingMaskMode": 0,
   "do_objectID": "614ED211-2973-4020-864D-A686248856FC",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 365
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "B04215D6-4251-42FC-ABC9-E505B9F46DB0"
     }
   ],
-  "name": "Atoms / Datepicker / Opened",
-  "nameIsFixed": false,
+  "name": "Atoms / datepicker / Opened",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
