@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77AA4AE2-5CBF-425E-A5CE-C9E1447B4413",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86D78E78-A508-44F3-8E85-899806BBFD8E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "38CC7FFA-B473-4C30-89B0-03D13D304108",
+    "height": 20,
+    "width": 170,
+    "x": 300,
+    "y": 211
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / Toggle with label / Disabled / ON",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43B7FCB9-E41E-4351-91D4-152E4A51875D",
+      "overrideName": "4B3BA7F7-72FD-4198-8412-363FBAF3CB55/ED69A92B-C0E3-4CEC-95A4-43FDBCBD6765_stringValue",
+      "value": "Email notifications"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8429CBAF-1EA2-46AD-9670-CF52CD82A29A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5695F0BE-D47C-45C6-B2DB-3AF940331EC9",
+  "verticalSpacing": 0
+}

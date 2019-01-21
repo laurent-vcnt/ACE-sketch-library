@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70FAD8F6-B24D-4622-9599-3FEFDEDCF92D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A177192-D9FD-4B49-981F-43B04F8C365E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B115FDE-50DC-4B30-986B-46959AE7A33C",
+    "height": 44,
+    "width": 298,
+    "x": 0,
+    "y": 220
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / combobox / list / item / disabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AD9EFF1-3335-461D-ACAF-E21E375B4BB7",
+      "overrideName": "8F6570AC-5A57-4E41-B3FE-5AC10DC0175E_stringValue",
+      "value": "Disabled entry F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7786A8EB-CE9F-46B6-8402-03A9DD280FFA",
+      "overrideName": "26951547-7DDA-418E-8355-62F7F62EF509/CF075BFC-372E-4AA9-9D42-6087CD0E0C5D_stringValue",
+      "value": "Disabled entry"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF402F18-0F1E-4DC5-961E-CCA5F85972B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4699912E-D73B-4A31-9C10-217D840F172F",
+  "verticalSpacing": 0
+}

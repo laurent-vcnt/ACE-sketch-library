@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 5421,
+  "clippingMaskMode": 0,
+  "do_objectID": "68242D46-DDFE-490B-81ED-161B5AEC2AE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 16220,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      16
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B50F6DF4-5D2D-4403-BC18-2EE8C9D33A52"
+    },
+    {
+      "class": "group",
+      "id": "52D22D95-1620-4E13-B3DD-6B73D1743191"
+    },
+    {
+      "class": "rectangle",
+      "id": "A73165CC-EFD4-4806-8913-531DE8C7B562"
+    },
+    {
+      "class": "rectangle",
+      "id": "FB1931AE-2EA2-4EF4-811E-040FD482ABC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "629ABF3C-503A-42B3-A2B8-F1048A327C31"
+    }
+  ],
+  "name": "DNA / Icons / In progress / Medium",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9D538B1-739E-4F69-9D9B-7174BA003CA3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      16
+    ]
+  }
+}

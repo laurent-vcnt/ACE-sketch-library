@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B953D4C-B14A-4D84-8AF9-0D7F89ED2C85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A657D963-22F0-4541-BAE3-24192DBE8031",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "205BC080-7DEA-42B2-B5C8-50D0C08F9BB4",
+    "height": 16,
+    "width": 114,
+    "x": 300,
+    "y": 153
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / Input label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DA3C703-07AB-4B71-B83E-F790E90D44F5",
+      "overrideName": "ED69A92B-C0E3-4CEC-95A4-43FDBCBD6765_textStyle",
+      "value": "BAFCBF04-257B-4D47-B0F2-BDEAAEF50F95"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "410E6CEC-1B1F-46E7-AA28-F932A5659991",
+      "overrideName": "ED69A92B-C0E3-4CEC-95A4-43FDBCBD6765_stringValue",
+      "value": "Hover-Active input label"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4BCF84B8-6781-4133-8389-E36CA5654829",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C8B27AE-D58E-4361-BA9D-5C4F9033130E",
+  "verticalSpacing": 0
+}

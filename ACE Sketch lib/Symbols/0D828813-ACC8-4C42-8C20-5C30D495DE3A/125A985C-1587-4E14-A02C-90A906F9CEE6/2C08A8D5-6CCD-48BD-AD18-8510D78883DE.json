@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C08A8D5-6CCD-48BD-AD18-8510D78883DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E5FBEF4-A5D7-4402-B567-639BDE475256",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05890498-5ED8-4950-9FEB-24437E514D7D",
+    "height": 44,
+    "width": 298,
+    "x": 0,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / combobox / list / item / normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9445E133-DC02-40DA-AB6D-7977622BAF34",
+      "overrideName": "A399BD97-22FF-4A1D-AAD5-F2A76D95D941_stringValue",
+      "value": "Normal entry D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A41FDED1-E539-4492-B2E0-EC1C70C35FB5",
+      "overrideName": "0A665BDC-605B-4E3B-93ED-E58DDDD59EFB_symbolID",
+      "value": "ADC825C6-E249-4005-A68E-FDC13B8A1166"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "211476DF-0C0B-4DE4-896E-EF13D3A023BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2364F35-6874-46E1-9BC0-6980972F2E34",
+  "verticalSpacing": 0
+}

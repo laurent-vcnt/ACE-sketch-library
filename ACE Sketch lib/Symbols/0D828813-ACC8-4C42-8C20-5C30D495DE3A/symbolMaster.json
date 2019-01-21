@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ADA2EA6A-89B6-49D9-98A2-4FA680B67F1C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 706,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D828813-ACC8-4C42-8C20-5C30D495DE3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C36EEED-684E-4C11-AD63-BD89F9A4E53F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C12423F0-E975-472D-8169-4C4DCCF4611F",
+    "height": 264,
+    "width": 298,
+    "x": 2565,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A3225BE2-2308-4470-AD1D-E5DEC03DE906",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "125A985C-1587-4E14-A02C-90A906F9CEE6"
+    }
+  ],
+  "name": "Atoms / combobox / list",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2743760E-9F00-4041-AFE6-D0DE8E934CE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "068957FF-08EE-4151-B3B6-378C829C6490",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FED4DAAB-1B73-4E1B-BCDC-66A1D94DE894",
+    "guides": [
+    ]
+  }
+}
