@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 25,
   "clippingMaskMode": 0,
   "do_objectID": "7BCF00EF-DF02-45DD-BCB1-E30E3419304E",
   "exportOptions": {
@@ -25,11 +25,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 5222,
+    "x": 14596,
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "B2DE964B-7581-40DF-91FE-49B9E9654BC8"
     }
   ],
-  "name": "DNA / Icons / Download / Medium",
-  "nameIsFixed": false,
+  "name": "DNA / Icons / Download / Default / Medium",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

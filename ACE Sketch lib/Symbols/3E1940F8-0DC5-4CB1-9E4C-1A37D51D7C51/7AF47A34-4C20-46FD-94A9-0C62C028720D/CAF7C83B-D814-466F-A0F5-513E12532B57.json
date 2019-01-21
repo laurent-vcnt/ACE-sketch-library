@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAF7C83B-D814-466F-A0F5-513E12532B57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "196CC438-046C-4146-BADA-6C9B82FDC7E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05FE4835-0A24-462E-A969-307DA45339ED",
+    "height": 44,
+    "width": 298,
+    "x": 0,
+    "y": 88
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / dropdown / list / item / normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A20E952-1C31-4686-B6C1-AA863A04200C",
+      "overrideName": "27D37018-6E7F-43A9-9597-B6FB2D8BBB94_stringValue",
+      "value": "Normal entry C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4957688-7624-4502-93C3-E16F3342835A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4109707A-25AD-4362-96DA-2DA0444EE6A6",
+  "verticalSpacing": 0
+}

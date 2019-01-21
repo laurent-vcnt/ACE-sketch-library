@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "582719E1-0C5C-4213-8B1C-6A85A3BEC386",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F3C3EB2-DC31-4DC6-B3C3-C3DB8CADC02C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5710AA0E-786B-4959-A184-8162C2B9F047",
+    "height": 44,
+    "width": 298,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / combobox / list / item / hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E238FF1-CD64-4298-BBEE-174856600C33",
+      "overrideName": "6220EADA-A61D-4824-8F84-999B0F90B7EC/9CABEEA8-410C-4108-8225-4A63DE65308D_stringValue",
+      "value": "Hovered Entry B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0F9E998-D3CC-472D-A499-3E22D169359A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "30351794-FB91-4194-8B75-BE37B5E23003",
+  "verticalSpacing": 0
+}

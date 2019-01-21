@@ -47,112 +47,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "85DC48C7-789E-4612-9D47-5AA151700AEC"
+      "class": "group",
+      "id": "C0E76B09-158F-4AA9-9B1B-3A4CEBA824BD"
     },
     {
-      "class": "text",
-      "id": "90625A29-4836-412D-91A5-D5D7AAAA7FC4"
+      "class": "group",
+      "id": "8ACA636D-8386-43A3-9DDC-C1DA0CA9E7D1"
     },
     {
-      "class": "text",
-      "id": "AD53CC37-0CCE-42CD-84B8-0874C0052639"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "66F36E42-93C8-44CF-B419-9F459C0C78A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E5DD489A-B69B-4307-BA6A-252A24CB6BED"
-    },
-    {
-      "class": "text",
-      "id": "AA4366DE-F974-4715-9AE7-51EED44178A4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4E4265F0-874B-4BF0-9C47-A4D9A8132480"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4338C1D5-5EC8-459C-92FA-E8244DC81521"
-    },
-    {
-      "class": "text",
-      "id": "5F5699DD-1D70-49CE-99FD-A9AE45F9C68D"
-    },
-    {
-      "class": "text",
-      "id": "AECB4134-7829-4EFB-8EFA-40430E80B8FF"
-    },
-    {
-      "class": "text",
-      "id": "C146F37E-5F05-4D07-9D05-3DCFC675F390"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FCE4861A-E8B9-4982-8464-9252E658F5D4"
-    },
-    {
-      "class": "text",
-      "id": "7513761F-00BE-4A35-9229-47B110C7EA92"
-    },
-    {
-      "class": "text",
-      "id": "0AE3117C-A848-4CAA-BBC1-E58F1F4578CE"
-    },
-    {
-      "class": "text",
-      "id": "5DC58E5F-F37B-42D9-9159-BE2E2F73B545"
-    },
-    {
-      "class": "text",
-      "id": "618224BB-5FDB-4841-A6D3-3966E1764984"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "173EB16D-C280-4850-B735-3CE43BFFD13A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "84CCD657-3DDB-4CB8-8CF8-9A4D9972307B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8D8C22B5-8F2E-4677-8AD7-C55D4336815A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B847B8EF-5132-4AC5-B0C7-B52B04165605"
-    },
-    {
-      "class": "text",
-      "id": "4F0A8299-679E-4089-8484-607B8E3E06DB"
-    },
-    {
-      "class": "text",
-      "id": "8905A527-9EB3-4642-9D3C-D772CE0DBC04"
-    },
-    {
-      "class": "text",
-      "id": "5FEC8EE3-131D-4CEC-BDFB-080A3ABAE893"
-    },
-    {
-      "class": "text",
-      "id": "7DB37FE0-4214-4559-9246-1B29DF83ED8C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "50E7D221-1E4D-4A3D-80FC-1EC44376DE16"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A00140B7-24E2-4C58-A9AB-8F3EBE89802C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A6087FB5-F290-4E05-944B-717B4FCE52E8"
+      "class": "group",
+      "id": "541A3C69-74BB-4257-A30A-35C4277830C5"
     }
   ],
   "name": "Buttons",

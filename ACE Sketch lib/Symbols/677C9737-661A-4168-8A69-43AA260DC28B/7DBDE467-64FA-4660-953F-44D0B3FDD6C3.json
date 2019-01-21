@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DBDE467-64FA-4660-953F-44D0B3FDD6C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CDDE938-A066-460C-A310-831D5C9B57EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A6C3657-A8AF-4378-96C3-962B330245EA",
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms / dropdown / opened",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCE87585-2A5F-443D-8AEC-1255342A33B1",
+      "overrideName": "B852A6FB-0A57-49D6-B5E4-7FE2037306E9_stringValue",
+      "value": "Label, label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1BE2F0C-2F1A-4714-B410-0EE8B3332C8C",
+      "overrideName": "B852A6FB-0A57-49D6-B5E4-7FE2037306E9_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "320B1B70-5954-48E9-BF9C-AB44BFC2011D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C811D15-54D4-41B0-92F5-325CB0231840",
+  "verticalSpacing": 0
+}

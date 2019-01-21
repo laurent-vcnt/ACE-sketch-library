@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4498,
+  "changeIdentifier": 4507,
   "clippingMaskMode": 0,
   "do_objectID": "5BCBB8EA-EE9A-4B7E-AEBC-81BA5B56110D",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "35F714BD-81EF-4AC2-A826-D6C9AD5F5FDD",
     "height": 32,
     "width": 32,
-    "x": 8702,
+    "x": 18076,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

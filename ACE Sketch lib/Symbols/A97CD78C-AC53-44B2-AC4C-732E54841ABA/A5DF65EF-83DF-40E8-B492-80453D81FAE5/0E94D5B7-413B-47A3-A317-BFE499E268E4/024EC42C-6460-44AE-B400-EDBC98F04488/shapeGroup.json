@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "024EC42C-6460-44AE-B400-EDBC98F04488",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4,
+    "width": 8.5,
+    "x": 1.75,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "20C2C521-5E3C-4AAA-A40F-68666790E48F"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC898ACB-EF04-4179-A077-DA131F9B69D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D9734BC-71F3-4EC1-9C56-B4A49E17679E"
+    },
+    {
+      "class": "shapePath",
+      "id": "4588B701-03BD-4210-B57D-223176BCF460"
+    },
+    {
+      "class": "shapePath",
+      "id": "F348D006-A966-4CD3-B228-54D99DEEC4FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "B179857F-2AA9-44BD-9AE7-B7E1A3E8B769"
+    }
+  ],
+  "name": "PDF label",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

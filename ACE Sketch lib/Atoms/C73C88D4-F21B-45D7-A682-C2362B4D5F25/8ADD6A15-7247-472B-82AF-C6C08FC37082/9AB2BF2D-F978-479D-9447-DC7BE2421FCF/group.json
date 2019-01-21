@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AB2BF2D-F978-479D-9447-DC7BE2421FCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A78DFB71-9215-440E-BACA-D92A1557DBCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDDC3E03-AAE3-44BC-9AE4-13BEF1D866D9",
+    "height": 20,
+    "width": 300,
+    "x": 205,
+    "y": 167
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "80A88745-77EE-4547-AD92-24CBB493D33C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AF710FA-4040-467B-8D9E-EE36CADFA95E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1480BF67-91A0-41F5-9CEE-C45D73068244"
+    }
+  ],
+  "name": "Atoms / Toggle with label / Off Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0412EF1-1716-49AF-8244-EAAB5EEE52EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
