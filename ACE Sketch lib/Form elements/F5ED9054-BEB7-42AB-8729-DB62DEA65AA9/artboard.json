@@ -47,11 +47,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "11D2EB43-FD14-4980-87CC-43BC15F3AE72"
+    },
+    {
+      "class": "text",
+      "id": "AD019AE7-04AC-4785-B5F3-526F004D89A9"
+    },
+    {
+      "class": "text",
+      "id": "23D4F8B9-B164-4BEF-8FF4-39B92BEC3F86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8530EF40-1BA7-4213-9274-13E704093B63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "491526B8-4EC6-4BDB-99CC-821524D4F893"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D26AC630-68F6-48D0-BD55-7E86BD61269C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E0B3E0D-FD93-4C6C-87BD-7043BFAE4053"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F91EAE1-B2C0-4D71-9FBE-03A6117D10DB"
     }
   ],
   "name": "Datepicker",

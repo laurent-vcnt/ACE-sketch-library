@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "969F3E21-C8B0-4C7D-B242-01A2167E85FA",
-    "height": 909,
+    "height": 962,
     "width": 1381,
     "x": 31,
     "y": 1223
@@ -34,6 +34,10 @@
     {
       "class": "text",
       "id": "124AC4C7-AC4C-4B0A-815A-8BB5784D8495"
+    },
+    {
+      "class": "text",
+      "id": "770DF2DB-4B56-4910-A82F-BF7D7D617799"
     },
     {
       "class": "symbolInstance",

@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ACD27F4E-4BEF-451F-8FBE-ED401953F6E2",
+  "do_objectID": "491526B8-4EC6-4BDB-99CC-821524D4F893",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
-    "width": 647,
-    "x": 31,
-    "y": 564
+    "height": 211,
+    "width": 240,
+    "x": 812,
+    "y": 520
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "9AD16ACC-AD1A-4A84-8330-C54B1FA6D121"
-    },
-    {
-      "class": "text",
-      "id": "B70DE66F-40FE-4AA8-B6FE-0244B784DD23"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BBFAC1DB-2251-44D2-983E-49CD64F00C59"
-    },
-    {
-      "class": "text",
-      "id": "8F93BF83-4082-4FFA-8472-A3BE36846CAB"
-    }
+  "layerListExpandedType": 0,
+  "name": "Form elements / datepicker / Calendar items / Calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Input text",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,5 +43,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D13CB0AD-3571-437F-B442-0D453F744860",
+  "verticalSpacing": 0
 }

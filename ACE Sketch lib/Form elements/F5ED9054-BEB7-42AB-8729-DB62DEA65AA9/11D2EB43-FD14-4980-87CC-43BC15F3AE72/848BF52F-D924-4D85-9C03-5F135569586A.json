@@ -31,6 +31,12 @@
   "name": "Form elements / datepicker / Opened",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BAFCCAF-4290-4408-8320-FAA943E955D1",
+      "overrideName": "793C5FCB-6DE6-4D26-BF0A-C55016FA3591/6352F264-9893-45E6-A7ED-D4717351D532_symbolID",
+      "value": "7443ED67-27F5-4EE0-AA23-827F2945752F"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

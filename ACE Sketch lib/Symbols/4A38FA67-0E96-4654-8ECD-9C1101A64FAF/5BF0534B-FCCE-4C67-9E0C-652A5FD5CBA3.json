@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ACD27F4E-4BEF-451F-8FBE-ED401953F6E2",
+  "do_objectID": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
-    "width": 647,
-    "x": 31,
-    "y": 564
+    "height": 64,
+    "width": 347,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "9AD16ACC-AD1A-4A84-8330-C54B1FA6D121"
-    },
-    {
-      "class": "text",
-      "id": "B70DE66F-40FE-4AA8-B6FE-0244B784DD23"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BBFAC1DB-2251-44D2-983E-49CD64F00C59"
-    },
-    {
-      "class": "text",
-      "id": "8F93BF83-4082-4FFA-8472-A3BE36846CAB"
-    }
+  "layerListExpandedType": 0,
+  "name": "Tags / Multi-line serie of tag items / Monoline",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Input text",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,5 +43,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "F7156CD6-9542-40F4-A947-2434961A1292",
+  "verticalSpacing": 0
 }

@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 10,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Mono-value"
+    "string": "Multi-values"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -64,7 +64,7 @@
     "x": 0,
     "y": 62
   },
-  "glyphBounds": "{{1, 8}, {115, 18}}",
+  "glyphBounds": "{{1, 8}, {120, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +73,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mono-value",
+  "name": "Multi-values",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,

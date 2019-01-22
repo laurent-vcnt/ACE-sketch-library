@@ -1,15 +1,16 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9749149659863946,
-    "green": 0.9747281248696268,
-    "red": 0.974587994032051
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 10,
   "clippingMaskMode": 0,
-  "do_objectID": "7361A8E5-5CD3-4E31-B6D3-14E1723EDE26",
+  "do_objectID": "DEF411C4-91B1-4F2C-B418-3BEFC606B783",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3144,
-    "width": 1600,
-    "x": 14735,
-    "y": -467
+    "height": 64,
+    "width": 347,
+    "x": 24029,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,12 +35,10 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      812,
-      331,
-      31
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,38 +46,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "EB50295F-6B0E-4ABA-9F60-D42237596A52"
-    },
-    {
-      "class": "group",
-      "id": "3807B707-9C52-43B6-86A8-3801CDBE3165"
-    },
-    {
-      "class": "group",
-      "id": "ACD27F4E-4BEF-451F-8FBE-ED401953F6E2"
+      "class": "symbolInstance",
+      "id": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8"
     },
     {
       "class": "symbolInstance",
-      "id": "6365AD84-18B6-474C-9315-A56F526D0FA6"
+      "id": "D587CF8E-C7E2-4CFF-B959-FA56C8039E38"
     },
     {
       "class": "symbolInstance",
-      "id": "285F65EF-B987-47FF-A929-62C756E0B623"
+      "id": "B4DEA128-C1DC-4E39-A3D7-064B5C8A6CEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E4141A2-367D-4B4D-9E3A-61655C75D399"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDBD50EE-0026-4225-8538-D1D37D53240E"
     }
   ],
-  "name": "Autocomplete multi-value",
+  "name": "Tags / Multi-line serie of tag items / Monoline",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD 1600",
-    "offersLandscapeVariant": 0,
-    "width": 1600
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,11 +83,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "F7156CD6-9542-40F4-A947-2434961A1292",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      363
     ]
   }
 }

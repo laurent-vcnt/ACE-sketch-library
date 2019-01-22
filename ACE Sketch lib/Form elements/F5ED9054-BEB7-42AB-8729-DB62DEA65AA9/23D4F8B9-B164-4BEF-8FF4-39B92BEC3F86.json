@@ -9,38 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3450980392156863,
-            "green": 0.3450980392156863,
-            "red": 0.3450980392156863
+            "blue": 0.2666666666666667,
+            "green": 0.2666666666666667,
+            "red": 0.2666666666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
-              "size": 13
+              "name": "FiraSans-Light",
+              "size": 28
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
+          }
         },
-        "length": 23,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Error State with value "
+    "string": "Calendar items"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7F960558-C451-4607-BF25-8EAC09AE5EA0",
+  "do_objectID": "23D4F8B9-B164-4BEF-8FF4-39B92BEC3F86",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "825ED7D0-4649-4F49-8752-D7FB1EA931D5",
+    "do_objectID": "200A3579-30BF-44A0-A82F-BA3EECDD6D06",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A0F221CD-B9C7-48CA-AB93-929B31358A48",
-    "height": 15,
-    "width": 179,
-    "x": 0,
-    "y": 295
+    "do_objectID": "C93BF7CB-A678-498C-9DE1-818EE0A5BD85",
+    "height": 36,
+    "width": 601,
+    "x": 812,
+    "y": 441
   },
-  "glyphBounds": "{{1, 2}, {120, 11}}",
+  "glyphBounds": "{{1, 5}, {186, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,49 +74,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Error State with val",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "lineSpacingBehaviour": 2,
+  "name": "Datepicker list (based on dropdown list) Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "478D8CE9-C831-4514-A900-BBCFB719D8FA",
+    "do_objectID": "131C92C4-DD0A-423A-8D35-3A6AAAAC5FDB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "09600E71-1431-4C65-8371-D3FD8EA0F33B",
+      "do_objectID": "73C6AE4F-F12F-4622-83D2-B18EED7F75AB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3450980392156863,
-          "red": 0.3450980392156863
+          "blue": 0.2666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.2666666666666667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
-            "size": 13
+            "name": "FiraSans-Light",
+            "size": 28
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

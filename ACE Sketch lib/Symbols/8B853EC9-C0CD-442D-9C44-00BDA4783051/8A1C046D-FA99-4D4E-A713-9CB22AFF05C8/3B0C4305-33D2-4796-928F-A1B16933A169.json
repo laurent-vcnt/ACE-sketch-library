@@ -16,41 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
-              "size": 13
+              "name": "Roboto-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+          }
         },
-        "length": 23,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Error State with value "
+    "string": "Tag label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7F960558-C451-4607-BF25-8EAC09AE5EA0",
+  "do_objectID": "3B0C4305-33D2-4796-928F-A1B16933A169",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "825ED7D0-4649-4F49-8752-D7FB1EA931D5",
+    "do_objectID": "B8F7BE0F-7C3F-4139-BC75-07F7B8ED84AB",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -60,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A0F221CD-B9C7-48CA-AB93-929B31358A48",
-    "height": 15,
-    "width": 179,
-    "x": 0,
-    "y": 295
+    "do_objectID": "852F9960-191E-4A78-A03F-B8017786A26D",
+    "height": 16,
+    "width": 57,
+    "x": 36,
+    "y": 4
   },
-  "glyphBounds": "{{1, 2}, {120, 11}}",
+  "glyphBounds": "{{0, 2}, {56, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,8 +63,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Error State with val",
+  "lineSpacingBehaviour": 0,
+  "name": "Tag label",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,13 +72,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "478D8CE9-C831-4514-A900-BBCFB719D8FA",
+    "do_objectID": "B05ED545-BC75-40E1-8843-B88D760D9F7F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "09600E71-1431-4C65-8371-D3FD8EA0F33B",
+      "do_objectID": "5AAF603E-12C0-4473-A5D2-D9348C6F48E5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -101,27 +90,18 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
-            "size": 13
+            "name": "Roboto-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 0
 }

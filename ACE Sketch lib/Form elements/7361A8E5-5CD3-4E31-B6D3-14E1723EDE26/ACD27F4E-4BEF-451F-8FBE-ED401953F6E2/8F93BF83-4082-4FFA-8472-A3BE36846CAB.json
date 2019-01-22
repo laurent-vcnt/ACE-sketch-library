@@ -27,20 +27,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 23,
+        "length": 87,
         "location": 0
       }
     ],
-    "string": "Error State with value "
+    "string": "Focus State with list opened without enough characters\n\n+ multi-line serie of tag items"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7F960558-C451-4607-BF25-8EAC09AE5EA0",
+  "do_objectID": "8F93BF83-4082-4FFA-8472-A3BE36846CAB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "825ED7D0-4649-4F49-8752-D7FB1EA931D5",
+    "do_objectID": "BC8926FF-5CDF-4F13-8E35-3671A3F113F2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A0F221CD-B9C7-48CA-AB93-929B31358A48",
-    "height": 15,
+    "do_objectID": "2A9A013B-2A57-43C7-BDEB-F3CDB1C27FA5",
+    "height": 60,
     "width": 179,
     "x": 0,
-    "y": 295
+    "y": 118
   },
-  "glyphBounds": "{{1, 2}, {120, 11}}",
+  "glyphBounds": "{{0, 2}, {164, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Error State with val",
+  "name": "Focus State with lis",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,13 +83,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "478D8CE9-C831-4514-A900-BBCFB719D8FA",
+    "do_objectID": "E00477A8-10A5-4A91-A618-39372D57697B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "09600E71-1431-4C65-8371-D3FD8EA0F33B",
+      "do_objectID": "6663497E-D23A-45EC-B9C0-CE6D72744C6C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

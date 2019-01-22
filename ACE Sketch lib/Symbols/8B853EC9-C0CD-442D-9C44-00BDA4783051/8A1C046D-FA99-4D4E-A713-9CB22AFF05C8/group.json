@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ACD27F4E-4BEF-451F-8FBE-ED401953F6E2",
+  "do_objectID": "8A1C046D-FA99-4D4E-A713-9CB22AFF05C8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
-    "width": 647,
-    "x": 31,
-    "y": 564
+    "height": 24,
+    "width": 105,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,26 +27,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "9AD16ACC-AD1A-4A84-8330-C54B1FA6D121"
+      "class": "rectangle",
+      "id": "3A1B8C6E-365D-4C49-B7DF-3672953BFCB8"
     },
     {
       "class": "text",
-      "id": "B70DE66F-40FE-4AA8-B6FE-0244B784DD23"
+      "id": "3B0C4305-33D2-4796-928F-A1B16933A169"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BD4DC44-EB66-4713-88D7-03631445B7C5"
     },
     {
       "class": "symbolInstance",
-      "id": "BBFAC1DB-2251-44D2-983E-49CD64F00C59"
-    },
-    {
-      "class": "text",
-      "id": "8F93BF83-4082-4FFA-8472-A3BE36846CAB"
+      "id": "865E3580-5A6F-4ABE-8232-470E4E10415F"
     }
   ],
-  "name": "Input text",
+  "name": "Autocomplete / Tag / Button",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
