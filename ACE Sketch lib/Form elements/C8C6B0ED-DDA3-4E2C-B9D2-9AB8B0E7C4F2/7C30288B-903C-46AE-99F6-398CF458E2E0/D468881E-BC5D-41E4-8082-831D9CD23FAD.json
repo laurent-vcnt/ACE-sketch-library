@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 30,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "Autocomplete loading indicator"
+    "string": "Autocomplete loading indicator "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
