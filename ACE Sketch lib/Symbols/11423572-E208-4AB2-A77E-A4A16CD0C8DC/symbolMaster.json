@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 225,
+  "changeIdentifier": 226,
   "clippingMaskMode": 0,
   "do_objectID": "11423572-E208-4AB2-A77E-A4A16CD0C8DC",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "B769EC52-48F1-4A00-96CE-FBE7456021EB"
     }
   ],
-  "name": "Atoms / checkbox with label / Indeterminate / Hover-Active",
+  "name": "Form elements / checkbox with label / Indeterminate / Hover-Active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

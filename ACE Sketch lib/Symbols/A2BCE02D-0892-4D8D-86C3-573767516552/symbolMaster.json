@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 165,
+  "changeIdentifier": 166,
   "clippingMaskMode": 0,
   "do_objectID": "A2BCE02D-0892-4D8D-86C3-573767516552",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 240
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "513C09B1-27D1-4406-B0AA-02B31B1CC4CC"
     }
   ],
-  "name": "Atoms / Radio button / Checked / Normal",
+  "name": "Form elements / Radio button / Checked / Normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

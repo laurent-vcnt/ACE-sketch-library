@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 17,
+  "changeIdentifier": 19,
   "clippingMaskMode": 0,
   "do_objectID": "695C19DC-B631-44D4-9A4B-3625E1A6A562",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 244
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "2DF96668-21B0-4FDE-BA4F-5A1D0830CC26"
     }
   ],
-  "name": "Atoms / Links / Normal",
-  "nameIsFixed": false,
+  "name": "Links / Normal",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

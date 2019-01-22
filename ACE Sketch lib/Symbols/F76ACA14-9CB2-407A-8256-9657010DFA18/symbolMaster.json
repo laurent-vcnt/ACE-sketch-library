@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 106,
+  "changeIdentifier": 107,
   "clippingMaskMode": 0,
   "do_objectID": "F76ACA14-9CB2-407A-8256-9657010DFA18",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "9CABEEA8-410C-4108-8225-4A63DE65308D"
     }
   ],
-  "name": "Atoms / checkbox with label / Not checked / Hover-Active",
+  "name": "Form elements / checkbox with label / Not checked / Hover-Active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

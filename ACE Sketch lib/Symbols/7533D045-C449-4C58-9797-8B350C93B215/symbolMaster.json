@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 26,
   "clippingMaskMode": 0,
   "do_objectID": "7533D045-C449-4C58-9797-8B350C93B215",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 140
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "611D23E3-DAC8-46AA-B340-6C241E4F354C"
     }
   ],
-  "name": "Atoms / Buttons / Primary / Disabled",
-  "nameIsFixed": false,
+  "name": "Buttons / Primary / Disabled",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

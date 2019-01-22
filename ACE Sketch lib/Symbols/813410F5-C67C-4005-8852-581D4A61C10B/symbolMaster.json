@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
   "do_objectID": "813410F5-C67C-4005-8852-581D4A61C10B",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 122
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "D59F2588-A7CA-495C-8AD5-D35E01C66699"
     }
   ],
-  "name": "Atoms / Links / Hover",
-  "nameIsFixed": false,
+  "name": "Links / Hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

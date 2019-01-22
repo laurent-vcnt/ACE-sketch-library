@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 288,
+  "changeIdentifier": 289,
   "clippingMaskMode": 0,
   "do_objectID": "8BFD7F21-7CC9-440D-8E18-4DEA9CD0876B",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "A5F40EFC-150A-489F-84F7-E49A7C05383C"
     }
   ],
-  "name": "Atoms / Toggle with label / Disabled / OFF",
+  "name": "Form elements / Toggle with label / Disabled / OFF",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

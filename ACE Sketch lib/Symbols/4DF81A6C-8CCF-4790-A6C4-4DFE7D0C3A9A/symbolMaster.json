@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 7,
   "clippingMaskMode": 0,
   "do_objectID": "4DF81A6C-8CCF-4790-A6C4-4DFE7D0C3A9A",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "0BB4C64C-1D1D-4411-917B-C95546EFA43D"
     }
   ],
-  "name": "Atoms / Input label / right alignment",
-  "nameIsFixed": false,
+  "name": "Form elements / Input label / right alignment",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

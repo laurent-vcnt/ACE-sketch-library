@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 610,
+  "changeIdentifier": 611,
   "clippingMaskMode": 0,
   "do_objectID": "F518960C-6A1E-45B3-B260-151DAD7C28FD",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 280
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "36504F44-5B7A-48ED-993C-9E33BEF4B3B3"
     }
   ],
-  "name": "Atoms / input text / error without value",
+  "name": "Form elements / input text / error without value",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

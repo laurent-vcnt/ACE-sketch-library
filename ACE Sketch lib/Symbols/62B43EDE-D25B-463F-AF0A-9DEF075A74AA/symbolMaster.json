@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 45,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "62B43EDE-D25B-463F-AF0A-9DEF075A74AA",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 120
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "E23445FE-5207-4CE0-AB7E-3C7DB71311E9"
     }
   ],
-  "name": "Atoms / checkbox / checked / hover-active",
+  "name": "Form elements / checkbox / checked / hover-active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

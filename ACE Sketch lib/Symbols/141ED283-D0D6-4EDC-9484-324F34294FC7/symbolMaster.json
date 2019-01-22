@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 235,
+  "changeIdentifier": 236,
   "clippingMaskMode": 0,
   "do_objectID": "141ED283-D0D6-4EDC-9484-324F34294FC7",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "349016DB-BFFF-4112-B7B8-0D4AE4A8F354"
     }
   ],
-  "name": "Atoms / radio button with label / Checked / Hover-Active",
+  "name": "Form elements / radio button with label / Checked / Hover-Active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

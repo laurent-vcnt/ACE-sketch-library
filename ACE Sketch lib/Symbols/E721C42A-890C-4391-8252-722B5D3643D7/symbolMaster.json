@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 68,
+  "changeIdentifier": 69,
   "clippingMaskMode": 0,
   "do_objectID": "E721C42A-890C-4391-8252-722B5D3643D7",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "57DA7B3D-EAF1-4BB4-BCC6-6E9D2C23331F"
     }
   ],
-  "name": "Atoms / checkbox with label / Checked / Normal",
+  "name": "Form elements / checkbox with label / Checked / Normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

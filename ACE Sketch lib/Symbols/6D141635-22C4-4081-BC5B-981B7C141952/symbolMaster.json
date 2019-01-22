@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 772,
+  "changeIdentifier": 773,
   "clippingMaskMode": 0,
   "do_objectID": "6D141635-22C4-4081-BC5B-981B7C141952",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 280
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "568C1110-A7C1-4C26-BCE5-B5EE568FC1AA"
     }
   ],
-  "name": "Atoms / dropdown / hover-active without value",
+  "name": "Form elements / dropdown / hover-active without value",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 49,
+  "changeIdentifier": 50,
   "clippingMaskMode": 0,
   "do_objectID": "C5C63F4C-14AE-4B59-9A90-99E6E4A9CA37",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "7E118D52-CF26-4667-A6FD-9A96909C2A05"
     }
   ],
-  "name": "Organisms / Portal navigation bar",
+  "name": "Navigation elements / Portal navigation bar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

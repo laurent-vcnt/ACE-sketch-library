@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 26,
   "clippingMaskMode": 0,
   "do_objectID": "094C96A1-8543-4952-B38A-F96E3BDBCC5C",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 420
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "FE394B56-955D-4E29-BAC9-4FF81ADCBDFC"
     }
   ],
-  "name": "Atoms / Buttons / Secondary / Normal",
-  "nameIsFixed": false,
+  "name": "Buttons / Secondary / Normal",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

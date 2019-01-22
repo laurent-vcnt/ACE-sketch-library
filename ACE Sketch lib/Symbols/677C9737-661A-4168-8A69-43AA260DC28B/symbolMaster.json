@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 187,
+  "changeIdentifier": 188,
   "clippingMaskMode": 0,
   "do_objectID": "677C9737-661A-4168-8A69-43AA260DC28B",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "7DBDE467-64FA-4660-953F-44D0B3FDD6C3"
     }
   ],
-  "name": "Atoms / combobox / opened with list",
+  "name": "Form elements / combobox / opened with list",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

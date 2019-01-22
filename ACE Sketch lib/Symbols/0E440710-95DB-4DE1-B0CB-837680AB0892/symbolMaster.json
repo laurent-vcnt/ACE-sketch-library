@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 244,
+  "changeIdentifier": 245,
   "clippingMaskMode": 0,
   "do_objectID": "0E440710-95DB-4DE1-B0CB-837680AB0892",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 144
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "6220EADA-A61D-4824-8F84-999B0F90B7EC"
     }
   ],
-  "name": "Atoms / combobox / list / item / hover",
+  "name": "Form elements / combobox / list / item / hover",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

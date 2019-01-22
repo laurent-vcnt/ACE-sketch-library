@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 321,
+  "changeIdentifier": 322,
   "clippingMaskMode": 0,
   "do_objectID": "38BDDEAB-87ED-4102-9884-8591D10A9726",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "26951547-7DDA-418E-8355-62F7F62EF509"
     }
   ],
-  "name": "Atoms / combobox / list / item / disabled",
+  "name": "Form elements / combobox / list / item / disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

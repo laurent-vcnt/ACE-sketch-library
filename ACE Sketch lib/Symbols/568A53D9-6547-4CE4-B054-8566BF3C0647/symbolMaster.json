@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 212,
+  "changeIdentifier": 213,
   "clippingMaskMode": 0,
   "do_objectID": "568A53D9-6547-4CE4-B054-8566BF3C0647",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "80E1A67E-91ED-4828-9CA4-5D4D16B33C9E"
     }
   ],
-  "name": "Atoms / Radio button / Checked / Disabled",
+  "name": "Form elements / Radio button / Checked / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

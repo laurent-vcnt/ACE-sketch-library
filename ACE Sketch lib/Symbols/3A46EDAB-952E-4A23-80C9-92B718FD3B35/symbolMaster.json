@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 668,
+  "changeIdentifier": 669,
   "clippingMaskMode": 0,
   "do_objectID": "3A46EDAB-952E-4A23-80C9-92B718FD3B35",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 880
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "43D79436-2AAD-40D9-86E2-BADC2238A532"
     }
   ],
-  "name": "Atoms / dropdown / Normal with value",
+  "name": "Form elements / dropdown / Normal with value",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 245,
+  "changeIdentifier": 246,
   "clippingMaskMode": 0,
   "do_objectID": "68E02480-885B-45BC-9249-E666FD189BAE",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "C25EA2DE-7512-4AE2-82FD-9A442F09653C"
     }
   ],
-  "name": "Atoms / dropdown / list / item / disabled",
+  "name": "Form elements / dropdown / list / item / disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

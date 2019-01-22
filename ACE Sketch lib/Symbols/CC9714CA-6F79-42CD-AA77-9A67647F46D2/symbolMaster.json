@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 112,
+  "changeIdentifier": 113,
   "clippingMaskMode": 0,
   "do_objectID": "CC9714CA-6F79-42CD-AA77-9A67647F46D2",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "FCDBCE9F-2CE2-44C0-9714-0BBF28580801"
     }
   ],
-  "name": "Atoms / checkbox / Not checked / Disabled",
+  "name": "Form elements / checkbox / Not checked / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 156,
+  "changeIdentifier": 157,
   "clippingMaskMode": 0,
   "do_objectID": "4EF345E9-7D7C-4573-A519-00C7348407E4",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "CC08E1EF-9AD5-4259-861A-7A4ED280570E"
     }
   ],
-  "name": "Atoms / radio button with label / Checked / Normal",
+  "name": "Form elements / radio button with label / Checked / Normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

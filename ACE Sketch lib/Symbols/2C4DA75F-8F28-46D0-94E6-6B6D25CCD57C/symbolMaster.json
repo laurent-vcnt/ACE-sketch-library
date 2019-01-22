@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 103,
+  "changeIdentifier": 104,
   "clippingMaskMode": 0,
   "do_objectID": "2C4DA75F-8F28-46D0-94E6-6B6D25CCD57C",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 288
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "0A665BDC-605B-4E3B-93ED-E58DDDD59EFB"
     }
   ],
-  "name": "Atoms / combobox / list / item / normal",
+  "name": "Form elements / combobox / list / item / normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

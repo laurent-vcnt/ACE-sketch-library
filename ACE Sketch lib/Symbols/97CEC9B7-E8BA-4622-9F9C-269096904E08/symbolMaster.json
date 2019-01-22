@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 128,
+  "changeIdentifier": 129,
   "clippingMaskMode": 0,
   "do_objectID": "97CEC9B7-E8BA-4622-9F9C-269096904E08",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
       "id": "BF555FCC-BC9D-4DFB-A50B-5DEFB1CCC04A"
     }
   ],
-  "name": "Atoms / Textarea / Disabled",
+  "name": "Form elements / Textarea / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

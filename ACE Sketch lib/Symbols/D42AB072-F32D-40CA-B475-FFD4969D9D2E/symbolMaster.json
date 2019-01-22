@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 236,
+  "changeIdentifier": 237,
   "clippingMaskMode": 0,
   "do_objectID": "D42AB072-F32D-40CA-B475-FFD4969D9D2E",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "FADF76B9-519A-4684-87C8-63F47F9B2D53"
     }
   ],
-  "name": "Atoms / checkbox with label / Checked / Disabled",
+  "name": "Form elements / checkbox with label / Checked / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

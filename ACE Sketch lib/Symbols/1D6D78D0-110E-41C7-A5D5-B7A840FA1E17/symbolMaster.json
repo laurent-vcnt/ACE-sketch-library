@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 314,
+  "changeIdentifier": 315,
   "clippingMaskMode": 0,
   "do_objectID": "1D6D78D0-110E-41C7-A5D5-B7A840FA1E17",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "D7B7FD7F-17C6-47D8-8CC1-6E6EB30C02B5"
     }
   ],
-  "name": "Atoms / checkbox with label / Indeterminate / Disabled",
+  "name": "Form elements / checkbox with label / Indeterminate / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

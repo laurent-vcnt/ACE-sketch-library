@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 18,
+  "changeIdentifier": 19,
   "clippingMaskMode": 0,
   "do_objectID": "B90ABCC1-0B89-46C4-B04B-784CA41EB4C7",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 240
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "7C74C767-43F0-47A0-BE39-B3433B76EBFF"
     }
   ],
-  "name": "Atoms / checkbox / checked / Normal",
+  "name": "Form elements / checkbox / checked / Normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

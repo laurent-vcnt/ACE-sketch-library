@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 57,
+  "changeIdentifier": 59,
   "clippingMaskMode": 0,
   "do_objectID": "1EC877E6-2BBD-4538-A12F-180C02B98469",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 120
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,8 @@
       "id": "E1F08AAE-BF49-4DFE-B3D7-881A51749386"
     }
   ],
-  "name": "Atoms / Toggle / On",
-  "nameIsFixed": false,
+  "name": "Form elements / Toggle / On",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

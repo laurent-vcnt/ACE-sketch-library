@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 111,
+  "changeIdentifier": 112,
   "clippingMaskMode": 0,
   "do_objectID": "F27A6CE2-43CB-4D69-8D88-CB56951AEE34",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 1160
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "25EA39C3-0C21-4BA0-B639-CFED11B9434A"
     }
   ],
-  "name": "Atoms / dropdown / opened with list",
+  "name": "Form elements / dropdown / opened with list",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
