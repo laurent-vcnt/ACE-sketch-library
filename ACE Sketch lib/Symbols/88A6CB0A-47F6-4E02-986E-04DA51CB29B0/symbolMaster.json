@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 16,
   "clippingMaskMode": 0,
   "do_objectID": "88A6CB0A-47F6-4E02-986E-04DA51CB29B0",
   "exportOptions": {
@@ -57,8 +57,8 @@
       "id": "D0DF3DB5-0E5C-4ED4-8D6E-62B2487DD44A"
     }
   ],
-  "name": "Atoms / Buttons / Flat / Hover",
-  "nameIsFixed": false,
+  "name": "Buttons / Flat / Hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

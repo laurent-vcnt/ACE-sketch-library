@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9AFF9DA-1F74-45AF-8119-58EC75B9F766",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 232,
+    "width": 601,
+    "x": 812,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A88CA2CA-BDDB-451E-AD5D-454BA270ABF0"
+    },
+    {
+      "class": "text",
+      "id": "CD16A4E0-877D-4962-A11F-C912931B39AB"
+    },
+    {
+      "class": "text",
+      "id": "B8542B7E-CEE3-4ABA-8386-63C515FCE42A"
+    },
+    {
+      "class": "text",
+      "id": "05046ECD-F257-451C-BCC7-A4743F18AF2F"
+    },
+    {
+      "class": "text",
+      "id": "8F69E28E-5ECA-4F83-AD29-AA643F84977E"
+    },
+    {
+      "class": "group",
+      "id": "384A71B6-E216-4ABE-98BB-EA8721BDDE7E"
+    },
+    {
+      "class": "group",
+      "id": "C1083C0E-2783-4275-A883-EA395E04F06C"
+    },
+    {
+      "class": "group",
+      "id": "EDBD8B5B-9795-4EB0-BCE3-9E09AAAA2A92"
+    },
+    {
+      "class": "group",
+      "id": "164A2B58-8E73-44E6-8EFB-460A7A28084E"
+    }
+  ],
+  "name": "Toggle with 2 labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

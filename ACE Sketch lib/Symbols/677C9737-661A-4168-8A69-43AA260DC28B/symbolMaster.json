@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 187,
+  "changeIdentifier": 197,
   "clippingMaskMode": 0,
   "do_objectID": "677C9737-661A-4168-8A69-43AA260DC28B",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "26C52F89-3347-41CA-884F-7133CBD9C8C6",
     "height": 304,
     "width": 300,
-    "x": 2565,
+    "x": 14356,
     "y": 364
   },
   "hasBackgroundColor": false,
@@ -61,7 +61,7 @@
       "id": "7DBDE467-64FA-4660-953F-44D0B3FDD6C3"
     }
   ],
-  "name": "Atoms / combobox / opened with list",
+  "name": "Form elements / combobox / opened with list",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

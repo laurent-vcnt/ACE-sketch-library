@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 16,
   "clippingMaskMode": 0,
   "do_objectID": "16B7F989-455A-426F-9756-781FF165FA01",
   "exportOptions": {
@@ -57,8 +57,8 @@
       "id": "3CF92433-883B-42A2-A9C0-82F31D211D67"
     }
   ],
-  "name": "Atoms / Buttons / Flat / Normal",
-  "nameIsFixed": false,
+  "name": "Buttons / Flat / Normal",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

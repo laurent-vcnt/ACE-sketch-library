@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 23,
   "clippingMaskMode": 0,
   "do_objectID": "18EBB363-5CC1-4350-A134-E3D62685BD77",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 25,
     "width": 30,
-    "x": 4063,
+    "x": 15854,
     "y": 311
   },
   "hasBackgroundColor": false,
@@ -57,7 +57,7 @@
       "id": "696F497E-2474-4CB2-8D23-1587F73A91EC"
     }
   ],
-  "name": "Atoms / datepicker / Calendar items / Day / Normal",
+  "name": "Form elements / datepicker / Calendar items / Day / Normal",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

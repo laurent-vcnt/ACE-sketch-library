@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 248,
+  "changeIdentifier": 256,
   "clippingMaskMode": 0,
   "do_objectID": "180BE4FF-C3CF-4A16-BC2A-D3DF478BD350",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "CB34D630-CC16-4848-85CA-B603E798EEAD",
     "height": 40,
     "width": 300,
-    "x": 6001,
+    "x": 17792,
     "y": 140
   },
   "hasBackgroundColor": false,
@@ -65,7 +65,7 @@
       "id": "675B6D65-FC88-42D4-B08B-0666BCC5D264"
     }
   ],
-  "name": "Atoms / input text with embed icon / normal with value Copy",
+  "name": "Form elements / input text with embed icon / normal with value Copy",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

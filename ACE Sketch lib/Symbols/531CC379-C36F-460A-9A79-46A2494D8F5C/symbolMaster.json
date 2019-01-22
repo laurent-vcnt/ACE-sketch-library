@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 31,
   "clippingMaskMode": 0,
   "do_objectID": "531CC379-C36F-460A-9A79-46A2494D8F5C",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 40,
     "width": 300,
-    "x": 6501,
+    "x": 18292,
     "y": 560
   },
   "hasBackgroundColor": false,
@@ -57,7 +57,7 @@
       "id": "621FB7DF-1684-493B-82C6-2F8C392B5E21"
     }
   ],
-  "name": "Atoms / input text / normal with placeholder",
+  "name": "Form elements / input text / normal with placeholder",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

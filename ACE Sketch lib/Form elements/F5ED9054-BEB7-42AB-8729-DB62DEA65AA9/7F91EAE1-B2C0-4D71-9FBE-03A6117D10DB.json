@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F91EAE1-B2C0-4D71-9FBE-03A6117D10DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47DEFB28-097E-448B-93E8-49E4413E620F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D71BFE4C-C68F-4DC6-A3F0-2A9B84E8F2D0",
+    "height": 25,
+    "width": 30,
+    "x": 1184,
+    "y": 619
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / datepicker / Calendar items / Day / Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93A71832-102E-499A-BFF5-407D8B9E9FAD",
+      "overrideName": "696F497E-2474-4CB2-8D23-1587F73A91EC_textStyle",
+      "value": "03B303E2-0F23-4F1E-9273-28ACDE71F4CA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4719431F-AC7D-41BB-A49E-CE513AFE9735",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "822C922B-A193-4BAC-AF1A-35532571C29A",
+  "verticalSpacing": 0
+}

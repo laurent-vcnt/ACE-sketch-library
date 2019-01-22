@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 20,
   "clippingMaskMode": 0,
   "do_objectID": "7DAF7BD0-92EF-42E4-86FA-8B8B0D7981DA",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 120,
     "width": 360,
-    "x": 8914,
+    "x": 20118,
     "y": 660
   },
   "hasBackgroundColor": false,
@@ -65,7 +65,7 @@
       "id": "8516E7A8-74C0-492B-88D8-EF8FE2ED6C9A"
     }
   ],
-  "name": "Atoms / Textarea / Normal with placeholder",
+  "name": "Form elements / Textarea / Normal with placeholder",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

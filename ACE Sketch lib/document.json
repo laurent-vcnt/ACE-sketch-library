@@ -77,9 +77,10 @@
   "pages": [
     "Symbols",
     "DNA elements",
-    "Atoms",
-    "Molecules",
-    "Organisms",
+    "Buttons",
+    "Links",
+    "Form elements",
+    "Navigation elements",
     "Templates"
   ],
   "userInfo": {

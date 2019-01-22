@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 236,
+  "changeIdentifier": 245,
   "clippingMaskMode": 0,
   "do_objectID": "D42AB072-F32D-40CA-B475-FFD4969D9D2E",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "5938D8AC-1AD0-45D6-A31F-890A37E41B4E",
     "height": 20,
     "width": 86,
-    "x": 1047,
+    "x": 12838,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -61,7 +61,7 @@
       "id": "FADF76B9-519A-4684-87C8-63F47F9B2D53"
     }
   ],
-  "name": "Atoms / checkbox with label / Checked / Disabled",
+  "name": "Form elements / checkbox with label / Checked / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

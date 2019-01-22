@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 118,
+  "changeIdentifier": 126,
   "clippingMaskMode": 0,
   "do_objectID": "81E0C939-4BD9-4F64-83A7-5FB9B9A1DCFD",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "EBADEFC7-BD75-400A-A267-92BDEF2A1624",
     "height": 20,
     "width": 20,
-    "x": 2125,
+    "x": 13916,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -61,7 +61,7 @@
       "id": "9107645F-8574-4A84-9EB1-A0596EFECCE6"
     }
   ],
-  "name": "Atoms / checkbox / Indeterminate / Disabled",
+  "name": "Form elements / checkbox / Indeterminate / Disabled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

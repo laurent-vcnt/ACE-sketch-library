@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 44,
+  "changeIdentifier": 52,
   "clippingMaskMode": 0,
   "do_objectID": "F2DABF57-74E9-4D40-9F98-45C38B3CE317",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "052C0885-3903-4FA3-9742-B34198257F9D",
     "height": 120,
     "width": 360,
-    "x": 8914,
+    "x": 20118,
     "y": 220
   },
   "hasBackgroundColor": false,
@@ -69,7 +69,7 @@
       "id": "9B208256-4F2A-4044-9562-823665278B69"
     }
   ],
-  "name": "Atoms / Textarea / Error",
+  "name": "Form elements / Textarea / Error",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

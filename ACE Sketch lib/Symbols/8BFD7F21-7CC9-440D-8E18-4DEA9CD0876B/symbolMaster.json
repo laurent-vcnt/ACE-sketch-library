@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 288,
+  "changeIdentifier": 298,
   "clippingMaskMode": 0,
   "do_objectID": "8BFD7F21-7CC9-440D-8E18-4DEA9CD0876B",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "0B0A0A99-6974-4516-9EF9-0EA65BB2E2D5",
     "height": 20,
     "width": 170,
-    "x": 9474,
+    "x": 20678,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -61,7 +61,7 @@
       "id": "A5F40EFC-150A-489F-84F7-E49A7C05383C"
     }
   ],
-  "name": "Atoms / Toggle with label / Disabled / OFF",
+  "name": "Form elements / Toggle with label / Disabled / OFF",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

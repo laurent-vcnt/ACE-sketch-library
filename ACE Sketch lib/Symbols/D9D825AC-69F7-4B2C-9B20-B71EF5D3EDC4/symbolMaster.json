@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 147,
+  "changeIdentifier": 156,
   "clippingMaskMode": 0,
   "do_objectID": "D9D825AC-69F7-4B2C-9B20-B71EF5D3EDC4",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "6ECE2FF7-A550-4C2B-80D9-4CDE40583722",
     "height": 20,
     "width": 86,
-    "x": 1047,
+    "x": 12838,
     "y": 120
   },
   "hasBackgroundColor": false,
@@ -61,7 +61,7 @@
       "id": "5B494860-243B-4CF0-97A4-5B8FBAAE3512"
     }
   ],
-  "name": "Atoms / checkbox with label / Checked / Hover-Active",
+  "name": "Form elements / checkbox with label / Checked / Hover-Active",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
