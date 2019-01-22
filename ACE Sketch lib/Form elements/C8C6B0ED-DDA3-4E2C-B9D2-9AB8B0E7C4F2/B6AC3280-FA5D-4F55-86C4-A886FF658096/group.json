@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 948,
+    "height": 981,
     "width": 1381,
     "x": 31,
     "y": 30
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -70,39 +70,47 @@
       "id": "8177A824-48A5-4718-B9B3-71580B11D927"
     },
     {
-      "class": "symbolInstance",
-      "id": "98129A4B-7594-40E6-987C-43CB6D1DD0DD"
+      "class": "text",
+      "id": "FBF3D504-4B3F-45A8-8172-168E6BBE7B07"
     },
     {
       "class": "symbolInstance",
-      "id": "313DD59B-3DE3-4018-B131-78FC1DD6E5EA"
+      "id": "BF7B8332-A58D-4150-8C70-E13AC95593FA"
     },
     {
       "class": "symbolInstance",
-      "id": "C875584B-7FE7-4AE5-B955-A888B994A770"
+      "id": "3237468C-D574-4574-81F2-9A0AB91CDC5A"
     },
     {
       "class": "symbolInstance",
-      "id": "BF198280-A887-4DC2-9AB4-B3F915714C0C"
+      "id": "2D0802FA-1D4A-48E6-B0A4-BAF244349FDD"
     },
     {
       "class": "symbolInstance",
-      "id": "0D92BC7C-2EDF-4632-A71B-A4033838EC38"
+      "id": "13AD34E5-96CE-448B-8713-44D301230406"
     },
     {
       "class": "symbolInstance",
-      "id": "78A00C69-F7DA-407A-BF34-4CC164F6F5C0"
+      "id": "0AF2804D-4714-4EAE-94D8-47B975F65109"
     },
     {
-      "class": "group",
-      "id": "A2524B39-407F-464A-9705-BC64DA772074"
+      "class": "symbolInstance",
+      "id": "DB031235-FAE1-4C95-B203-27F63AF62474"
     },
     {
-      "class": "group",
-      "id": "888BBB1B-DBA1-4340-B50D-65261B60F3C7"
+      "class": "symbolInstance",
+      "id": "1CA89BCA-C3E7-4861-994C-7E4E477D4EEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD88663A-F332-454C-9890-E3F1B22B69F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF51A63B-C034-45CC-ADFC-6769706BEE1D"
     }
   ],
-  "name": "Dropdown",
+  "name": "Dropdown with typeahead system",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

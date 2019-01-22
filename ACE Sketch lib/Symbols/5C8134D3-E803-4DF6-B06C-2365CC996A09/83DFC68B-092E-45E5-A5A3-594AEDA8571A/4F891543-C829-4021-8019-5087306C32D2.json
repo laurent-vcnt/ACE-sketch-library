@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F891543-C829-4021-8019-5087306C32D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 298,
+    "x": 1,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / Autocomplete / List / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B74C9727-2629-4045-B135-2767512BF1D5",
+      "overrideName": "DEBA76B0-AEC2-418E-A121-F59A115429B8/F88A33A4-0A34-437F-B15E-0FD8629274E4_symbolID",
+      "value": "4109707A-25AD-4362-96DA-2DA0444EE6A6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E776E4C8-21C9-4A57-8F0E-AC612B4471B2",
+      "overrideName": "DEBA76B0-AEC2-418E-A121-F59A115429B8/F88A33A4-0A34-437F-B15E-0FD8629274E4/27D37018-6E7F-43A9-9597-B6FB2D8BBB94_stringValue",
+      "value": "Normal entry D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F51A72EB-0E46-41AA-B28A-3FA7A4AF0951",
+  "verticalSpacing": 0
+}

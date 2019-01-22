@@ -27,11 +27,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 19,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "Autcomplete matches"
+    "string": "Focus State with list opened and matches"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,12 +61,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "762D6421-98A0-4B1F-82D8-7A3912336AF3",
-    "height": 15,
+    "height": 30,
     "width": 179,
     "x": 781,
     "y": 562
   },
-  "glyphBounds": "{{0, 2}, {125, 13}}",
+  "glyphBounds": "{{0, 2}, {160, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Autcomplete matches",
+  "name": "Focus State with lis",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

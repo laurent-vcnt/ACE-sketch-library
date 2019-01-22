@@ -59,10 +59,14 @@
     },
     {
       "class": "group",
+      "id": "7C30288B-903C-46AE-99F6-398CF458E2E0"
+    },
+    {
+      "class": "group",
       "id": "BB2B9690-84D1-4A8C-837B-0D64B47A8FD2"
     }
   ],
-  "name": "Autocomplete",
+  "name": "Autocomplete mono-value",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -87,6 +91,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      363
     ]
   }
 }

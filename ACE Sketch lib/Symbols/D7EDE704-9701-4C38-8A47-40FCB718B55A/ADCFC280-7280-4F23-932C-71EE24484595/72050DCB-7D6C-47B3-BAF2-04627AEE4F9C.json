@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72050DCB-7D6C-47B3-BAF2-04627AEE4F9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / Autocomplete / Input text / Focus / Without value",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA826355-C3DA-43DA-9D0E-0AF28C6A1B0F",
+      "overrideName": "4701F4BF-77F3-411E-9F0E-8E1946005AD1_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57E69933-C022-408E-B33C-A629CBC730C6",
+      "overrideName": "4701F4BF-77F3-411E-9F0E-8E1946005AD1_stringValue",
+      "value": "John Doe"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFCD4E5A-6D69-4691-AA98-C36DC4FDAC8D",
+  "verticalSpacing": 0
+}

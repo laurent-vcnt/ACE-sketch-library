@@ -27,11 +27,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 29,
+        "length": 54,
         "location": 0
       }
     ],
-    "string": "Hover/Active State with value"
+    "string": "Focus State with list opened without enough characters"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,12 +61,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7A933742-5162-49A6-807B-A42806482823",
-    "height": 15,
+    "height": 30,
     "width": 179,
     "x": 0,
     "y": 491
   },
-  "glyphBounds": "{{1, 2}, {166, 11}}",
+  "glyphBounds": "{{0, 2}, {160, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Hover/Active State w",
+  "name": "Focus State with lis",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

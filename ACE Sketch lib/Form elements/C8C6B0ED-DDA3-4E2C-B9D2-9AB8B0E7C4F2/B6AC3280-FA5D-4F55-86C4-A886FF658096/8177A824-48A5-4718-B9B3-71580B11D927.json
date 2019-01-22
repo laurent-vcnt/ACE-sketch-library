@@ -27,11 +27,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 26,
+        "length": 47,
         "location": 0
       }
     ],
-    "string": "Autcomplete no match found"
+    "string": "Focus State with list opened and no match found"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,12 +61,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "359FC505-6256-48B0-BFF0-C520D42B5459",
-    "height": 15,
+    "height": 30,
     "width": 179,
     "x": 781,
-    "y": 875
+    "y": 777
   },
-  "glyphBounds": "{{0, 2}, {166, 13}}",
+  "glyphBounds": "{{0, 2}, {160, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Autcomplete no match",
+  "name": "Focus State with lis",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

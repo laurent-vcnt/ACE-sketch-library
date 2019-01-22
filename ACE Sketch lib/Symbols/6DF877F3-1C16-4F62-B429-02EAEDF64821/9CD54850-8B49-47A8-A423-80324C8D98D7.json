@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CD54850-8B49-47A8-A423-80324C8D98D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95E7D229-CC85-4758-81DF-DBC50B1097B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "290B94E7-C70C-497A-BC0A-21C534855C5F",
+    "height": 40,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / dropdown / opened",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B852A6FB-0A57-49D6-B5E4-7FE2037306E9_stringValue",
+      "value": "User value ABC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05E96EF2-0DA1-4AA4-97D2-C1C379702E6D",
+      "overrideName": "B852A6FB-0A57-49D6-B5E4-7FE2037306E9_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E668306A-BFB7-4A6F-BCE4-1EE0C87CE27B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C811D15-54D4-41B0-92F5-325CB0231840",
+  "verticalSpacing": 0
+}
