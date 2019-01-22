@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90318CC6-EEDF-4E54-B13A-5968784F641A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1CE62E4-872E-48C5-8CA0-2DD71D8A1BF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2A8556C-CDDF-482E-9A28-B3509B00B56E",
+    "height": 120,
+    "width": 360,
+    "x": 781,
+    "y": 556
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / Textarea / Error Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D343B565-4720-4056-9D88-5E383F84C5A3",
+      "overrideName": "F0659980-372D-41DF-B767-BCC1EE1A5D02_layerStyle",
+      "value": "D246D40E-D37D-4897-815B-16D85A4E3B0E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EEEAA54-E1BE-4253-9206-AA5CE0956BC4",
+      "overrideName": "9F94F0F5-F81D-4BBD-B508-35B07CAF51B0_textStyle",
+      "value": "BF20F76E-6C9A-428A-8A2C-ACDEF54E7520"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E5E6DF6-2FE3-487B-9C89-DE9186FDC0F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3744B4F-4E8C-42DC-B282-0443CE53CD41",
+  "verticalSpacing": 0
+}

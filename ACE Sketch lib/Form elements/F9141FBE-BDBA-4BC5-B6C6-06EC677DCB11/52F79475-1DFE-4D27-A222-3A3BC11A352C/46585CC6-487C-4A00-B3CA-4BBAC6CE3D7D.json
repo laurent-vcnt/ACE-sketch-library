@@ -27,11 +27,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 23,
+        "length": 45,
         "location": 0
       }
     ],
-    "string": "Error State with value "
+    "string": "Error State without value  (with placeholder)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,12 +61,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5B653BC8-929E-497B-BECE-0DD9713BB863",
-    "height": 15,
+    "height": 30,
     "width": 179,
     "x": 0,
     "y": 408
   },
-  "glyphBounds": "{{1, 2}, {120, 11}}",
+  "glyphBounds": "{{0, 2}, {139, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Error State with val Copy",
+  "name": "Error State without",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 15,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Primary buttons"
+    "string": "Primary buttons – #atom"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 5}, {197, 28}}",
+  "glyphBounds": "{{3, 5}, {304, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Primary buttons",
+  "name": "Primary buttons – #a",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,

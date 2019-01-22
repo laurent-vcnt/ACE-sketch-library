@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 12,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Flat buttons"
+    "string": "Flat buttons – #atom"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 6}, {147, 22}}",
+  "glyphBounds": "{{3, 6}, {254, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Flat buttons",
+  "name": "Flat buttons – #atom",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,

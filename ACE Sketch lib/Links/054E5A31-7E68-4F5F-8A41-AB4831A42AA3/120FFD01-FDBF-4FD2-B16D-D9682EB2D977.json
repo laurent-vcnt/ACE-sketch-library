@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 5,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Links"
+    "string": "Links – #atom"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 31,
     "y": 29
   },
-  "glyphBounds": "{{3, 5}, {60, 23}}",
+  "glyphBounds": "{{3, 5}, {167, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Links",
+  "name": "Links – #atom",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,

@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Dropdown list"
+    "string": "Dropdown list "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -73,7 +73,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Dropdown list Copy",
+  "name": "Dropdown list",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
