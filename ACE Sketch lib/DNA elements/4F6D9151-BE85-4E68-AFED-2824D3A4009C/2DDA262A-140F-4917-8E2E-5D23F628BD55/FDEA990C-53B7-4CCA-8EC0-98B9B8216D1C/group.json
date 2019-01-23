@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AA296425-37C0-430D-9A05-E2404135076A",
-    "height": 596,
+    "height": 720,
     "width": 250,
     "x": 550,
     "y": 64
@@ -46,6 +46,10 @@
     {
       "class": "group",
       "id": "47619B52-D5B8-4CD0-B42D-835230E5CF0D"
+    },
+    {
+      "class": "group",
+      "id": "9D4C44C5-C660-4866-A8C6-A4E86798AF05"
     },
     {
       "class": "group",
