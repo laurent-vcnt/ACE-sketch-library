@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DD4F4E5-4EC5-458E-A4FB-FE7F62F2C010",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 472,
+    "width": 250,
+    "x": 2,
+    "y": 64
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6EE51336-C230-4365-9A22-65F8A9400F06"
+    },
+    {
+      "class": "group",
+      "id": "19973556-B9CB-4525-BDFB-734973C81D83"
+    },
+    {
+      "class": "group",
+      "id": "E25B32E2-206A-47F4-93F9-14B69CAADE0D"
+    },
+    {
+      "class": "group",
+      "id": "34805239-ADBD-434A-8C54-BB64471B45F3"
+    }
+  ],
+  "name": "Red tints",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

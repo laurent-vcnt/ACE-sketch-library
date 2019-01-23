@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "81D7EB85-ED58-48EA-A2F9-75002E185A98",
+  "do_objectID": "330EEF92-6FF9-413E-9C92-9E4D4AAE8CF5",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8B6B89FA-8EA3-4F5F-8140-FCC12C7C7678",
+    "do_objectID": "A5F232BA-6E08-4D51-AF86-6C706B49ECC3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BE4D6126-E456-4C40-BF81-D7787FD21169",
+    "do_objectID": "E76A6BE3-F3FB-4EF0-9239-F02D80F88130",
     "height": 100,
     "width": 250,
-    "x": 590,
-    "y": 1584
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle Copy 10",
+  "name": "Rectangle Copy 13",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -84,23 +84,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "do_objectID": "4473ED2C-594C-44C1-B878-BD49AB320017",
+    "do_objectID": "A87C9B8F-86DB-46F3-AF4D-8A20AE426F33",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +92,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3450980392156863,
-          "red": 0.3450980392156863
+          "blue": 0.788235294117647,
+          "green": 0.8117647058823529,
+          "red": 0.9921568627450981
         },
         "fillType": 0,
         "isEnabled": true,
