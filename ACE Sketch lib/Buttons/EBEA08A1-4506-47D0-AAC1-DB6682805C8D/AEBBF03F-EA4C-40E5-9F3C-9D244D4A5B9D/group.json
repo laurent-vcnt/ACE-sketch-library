@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1A19969C-74A8-4718-82B4-227E9D653990",
-    "height": 222,
+    "height": 332,
     "width": 800,
     "x": 30,
     "y": 404
@@ -37,6 +37,10 @@
     },
     {
       "class": "text",
+      "id": "30F40761-3D3E-49D4-950D-8019ACBD1EAA"
+    },
+    {
+      "class": "text",
       "id": "E00EE581-8B90-4E28-90E3-BDBAEEB83C1A"
     },
     {
@@ -45,11 +49,19 @@
     },
     {
       "class": "text",
+      "id": "97667575-ADCA-4106-BB29-F92A9A91ED57"
+    },
+    {
+      "class": "text",
       "id": "4DF8A7CA-089E-411A-8E22-523675FB37F7"
     },
     {
       "class": "text",
       "id": "5BF5BFDF-137A-44B3-89D8-269166CBC663"
+    },
+    {
+      "class": "text",
+      "id": "75DB68C1-4865-4A1E-AC93-3C804398289A"
     },
     {
       "class": "text",
@@ -74,6 +86,10 @@
     {
       "class": "text",
       "id": "FF595BA9-03AE-4DBF-A247-B69E70AC56F1"
+    },
+    {
+      "class": "text",
+      "id": "C10D407B-675F-4BCE-A267-6325CAD259F6"
     },
     {
       "class": "text",

@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "03267A32-2CA8-4842-A689-188F938B51EC",
+  "do_objectID": "BADF4979-4E6B-44F2-967A-FAD1EA61CADA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "000CFDC9-1260-425A-865C-F90BD7966025",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D635F366-5214-4300-914A-F0872ED932CF",
-    "height": 16,
-    "width": 16,
-    "x": 12,
-    "y": 12
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Icons / Placeholder / Small",
+  "name": "Buttons / Icon only / Active",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "F9488928-584B-4022-8F0B-7136938FB955",
-      "overrideName": "66162FD5-D0B2-4E8E-B13D-1B22563F664E_layerStyle",
-      "value": "91B6659D-26DB-425D-9057-F1C26894378C"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3A5B7712-1E77-4723-8FC4-99CD204FF907",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DCC0AA91-8E45-470C-8D3B-2393B36A98B9",
+  "symbolID": "FC2934E1-DB4A-4200-B72D-0D3AB0291997",
   "verticalSpacing": 0
 }

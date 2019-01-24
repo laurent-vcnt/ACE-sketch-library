@@ -27,20 +27,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 14,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Disabled State"
+    "string": "Active State"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E44D4EFC-3A26-4112-AFB0-E56B8EE25E8D",
+  "do_objectID": "C10D407B-675F-4BCE-A267-6325CAD259F6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B468D742-6F60-4A05-A368-4B089D3694E1",
+    "do_objectID": "40ADA021-BDF5-4F68-8713-665ADD9AF635",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6A2C8A3F-8947-4024-B75C-42777DC33DB3",
+    "do_objectID": "6B57C170-10BF-4AD8-B468-5BD060904783",
     "height": 15,
     "width": 87,
-    "x": 549,
-    "y": 317.0000000000001
+    "x": 366,
+    "y": 102
   },
-  "glyphBounds": "{{1, 2}, {81, 11}}",
+  "glyphBounds": "{{0, 2}, {68, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Disabled State Copy 3",
+  "name": "Active State Copy 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,13 +83,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5582A0D5-5268-4876-81E4-8D918A3764B9",
+    "do_objectID": "DC610061-3480-4FAC-AA2F-E2B0EAD1F381",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "48DFF50F-85D4-4319-86D0-47F39731BC8A",
+      "do_objectID": "42941550-BF46-428A-BC29-07DE47E5A0E9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

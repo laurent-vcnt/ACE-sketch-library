@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "305EC5E0-40D5-4C4C-A25A-2DBB3CC2A372",
+  "do_objectID": "4E5935D7-D60E-4410-8908-35285C2F223A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 12,
-    "y": 12
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Icons / Placeholder / Small",
+  "name": "Buttons / Icon only / Hover",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "00D604CE-4832-4084-B34E-0C55A5D9FDAE",
-      "overrideName": "66162FD5-D0B2-4E8E-B13D-1B22563F664E_layerStyle",
-      "value": "91B6659D-26DB-425D-9057-F1C26894378C"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DCC0AA91-8E45-470C-8D3B-2393B36A98B9",
+  "symbolID": "14E6CD65-0C9B-41A8-8C1D-2BD27D3280D3",
   "verticalSpacing": 0
 }

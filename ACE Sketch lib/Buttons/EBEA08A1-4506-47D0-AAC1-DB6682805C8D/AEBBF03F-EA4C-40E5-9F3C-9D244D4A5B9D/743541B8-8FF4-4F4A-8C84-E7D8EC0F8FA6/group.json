@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 151,
+    "height": 255,
     "width": 40,
     "x": 549,
-    "y": 52
+    "y": 58
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,16 +30,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "EEDE6D4D-3022-4291-9D57-13A4977A65B6"
+      "class": "symbolInstance",
+      "id": "98DDE48D-C026-4A7C-822D-845EC22440B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "713CB93A-D206-4F9C-9CE0-61ABB3917DB3"
     },
     {
       "class": "rectangle",
       "id": "23BE1948-4FF9-4DE9-B247-A16F66CB27F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "423AC4E5-579E-4676-A842-E7BEB6D6EE28"
     },
     {
       "class": "symbolInstance",
