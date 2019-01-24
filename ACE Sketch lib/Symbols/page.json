@@ -37,14 +37,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9EAE526C-7C7F-4D0C-9483-BC0FB38367B1"
-    },
-    {
-      "class": "rectangle",
-      "id": "48EFA06F-53D1-4F3B-BD10-6A2EE3692917"
-    },
-    {
       "class": "symbolMaster",
       "id": "3C83D227-0E0E-409A-9C6C-7155937DE648"
     },
