@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 80,
+  "changeIdentifier": 81,
   "clippingMaskMode": 0,
   "do_objectID": "2473C2B8-89A4-4B52-AFD9-53B05BF5AD03",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 2937,
+    "x": 3177,
     "y": 992
   },
   "hasBackgroundColor": false,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",

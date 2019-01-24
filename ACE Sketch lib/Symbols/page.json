@@ -37,6 +37,14 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "9EAE526C-7C7F-4D0C-9483-BC0FB38367B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "48EFA06F-53D1-4F3B-BD10-6A2EE3692917"
+    },
+    {
       "class": "symbolMaster",
       "id": "3C83D227-0E0E-409A-9C6C-7155937DE648"
     },
@@ -51,6 +59,22 @@
     {
       "class": "symbolMaster",
       "id": "16B7F989-455A-426F-9756-781FF165FA01"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A4E8AD81-E468-454C-9C48-EF03341E1FBA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9410BB60-F269-42EE-9101-C8A17D81B252"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "89A44EAD-C26E-4B36-B1DA-8335225FB58A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "01957830-3865-4F6A-8433-7F7CECE60870"
     },
     {
       "class": "symbolMaster",
@@ -467,14 +491,6 @@
     {
       "class": "symbolMaster",
       "id": "1A6A7FE0-48DB-4238-8172-DE4BE5E5F25E"
-    },
-    {
-      "class": "rectangle",
-      "id": "9EAE526C-7C7F-4D0C-9483-BC0FB38367B1"
-    },
-    {
-      "class": "rectangle",
-      "id": "48EFA06F-53D1-4F3B-BD10-6A2EE3692917"
     },
     {
       "class": "symbolMaster",
@@ -1043,22 +1059,6 @@
     {
       "class": "symbolMaster",
       "id": "8B853EC9-C0CD-442D-9C44-00BDA4783051"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "01957830-3865-4F6A-8433-7F7CECE60870"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "89A44EAD-C26E-4B36-B1DA-8335225FB58A"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A4E8AD81-E468-454C-9C48-EF03341E1FBA"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "9410BB60-F269-42EE-9101-C8A17D81B252"
     }
   ],
   "name": "Symbols",
