@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4513,
+  "changeIdentifier": 5295,
   "clippingMaskMode": 0,
   "do_objectID": "5BCBB8EA-EE9A-4B7E-AEBC-81BA5B56110D",
   "exportOptions": {
@@ -50,23 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9EAE526C-7C7F-4D0C-9483-BC0FB38367B1"
+      "class": "group",
+      "id": "CFE643AC-9F80-4DEA-92CB-149E1641460E"
     },
     {
       "class": "rectangle",
-      "id": "48EFA06F-53D1-4F3B-BD10-6A2EE3692917"
-    },
-    {
-      "class": "shapePath",
-      "id": "70AD733F-52CD-4E61-B88D-4204588F9E8A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C32F8958-E0DB-4BA5-9D82-22D7046E7EB6"
+      "id": "FEBB64C2-8D23-4BC7-984E-BF15C6F05842"
     }
   ],
   "name": "DNA / Icons / Person / Checkmark / Medium",

@@ -21,7 +21,7 @@
     "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -42,7 +42,7 @@
       "id": "AC91360C-1CAA-4B14-9E87-45F8C9DCF708"
     }
   ],
-  "name": "Group 6",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

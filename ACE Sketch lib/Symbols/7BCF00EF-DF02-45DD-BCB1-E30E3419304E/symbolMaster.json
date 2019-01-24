@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 31,
+  "changeIdentifier": 43,
   "clippingMaskMode": 0,
   "do_objectID": "7BCF00EF-DF02-45DD-BCB1-E30E3419304E",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "3006A026-C2C5-424C-9E27-0B81DC4C848C"
-    },
-    {
       "class": "group",
-      "id": "B2DE964B-7581-40DF-91FE-49B9E9654BC8"
+      "id": "131277C9-9E79-4705-BA2F-714656FD0E2A"
     }
   ],
   "name": "DNA / Icons / Download / Default / Medium",

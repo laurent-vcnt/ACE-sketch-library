@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
+  "changeIdentifier": 32,
   "clippingMaskMode": 0,
   "do_objectID": "8F3CBE7D-E714-4B96-8721-2BD3D21884A8",
   "exportOptions": {
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "A1A5629E-CA05-4A2B-AC02-AB1C4EDC69AA"
+      "id": "7605294A-D1A7-4417-9052-11F0D4942772"
     }
   ],
   "name": "DNA / Icons / Contact / Small",

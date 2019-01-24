@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 32,
+  "changeIdentifier": 52,
   "clippingMaskMode": 0,
   "do_objectID": "26E9E8DD-9858-4402-A899-583A957CC662",
   "exportOptions": {
@@ -46,23 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9B17DFBC-F442-40E9-B24D-BA1AEA4F8986"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "76D31FEB-8266-42D4-B67D-00E6E7ECD8E0"
-    },
-    {
-      "class": "shapePath",
-      "id": "EB3206FE-764C-4478-B18B-338C2341AF81"
-    },
-    {
-      "class": "shapePath",
-      "id": "0F8F0F98-E004-40EF-A37A-0C7FB6BAA55D"
+      "class": "group",
+      "id": "17837AA2-EF53-4C21-B3AD-FE837C8A5B7C"
     }
   ],
   "name": "DNA / Icons / Warning / Circle / Medium",

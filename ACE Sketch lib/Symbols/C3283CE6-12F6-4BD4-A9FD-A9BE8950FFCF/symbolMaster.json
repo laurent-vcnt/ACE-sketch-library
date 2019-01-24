@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
   "do_objectID": "C3283CE6-12F6-4BD4-A9FD-A9BE8950FFCF",
   "exportOptions": {
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "8DDEF48C-B8A5-41A7-8C89-4ADEA899000C"
+      "id": "A5160353-9114-412A-946D-49CED430CC3E"
     }
   ],
   "name": "DNA / Icons / Duplicate / Small",

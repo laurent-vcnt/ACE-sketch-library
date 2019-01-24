@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2783,
+  "changeIdentifier": 13096,
   "clippingMaskMode": 0,
   "do_objectID": "68F717C2-9A7F-43A7-A9E1-623F2251BF80",
   "exportOptions": {
@@ -46,23 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "BE96910B-37D7-4286-8236-6E2FF4324E6C"
-    },
-    {
-      "class": "rectangle",
-      "id": "34A1391C-E3A7-4540-AC33-14CBA5FBAF7D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C24C208F-D753-43FF-9693-FAB0FC907EBE"
-    },
-    {
       "class": "group",
-      "id": "5E4D9622-BD0A-4D48-8217-655798D2CCF0"
+      "id": "EA872BE9-1554-415E-BBBD-7D05449A5A8C"
+    },
+    {
+      "class": "rectangle",
+      "id": "56FC225E-8115-4CBC-AE42-FC0E6B67A626"
     }
   ],
   "name": "DNA / Icons / Person / Clock / Medium",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 32,
+  "changeIdentifier": 61,
   "clippingMaskMode": 0,
   "do_objectID": "5793F997-6F40-4D7A-9556-8420D852278C",
   "exportOptions": {
@@ -46,15 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "173D6DD6-9EEB-4346-ADFB-494CF10F2955"
-    },
     {
       "class": "group",
       "id": "6B0417DE-9C8C-4A7D-B8F0-B425FA0DEC98"
+    },
+    {
+      "class": "rectangle",
+      "id": "173D6DD6-9EEB-4346-ADFB-494CF10F2955"
     }
   ],
   "name": "DNA / Icons / Locker / Closed / Medium",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
+  "changeIdentifier": 34,
   "clippingMaskMode": 0,
   "do_objectID": "D95EC16F-0B02-44B5-91D9-95FEBD5C94A4",
   "exportOptions": {
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "EEDA6B09-795D-4A78-9322-50A1DCA0D81A"
+      "id": "4FBEFFDA-3567-47D8-9A6A-9F0CDB5291D2"
     }
   ],
   "name": "DNA / Icons / Logout / Small",

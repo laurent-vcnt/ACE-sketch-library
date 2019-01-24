@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 32,
+  "changeIdentifier": 47,
   "clippingMaskMode": 0,
   "do_objectID": "59AEF6EA-7CC3-4F22-8B73-E5A8D89FC1E4",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "275A424F-41D5-4573-A9D2-6AB6EBB2D8D8"
-    },
-    {
-      "class": "group",
-      "id": "C9115B3C-9882-45C1-8485-4B3E5259D3B0"
+      "id": "AA708F13-81F2-4A87-BBC9-C24944591E5E"
     }
   ],
   "name": "DNA / Icons / Menu / 3 dots / Vertical / Medium",

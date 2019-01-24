@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 22,
+  "changeIdentifier": 60,
   "clippingMaskMode": 0,
   "do_objectID": "63FA0014-A16D-473A-BAD5-863D378CDDE9",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "FF2DB86B-1B09-4422-B154-E9B7ABB6F139"
-    },
-    {
       "class": "group",
-      "id": "C0E2BB49-5C88-41A3-B7BB-5CAAA4A63DC2"
+      "id": "4559EEC0-E2C9-4F65-96E1-582325EAFD58"
     }
   ],
   "name": "DNA / Icons / Account group / Medium",

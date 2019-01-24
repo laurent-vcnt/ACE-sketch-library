@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 31,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "C26DE523-A381-4852-831C-1B1BD76BEFF1",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "99E21D50-C971-4FAF-BAE0-671E4874349B"
-    },
-    {
-      "class": "group",
-      "id": "B6375929-8BD3-4E3B-AD12-1930F79A1F9A"
+      "id": "EB4BA53E-85E2-45AE-A3F7-9374116CC478"
     }
   ],
   "name": "DNA / Icons / Trash / Medium",

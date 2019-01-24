@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29,
+  "changeIdentifier": 41,
   "clippingMaskMode": 0,
   "do_objectID": "DDBEEBDC-F8A3-495C-AF8F-C24D2D35B38F",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E5BABE5F-5B50-4EA4-A70E-FE28A0C35A68"
-    },
-    {
       "class": "group",
-      "id": "96C6EC0B-7717-4331-BEF2-243E6E5F8C1D"
+      "id": "EE04FA42-B04B-485E-9B5A-AE0124FD53C7"
     }
   ],
   "name": "DNA / Icons / Cogwheel / Medium",

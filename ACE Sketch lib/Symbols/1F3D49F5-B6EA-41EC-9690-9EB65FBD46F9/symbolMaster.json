@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 31,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "1F3D49F5-B6EA-41EC-9690-9EB65FBD46F9",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "F7BA8956-3F82-4695-855D-89414070167A"
-    },
-    {
-      "class": "shapePath",
-      "id": "F6F2DA5B-CBBA-43C9-ADF9-517D161DA820"
+      "class": "group",
+      "id": "73E917D1-CF0C-40B8-8BC6-056112A62478"
     }
   ],
   "name": "DNA / Icons / Chevron / Down / Medium",

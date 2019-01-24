@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
+  "changeIdentifier": 35,
   "clippingMaskMode": 0,
   "do_objectID": "93708B5B-62B7-4EEE-ABA6-FA9862501350",
   "exportOptions": {
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "9A0AE215-4D1D-4352-8928-CAF59885C7C7"
+      "id": "D8005D97-7C73-4A05-972C-7EAD812A0F6F"
     }
   ],
   "name": "DNA / Icons / Print / Small",

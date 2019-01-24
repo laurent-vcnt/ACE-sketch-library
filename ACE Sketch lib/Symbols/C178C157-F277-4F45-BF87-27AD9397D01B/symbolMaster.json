@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2350,
+  "changeIdentifier": 4333,
   "clippingMaskMode": 0,
   "do_objectID": "C178C157-F277-4F45-BF87-27AD9397D01B",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -57,16 +57,12 @@
       "id": "23200F6D-C68D-4580-A7D2-A42D98C3237A"
     },
     {
-      "class": "shapeGroup",
-      "id": "55037D4F-3E5B-4A3E-9557-679D3E8A455A"
+      "class": "group",
+      "id": "A4383834-6237-4336-AF5D-EBF99728FE98"
     },
     {
-      "class": "shapePath",
-      "id": "AFB75904-8B56-430A-BFD6-681CBC7FB99D"
-    },
-    {
-      "class": "shapePath",
-      "id": "B85E216B-E9F2-4C88-A993-0DF656B088E0"
+      "class": "rectangle",
+      "id": "882AA3BE-7D04-4A2E-84E0-2837CC084F73"
     }
   ],
   "name": "DNA / Icons / Person / Crossmark / Medium",

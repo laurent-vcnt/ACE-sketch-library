@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16,
+  "changeIdentifier": 39,
   "clippingMaskMode": 0,
   "do_objectID": "E06F4A61-6191-4479-A89D-D52317FAD0EF",
   "exportOptions": {
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "6828BBCD-5FA3-4C65-B85C-1C2EC8858BED"
+      "id": "C8E8851D-2365-4770-B080-E0A84B80D326"
     }
   ],
   "name": "DNA / Icons / Download / Default / Small",

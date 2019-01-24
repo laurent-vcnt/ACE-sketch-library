@@ -21,7 +21,7 @@
     "y": 4
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -38,7 +38,7 @@
       "id": "17FEE34F-28F8-44B0-8D2F-9A5248121EC6"
     }
   ],
-  "name": "Group 13",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

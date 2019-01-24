@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 32,
+  "changeIdentifier": 47,
   "clippingMaskMode": 0,
   "do_objectID": "B8CF9A90-1A2B-4305-996A-D35A8215613D",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A6896BD7-0CD2-4CA7-97AC-669202842788"
-    },
-    {
       "class": "group",
-      "id": "91912D71-D22B-4ED9-A00B-14AD4AC5B401"
+      "id": "9E0AAC64-2D14-408A-A643-1FD6C45F0FB6"
     }
   ],
   "name": "DNA / Icons / Menu / Hamburger / Medium",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29,
+  "changeIdentifier": 44,
   "clippingMaskMode": 0,
   "do_objectID": "BC408F2D-E473-4463-9DD9-6C76177983C1",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "648AB074-8817-43C4-8789-59777CCB7A14"
-    },
-    {
       "class": "group",
-      "id": "D253F4BD-F662-4DCB-AAB9-1E53B7E01ED1"
+      "id": "7E8B1B38-4841-4A8A-B851-6922C6FC242B"
     }
   ],
   "name": "DNA / Icons / Calendar / Medium",

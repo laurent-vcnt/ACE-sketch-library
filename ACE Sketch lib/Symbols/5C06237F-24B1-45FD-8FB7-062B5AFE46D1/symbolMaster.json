@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 34,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "5C06237F-24B1-45FD-8FB7-062B5AFE46D1",
   "exportOptions": {
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2D63E77E-6F1E-4465-A5F6-9B27B76D1239"
-    },
-    {
       "class": "group",
-      "id": "B1E82C69-0210-4C15-9E5C-8193C4022BCA"
+      "id": "5BAD5A4E-D822-4EB5-88A6-7F78A1EDC4A3"
     }
   ],
   "name": "DNA / Icons / Info / Circle / Medium",
