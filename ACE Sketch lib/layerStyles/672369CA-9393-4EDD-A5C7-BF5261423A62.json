@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "C01B15EA-A3A7-41FF-BE60-07F54FACA5C0",
-  "name": "Icons / Icon placeholder",
+  "do_objectID": "672369CA-9393-4EDD-A5C7-BF5261423A62",
+  "name": "Icons / Button disabled",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -11,9 +11,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.4352941176470588,
+          "green": 0.4352941176470588,
+          "red": 0.4352941176470588
         },
         "fillType": 0,
         "isEnabled": true,

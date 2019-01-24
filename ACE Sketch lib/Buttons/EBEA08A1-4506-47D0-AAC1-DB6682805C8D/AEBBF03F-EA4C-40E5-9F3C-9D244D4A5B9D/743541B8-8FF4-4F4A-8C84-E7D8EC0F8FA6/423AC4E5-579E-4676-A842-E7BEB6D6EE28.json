@@ -33,6 +33,12 @@
   "name": "DNA / Icons / Placeholder / Small",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD02DA9E-6A66-4151-958E-7967FE169B2B",
+      "overrideName": "66162FD5-D0B2-4E8E-B13D-1B22563F664E_layerStyle",
+      "value": "672369CA-9393-4EDD-A5C7-BF5261423A62"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,6 +53,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AF755CF5-6FB1-4AFF-B606-4BBD72376AC7",
+  "symbolID": "DCC0AA91-8E45-470C-8D3B-2393B36A98B9",
   "verticalSpacing": 0
 }

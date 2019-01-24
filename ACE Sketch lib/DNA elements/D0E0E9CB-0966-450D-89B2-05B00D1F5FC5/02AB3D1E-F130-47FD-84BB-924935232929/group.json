@@ -48,6 +48,14 @@
     {
       "class": "rectangle",
       "id": "79CD7E05-AD6C-497C-B7F3-19249B4CD0A4"
+    },
+    {
+      "class": "rectangle",
+      "id": "19A1F16A-1301-4258-84D6-6B38BB0ED544"
+    },
+    {
+      "class": "rectangle",
+      "id": "C29FEA35-38FF-4B47-A62B-A853A9C1C5E0"
     }
   ],
   "name": "Icon colors palette",

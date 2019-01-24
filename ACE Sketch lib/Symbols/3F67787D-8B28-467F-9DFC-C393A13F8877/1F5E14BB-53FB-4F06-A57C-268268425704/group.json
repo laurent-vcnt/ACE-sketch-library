@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "0AFD3CF0-333D-4DD0-9BA1-01F4C592A251",
+  "do_objectID": "1F5E14BB-53FB-4F06-A57C-268268425704",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F51702D0-E0D1-4603-B566-CAF4AAD7EA21",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +15,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "F6512B13-A096-4D17-B18F-F334D9643EEF",
     "height": 16,
-    "width": 16,
-    "x": 0,
+    "width": 13,
+    "x": 1.5,
     "y": 0
   },
-  "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "DNA / Icons / Trash / Medium",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8496A8A3-B5DA-4932-A031-6BF0DCB285BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFF31011-60CC-4E22-8C8F-C79849231CC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7CB796C-E43B-4AC1-B704-C24BF10AA97D"
+    },
+    {
+      "class": "shapePath",
+      "id": "83D5C77E-63D6-40C6-A17B-6DF703D280CE"
+    }
   ],
+  "name": "Mask",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7A184354-A953-4EF3-9BEE-7BA45B169310",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "2CBF23ED-3978-4776-8FEE-E4A5A0F48E8D",
-  "verticalSpacing": 0
+  }
 }

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "C01B15EA-A3A7-41FF-BE60-07F54FACA5C0",
-  "name": "Icons / Icon placeholder",
+  "do_objectID": "564ACA4B-F2A9-4D7B-B703-C7BD5285777C",
+  "name": "Icons / Grey Collected 2",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -11,9 +11,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.3450980392156863,
+          "green": 0.3450980392156863,
+          "red": 0.3450980392156863
         },
         "fillType": 0,
         "isEnabled": true,
