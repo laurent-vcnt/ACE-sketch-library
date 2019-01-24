@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
   "clippingMaskMode": 0,
-  "do_objectID": "3C83D227-0E0E-409A-9C6C-7155937DE648",
+  "do_objectID": "EBEA08A1-4506-47D0-AAC1-DB6682805C8D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 163,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 1600,
+    "x": 1367,
+    "y": -265
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,7 +37,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -46,19 +44,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "D8934F5A-9372-4A5C-BC57-1DE2D8ECA1E1"
+      "class": "group",
+      "id": "050971C2-763B-43F0-8E8B-0CD4DB9FD7D3"
     },
     {
-      "class": "text",
-      "id": "092AB40D-468B-463F-A652-A52A54059334"
+      "class": "group",
+      "id": "AEBBF03F-EA4C-40E5-9F3C-9D244D4A5B9D"
+    },
+    {
+      "class": "group",
+      "id": "6E383EC1-2F7B-4A64-89CF-FFF545619E72"
     }
   ],
-  "name": "Buttons / Flat / Active",
+  "name": "Variants",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD 1600",
+    "offersLandscapeVariant": 0,
+    "width": 1600
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "01080F2A-86CE-4676-97E4-DC3820CE5A98",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2DDA262A-140F-4917-8E2E-5D23F628BD55",
+  "do_objectID": "A42E8349-6FC4-42E9-B614-8A52B179FD24",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 784,
-    "width": 800,
-    "x": 42,
-    "y": 2311
+    "height": 40,
+    "width": 163,
+    "x": 430,
+    "y": 52
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "group",
-      "id": "6DD4F4E5-4EC5-458E-A4FB-FE7F62F2C010"
-    },
-    {
-      "class": "group",
-      "id": "A218344B-5289-4682-8F23-3B3F9DCEC908"
-    },
-    {
-      "class": "group",
-      "id": "FDEA990C-53B7-4CCA-8EC0-98B9B8216D1C"
-    },
-    {
-      "class": "text",
-      "id": "4622534D-949E-4C00-81E3-7D6588194C06"
-    }
+  "layerListExpandedType": 0,
+  "name": "Buttons / Flat / Active",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Collected",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,5 +43,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "01080F2A-86CE-4676-97E4-DC3820CE5A98",
+  "verticalSpacing": 0
 }

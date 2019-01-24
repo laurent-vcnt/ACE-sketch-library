@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "616BED88-06AB-4796-B84F-FC826FDF1003",
+  "do_objectID": "9AF76D88-3A4A-4BC5-963D-254760DFFB4D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0186AD4E-5B16-4D9A-853E-E5DF73D9EB7D",
+    "do_objectID": "10205687-3985-41D5-8E31-C092C8528920",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BB74DF67-29BF-4FEE-9696-CDC2173FA919",
+    "do_objectID": "DED5F4B3-055C-41BB-8C4C-7A305D4AB870",
     "height": 40,
-    "width": 163,
+    "width": 40,
     "x": 0,
-    "y": 0
+    "y": 111
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle 233 Copy 12",
+  "name": "Rectangle 233 Copy 13",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 0,
   "points": [
@@ -84,17 +84,17 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2ACE02EB-B587-4386-AD80-0AC5D392838D",
+    "do_objectID": "6C73544F-DB2D-4C7C-9E7A-FB23E5D6F27D",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 1,
+          "blue": 0.03529411764705881,
+          "green": 0.0901960784313725,
+          "red": 0.807843137254902
         },
         "fillType": 0,
         "gradient": {
