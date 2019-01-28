@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 237,
+  "changeIdentifier": 334,
   "clippingMaskMode": 0,
   "do_objectID": "FB170394-EBAB-483C-B0D6-4F4CB5C65D7B",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -61,7 +61,7 @@
       "id": "3511E1BC-61C4-4A68-936F-D050129E49A4"
     }
   ],
-  "name": "Notifications / Error / Mono-line / Base",
+  "name": "Notifications / Error / Base",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

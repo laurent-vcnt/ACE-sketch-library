@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 27,
   "clippingMaskMode": 0,
   "do_objectID": "BEEA64A9-A486-4F90-9873-EA07F0176BA1",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "D9D44BEA-B355-41B3-9729-87409F1C7843"
     }
   ],
-  "name": "Notifications / Warning / Mono-line / Base",
+  "name": "Notifications / Warning / Base",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

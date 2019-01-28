@@ -27,11 +27,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 70,
+        "length": 98,
         "location": 0
       }
     ],
-    "string": "Focus State with maximum tags reached\n\n+ multi-line serie of tag items"
+    "string": "Disabled state because of max values reached State\n + notification\n+ multi-line serie of tag items"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,12 +61,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B95EA009-1CAC-4E05-9DDC-5F8F7AD44CB5",
-    "height": 60,
+    "height": 75,
     "width": 179,
     "x": 0,
     "y": 383
   },
-  "glyphBounds": "{{0, 2}, {164, 58}}",
+  "glyphBounds": "{{0, 2}, {175, 73}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Focus State with max",
+  "name": "Disabled state becau",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

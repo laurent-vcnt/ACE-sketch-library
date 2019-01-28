@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A8A62D1C-CBB7-461B-91F9-09FFC5D3D8AD",
+  "do_objectID": "40518CB9-1D85-4C5F-AB4D-3B36A4184854",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7365BC71-B044-4776-906B-47B32C104EBD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 300,
-    "x": 0,
-    "y": 86
+    "do_objectID": "FD68252E-0685-44F1-B187-E4561A6434D2",
+    "height": 16,
+    "width": 16,
+    "x": 12,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,28 +30,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form elements / Autocomplete / Input text / Disabled",
+  "name": "DNA / Icons / Error / Circle / Small",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4B0304FD-598A-4D89-ADDD-0E5A4E556AB3",
-      "overrideName": "700D2751-1484-4C4D-9CAE-0C09680F7D2A/01E34B6D-BBF3-42B9-9D6E-8D3D845ABD7F_stringValue",
-      "value": "Type something here…"
+      "do_objectID": "F5E2BCFD-593E-4D64-AA0B-16EAA3DCCB83",
+      "overrideName": "55AB15F0-FBFA-4CF8-A2A8-C5B93CF84172/2DBEBB28-038E-445C-A107-FC485D556172_layerStyle",
+      "value": "26C490DF-11EC-46A5-8270-2AEF4CD2F145"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D1DBDDFE-62DE-4706-ACF7-3F86288F7617",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "25546523-92BB-4546-8F2E-63600B2262B2",
+  "symbolID": "791A21AD-2E73-45A4-99BB-8EEBD7E9266E",
   "verticalSpacing": 0
 }

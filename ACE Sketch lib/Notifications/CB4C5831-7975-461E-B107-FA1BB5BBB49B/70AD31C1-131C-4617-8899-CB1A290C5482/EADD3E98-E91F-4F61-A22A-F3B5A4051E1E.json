@@ -9,47 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3450980392156863,
-            "green": 0.3450980392156863,
-            "red": 0.3450980392156863
+            "blue": 0,
+            "green": 0.3607843137254902,
+            "red": 0.592156862745098
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
-              "size": 13
+              "name": "Roboto-Regular",
+              "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
-          },
-          "strikethroughStyle": 0,
-          "underlineStyle": 0
+          }
         },
-        "length": 30,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Simple error with close button"
+    "string": "Your password will expire in 14 days."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "ACD7E222-D81D-4B40-AF64-2A030E10C4D4",
+  "do_objectID": "EADD3E98-E91F-4F61-A22A-F3B5A4051E1E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -59,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 179,
-    "x": 30,
-    "y": 243
+    "height": 16,
+    "width": 520,
+    "x": 40,
+    "y": 12
   },
-  "glyphBounds": "{{0, 2}, {169, 13}}",
+  "glyphBounds": "{{0, 2}, {228, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,15 +63,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Simple error with cl",
+  "lineSpacingBehaviour": 2,
+  "name": "Your password will e",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "EE2A6976-38A1-4B0D-9190-95FCA90F6FD3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "391D974F-130F-40AF-873B-3A646711B17C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -90,34 +83,27 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3450980392156863,
-          "red": 0.3450980392156863
+          "blue": 0,
+          "green": 0.3607843137254902,
+          "red": 0.592156862745098
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
-            "size": 13
+            "name": "Roboto-Regular",
+            "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
-        },
-        "strikethroughStyle": 0,
-        "underlineStyle": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 1
 }

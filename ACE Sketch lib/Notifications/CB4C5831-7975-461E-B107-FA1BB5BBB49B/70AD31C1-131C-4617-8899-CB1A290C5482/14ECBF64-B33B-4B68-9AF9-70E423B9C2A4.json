@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D16D2C5B-1AAD-4AAA-99B0-77EE4A65B274",
+  "do_objectID": "14ECBF64-B33B-4B68-9AF9-70E423B9C2A4",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F6327B3F-5496-4468-B48A-3E69CACA2A70",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 360,
-    "x": 309,
-    "y": 376
+    "do_objectID": "93BBBFE0-B47C-4F34-81EB-3C5A223A4F73",
+    "height": 16,
+    "width": 16,
+    "x": 1290,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,22 +30,28 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Notifications / Error / Mono-line / With notification type label with close button",
+  "name": "DNA / Icons / Crossmark / Small",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle",
+      "value": "59D2A3FA-7BEB-4D67-A9D3-9FEBF5CD3DD6"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5659C0F8-9A9C-441C-BB4E-1092492E7363",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CECBC126-ACE1-4EE8-AA34-E7598F0BECFE",
+  "symbolID": "5729B141-A543-4BF6-8D04-E6DFD5261704",
   "verticalSpacing": 0
 }

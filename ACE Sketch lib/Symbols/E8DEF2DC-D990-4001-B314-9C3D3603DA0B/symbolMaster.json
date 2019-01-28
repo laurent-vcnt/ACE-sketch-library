@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 23,
+  "changeIdentifier": 27,
   "clippingMaskMode": 0,
   "do_objectID": "E8DEF2DC-D990-4001-B314-9C3D3603DA0B",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "99AFC7D1-7DD1-474A-89D1-B24879C79111"
     }
   ],
-  "name": "Notifications / Informative / Mono-line / Base",
+  "name": "Notifications / Informative / Base",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

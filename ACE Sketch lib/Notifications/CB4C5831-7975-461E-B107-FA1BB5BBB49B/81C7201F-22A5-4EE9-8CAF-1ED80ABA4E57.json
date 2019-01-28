@@ -27,19 +27,20 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 35,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Simple error with notification type"
+    "string": "Normal State"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9969CC45-E762-4B0C-ABDA-E2EF0AA8D280",
+  "do_objectID": "81C7201F-22A5-4EE9-8CAF-1ED80ABA4E57",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8EF1E4A0-CF49-4650-A45D-CA392FCDEF0E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,12 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
+    "do_objectID": "365C50A4-752A-4F93-9ED0-1D5484689A51",
+    "height": 15,
     "width": 179,
-    "x": 30,
-    "y": 315
+    "x": 32,
+    "y": 795
   },
-  "glyphBounds": "{{0, 2}, {163, 28}}",
+  "glyphBounds": "{{1, 2}, {74, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Simple error with no Copy",
+  "name": "Normal State",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,11 +83,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BC1811F4-46A2-4D12-B188-606B9783F103",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "D62DA2F3-3721-4A12-8BF8-2BBB85C4C9E8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

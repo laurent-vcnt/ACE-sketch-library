@@ -53,7 +53,7 @@
     "constrainProportions": false,
     "do_objectID": "C7BDC631-EFAE-4FE9-AEFC-CBD04ABB9E17",
     "height": 16,
-    "width": 168,
+    "width": 242,
     "x": 78,
     "y": 12
   },
@@ -68,7 +68,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Notification message",
   "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "BA8540DC-CFAB-4227-BE85-FC5BF5995081",
@@ -108,5 +108,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

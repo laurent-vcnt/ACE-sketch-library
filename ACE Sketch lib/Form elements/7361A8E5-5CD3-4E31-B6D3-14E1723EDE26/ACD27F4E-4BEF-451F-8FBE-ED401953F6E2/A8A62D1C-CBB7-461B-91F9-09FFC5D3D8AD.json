@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3E48ED05-2224-4068-AAEF-3657E8E98CA4",
+  "do_objectID": "A8A62D1C-CBB7-461B-91F9-09FFC5D3D8AD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 360,
-    "x": 309,
-    "y": 160
+    "width": 300,
+    "x": 300,
+    "y": 521
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Notifications / Error / Mono-line / Base",
+  "name": "Form elements / Autocomplete / Input text / Disabled",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B0304FD-598A-4D89-ADDD-0E5A4E556AB3",
+      "overrideName": "700D2751-1484-4C4D-9CAE-0C09680F7D2A/01E34B6D-BBF3-42B9-9D6E-8D3D845ABD7F_stringValue",
+      "value": "Type something here…"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "35D96573-84F5-4FDE-A549-55A24E9FBE05",
+  "symbolID": "25546523-92BB-4546-8F2E-63600B2262B2",
   "verticalSpacing": 0
 }

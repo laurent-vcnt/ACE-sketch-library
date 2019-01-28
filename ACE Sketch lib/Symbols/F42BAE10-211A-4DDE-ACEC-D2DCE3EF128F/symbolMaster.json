@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 39,
+  "changeIdentifier": 43,
   "clippingMaskMode": 0,
   "do_objectID": "F42BAE10-211A-4DDE-ACEC-D2DCE3EF128F",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 420
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
       "id": "838CC1EF-9E5B-42A6-8509-14D6BC5463AE"
     }
   ],
-  "name": "Notifications / Warning / Mono-line / With notification type label with close button",
+  "name": "Notifications / Warning / With notification type label with close button",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

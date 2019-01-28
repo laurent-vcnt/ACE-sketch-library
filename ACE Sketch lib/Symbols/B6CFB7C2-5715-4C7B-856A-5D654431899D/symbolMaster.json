@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 169,
+  "changeIdentifier": 174,
   "clippingMaskMode": 0,
   "do_objectID": "B6CFB7C2-5715-4C7B-856A-5D654431899D",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -69,7 +69,7 @@
       "id": "8ADEFC52-ECE2-43D8-982F-23DA258565CE"
     }
   ],
-  "name": "Notifications / Error / Mono-line / With close button",
+  "name": "Notifications / Error / With close button",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

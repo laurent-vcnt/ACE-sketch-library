@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -68,10 +68,6 @@
     {
       "class": "symbolInstance",
       "id": "285F65EF-B987-47FF-A929-62C756E0B623"
-    },
-    {
-      "class": "text",
-      "id": "AD50721C-0AD8-4D64-A3EB-B06E57134269"
     }
   ],
   "name": "Autocomplete multi-value",

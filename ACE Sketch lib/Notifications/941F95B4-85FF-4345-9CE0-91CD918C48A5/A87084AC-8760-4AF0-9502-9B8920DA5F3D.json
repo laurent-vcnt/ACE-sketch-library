@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 21,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Notifications – #atom"
+    "string": "Notifications mono-line – #Molecule"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 30,
     "y": 30
   },
-  "glyphBounds": "{{3, 5}, {262, 23}}",
+  "glyphBounds": "{{3, 5}, {449, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

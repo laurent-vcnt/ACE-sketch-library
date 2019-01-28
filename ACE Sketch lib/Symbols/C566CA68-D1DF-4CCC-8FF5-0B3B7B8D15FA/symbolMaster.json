@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 46,
+  "changeIdentifier": 50,
   "clippingMaskMode": 0,
   "do_objectID": "C566CA68-D1DF-4CCC-8FF5-0B3B7B8D15FA",
   "exportOptions": {
@@ -65,7 +65,7 @@
       "id": "99477D2A-CC00-404B-B13E-E3EE5B8D0BD4"
     }
   ],
-  "name": "Notifications / Informative / Mono-line / With notification type",
+  "name": "Notifications / Informative / With notification type",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

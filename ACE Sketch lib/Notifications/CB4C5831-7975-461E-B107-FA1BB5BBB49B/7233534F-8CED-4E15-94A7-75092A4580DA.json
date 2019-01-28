@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 10,
+        "length": 38,
         "location": 0
       }
     ],
-    "string": "Multi-line"
+    "string": "Multi-line using the mono-line symbols"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -64,7 +64,7 @@
     "x": 31,
     "y": 92
   },
-  "glyphBounds": "{{1, 8}, {93, 18}}",
+  "glyphBounds": "{{1, 8}, {386, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +73,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Multi-line",
+  "name": "Multi-line using the",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
