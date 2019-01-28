@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Roboto-Regular",
               "size": 14
             }
           },
@@ -27,16 +27,16 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Warning:"
+    "string": "Notification message here."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E08F1C97-487F-4DC4-8812-99A974E4DEAD",
+  "do_objectID": "E401CC50-D2E8-4FEC-A450-AD0D17ABE6DD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,29 +51,29 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 56,
-    "x": 40,
+    "width": 168,
+    "x": 100,
     "y": 12
   },
-  "glyphBounds": "{{0, 2}, {55, 14}}",
+  "glyphBounds": "{{1, 2}, {166, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Warning:",
+  "name": "Notification message",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "3C69DE73-BBC8-4BB7-8AD9-1E1B73F63C86",
+  "sharedStyleID": "013DAB06-E8DA-41C2-AE98-567A4DF8A35D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0D9C2D32-AFFE-448B-983D-14EC47EF06B7",
+    "do_objectID": "1436D05F-4E00-4F0A-A620-6E0EB61B7B1D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Roboto-Regular",
             "size": 14
           }
         },

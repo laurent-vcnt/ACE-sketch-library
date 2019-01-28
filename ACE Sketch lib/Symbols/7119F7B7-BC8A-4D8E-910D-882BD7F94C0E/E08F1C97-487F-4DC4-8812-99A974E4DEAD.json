@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7647058823529411,
-            "green": 0.4156862745098038,
-            "red": 0
+            "blue": 0,
+            "green": 0.4666666666666667,
+            "red": 0.2588235294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "Roboto-Medium",
               "size": 14
             }
           },
@@ -27,16 +27,16 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 26,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Notification message here."
+    "string": "Success:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "661F2FEB-846F-4CA9-8C4E-7C132418C8D5",
+  "do_objectID": "E08F1C97-487F-4DC4-8812-99A974E4DEAD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,29 +51,29 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 168,
-    "x": 99,
+    "width": 57,
+    "x": 40,
     "y": 12
   },
-  "glyphBounds": "{{1, 2}, {166, 14}}",
+  "glyphBounds": "{{0, 2}, {56, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Notification message",
+  "name": "Success:",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CB6D67B5-B969-436E-B300-BFFE63AA5AC0",
+  "sharedStyleID": "3C69DE73-BBC8-4BB7-8AD9-1E1B73F63C86",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0A553547-67A0-4603-B178-D87378856706",
+    "do_objectID": "0D9C2D32-AFFE-448B-983D-14EC47EF06B7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,14 +83,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7647058823529411,
-          "green": 0.4156862745098038,
-          "red": 0
+          "blue": 0,
+          "green": 0.4666666666666667,
+          "red": 0.2588235294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "Roboto-Medium",
             "size": 14
           }
         },

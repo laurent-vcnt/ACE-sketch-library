@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 79,
   "clippingMaskMode": 0,
   "do_objectID": "7119F7B7-BC8A-4D8E-910D-882BD7F94C0E",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 420
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,16 +46,32 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "E78FDD7A-8146-4CE1-9FF4-77E0EB0BDE2D"
+      "class": "rectangle",
+      "id": "FDC64C7D-435E-4DF9-B91D-C55705A27929"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A183BA0D-4D4C-47CC-9DD0-423F0CE32593"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A7C2410-A967-4F0D-A72D-862B2655905F"
+    },
+    {
+      "class": "text",
+      "id": "E08F1C97-487F-4DC4-8812-99A974E4DEAD"
+    },
+    {
+      "class": "text",
+      "id": "E401CC50-D2E8-4FEC-A450-AD0D17ABE6DD"
     }
   ],
   "name": "Notifications / Success / Mono-line / With notification type label with close button",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

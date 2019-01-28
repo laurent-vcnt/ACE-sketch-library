@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C270F688-2627-497C-B12B-7B5F365EA75F",
+  "do_objectID": "1E947869-4D2E-43EE-8C4C-C7F877E4C7B9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -33,12 +33,12 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C941CE87-A883-4DAA-9D75-D28905E232C1",
+      "do_objectID": "FDABF1DE-CB0E-4468-AF97-4870606BDFC9",
       "overrideName": "55AB15F0-FBFA-4CF8-A2A8-C5B93CF84172/2DBEBB28-038E-445C-A107-FC485D556172_layerStyle",
       "value": "26C490DF-11EC-46A5-8270-2AEF4CD2F145"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7647058823529411,
-            "green": 0.4156862745098038,
-            "red": 0
+            "blue": 0,
+            "green": 0.4666666666666667,
+            "red": 0.2588235294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -36,7 +36,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6EA8251A-F8C1-4E73-B01D-BDF2DC3E83D2",
+  "do_objectID": "4EC60012-6A8A-495C-862D-D4356422271D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,14 +66,14 @@
   "lineSpacingBehaviour": 2,
   "name": "Notification message",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CB6D67B5-B969-436E-B300-BFFE63AA5AC0",
+  "sharedStyleID": "013DAB06-E8DA-41C2-AE98-567A4DF8A35D",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B74EB552-0AA2-468C-B219-CF9A3BDEB913",
+    "do_objectID": "CA40BAAA-C7B0-44A7-A489-433414EE07AC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,9 +83,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7647058823529411,
-          "green": 0.4156862745098038,
-          "red": 0
+          "blue": 0,
+          "green": 0.4666666666666667,
+          "red": 0.2588235294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

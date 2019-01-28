@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
+  "changeIdentifier": 23,
   "clippingMaskMode": 0,
   "do_objectID": "E8DEF2DC-D990-4001-B314-9C3D3603DA0B",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,16 +46,24 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "AA794BDB-D2B8-441D-82A7-2FA24045E384"
+      "class": "rectangle",
+      "id": "2C1A1515-63A4-4974-8575-6FBDAC699C03"
+    },
+    {
+      "class": "text",
+      "id": "6EA8251A-F8C1-4E73-B01D-BDF2DC3E83D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99AFC7D1-7DD1-474A-89D1-B24879C79111"
     }
   ],
   "name": "Notifications / Informative / Mono-line / Base",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

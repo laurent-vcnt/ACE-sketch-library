@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 30,
   "clippingMaskMode": 0,
   "do_objectID": "2C93C5DA-BC81-4A49-BE02-479A2FA256D3",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 140
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,16 +46,28 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "86C66B66-EB93-4B89-871E-6B853C1214DB"
+      "class": "rectangle",
+      "id": "341DFE92-3AF2-43A9-9029-02054CBA21DB"
+    },
+    {
+      "class": "text",
+      "id": "4EC60012-6A8A-495C-862D-D4356422271D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E947869-4D2E-43EE-8C4C-C7F877E4C7B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BC47E15-1785-4080-89A8-FDE75C583F89"
     }
   ],
   "name": "Notifications / Success / Mono-line / With close button",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

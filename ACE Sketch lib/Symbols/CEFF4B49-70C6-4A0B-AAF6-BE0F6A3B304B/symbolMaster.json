@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 34,
+  "changeIdentifier": 48,
   "clippingMaskMode": 0,
   "do_objectID": "CEFF4B49-70C6-4A0B-AAF6-BE0F6A3B304B",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 280
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -67,7 +67,7 @@
   ],
   "name": "Notifications / Warning / Mono-line / With notification type",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

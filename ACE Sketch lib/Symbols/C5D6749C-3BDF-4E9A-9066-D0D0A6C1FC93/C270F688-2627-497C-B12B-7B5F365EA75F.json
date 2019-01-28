@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A5A1F219-72E6-4017-BCE0-38C138938F5D",
+  "do_objectID": "C270F688-2627-497C-B12B-7B5F365EA75F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 360,
-    "x": 0,
-    "y": 0
+    "height": 16,
+    "width": 16,
+    "x": 12,
+    "y": 12
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "DNA / Icons / Success / Circle / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "E11AA91E-1637-4C51-BF3A-2087FD1DC987"
-    },
-    {
-      "class": "text",
-      "id": "EB6CF530-4D63-4FE2-92F4-844BD562940D"
-    },
-    {
-      "class": "text",
-      "id": "F8410FEB-8B41-48E5-8078-99BFE84B8E78"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "99477D2A-CC00-404B-B13E-E3EE5B8D0BD4"
+      "_class": "overrideValue",
+      "do_objectID": "C941CE87-A883-4DAA-9D75-D28905E232C1",
+      "overrideName": "55AB15F0-FBFA-4CF8-A2A8-C5B93CF84172/2DBEBB28-038E-445C-A107-FC485D556172_layerStyle",
+      "value": "26C490DF-11EC-46A5-8270-2AEF4CD2F145"
     }
   ],
-  "name": "Notifications / Warning / With notification type Copy",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,5 +49,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "791A21AD-2E73-45A4-99BB-8EEBD7E9266E",
+  "verticalSpacing": 0
 }
