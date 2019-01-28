@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13,
+  "changeIdentifier": 21,
   "clippingMaskMode": 0,
   "do_objectID": "DEF411C4-91B1-4F2C-B418-3BEFC606B783",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 64,
     "width": 347,
-    "x": 24519,
+    "x": 26759,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -69,7 +69,7 @@
       "id": "EDBD50EE-0026-4225-8538-D1D37D53240E"
     }
   ],
-  "name": "Tags / Multi-line serie of tag items / Monoline",
+  "name": "Tags / Multi-line serie of tag items / Mono-line",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

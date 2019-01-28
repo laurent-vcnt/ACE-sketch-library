@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA2424FC-610B-4C41-B68C-E17317219CF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BECD496D-4C4A-4561-82E9-BC737D052E8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3CBCCDC-9EC4-4E53-B61A-DDFC7271B621",
+    "height": 40,
+    "width": 360,
+    "x": 309,
+    "y": 232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications / Error / Mono-line / With close button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "160D7439-5482-4E8D-A5CE-ECC69CCAFE29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "08AB071F-DA16-4834-941C-53726D002AF3",
+  "verticalSpacing": 0
+}

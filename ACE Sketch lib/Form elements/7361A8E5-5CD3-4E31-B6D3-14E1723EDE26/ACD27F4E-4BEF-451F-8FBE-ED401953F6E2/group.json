@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
+    "height": 509,
     "width": 647,
     "x": 31,
     "y": 564
@@ -42,8 +42,16 @@
       "id": "BBFAC1DB-2251-44D2-983E-49CD64F00C59"
     },
     {
+      "class": "group",
+      "id": "8638C8B4-D817-40F8-8358-88F92CBB1A6B"
+    },
+    {
       "class": "text",
       "id": "8F93BF83-4082-4FFA-8472-A3BE36846CAB"
+    },
+    {
+      "class": "text",
+      "id": "D8D16158-5991-441B-9772-066BE53C706D"
     }
   ],
   "name": "Input text",

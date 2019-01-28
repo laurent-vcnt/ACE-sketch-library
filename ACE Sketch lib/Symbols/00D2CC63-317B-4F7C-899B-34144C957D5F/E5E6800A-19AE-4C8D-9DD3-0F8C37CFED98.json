@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5E6800A-19AE-4C8D-9DD3-0F8C37CFED98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CE0394E-9DAD-4A9C-AF31-A3BBCB146A83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AEC7788-41D2-4690-9FD9-84BF5A6E00BA",
+    "height": 16,
+    "width": 16,
+    "x": 12,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DNA / Icons / Warning / Circle / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F7A4BA9-6448-45F0-8634-A4DB905670A2",
+      "overrideName": "083D0423-1D02-47C1-9DE9-50FB4D221C47/B9AC41F1-9208-43A8-B86E-7691E1EF2479_layerStyle",
+      "value": "0D67F761-F55A-4D04-BDBE-22F2EBE35DCC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D9CE396-77A6-4234-810B-07B7F8C60B21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F52C8409-C617-4BBB-826B-B7E5D3EF8C64",
+  "verticalSpacing": 0
+}

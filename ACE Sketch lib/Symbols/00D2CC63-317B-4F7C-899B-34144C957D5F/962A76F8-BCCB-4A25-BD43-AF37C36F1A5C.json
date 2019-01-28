@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "962A76F8-BCCB-4A25-BD43-AF37C36F1A5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64808B66-2AF5-4465-B7A0-62348644C1E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3CF7575-41A2-4EFB-8AFD-97C77B16294B",
+    "height": 16,
+    "width": 16,
+    "x": 332,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DNA / Icons / Crossmark / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EC29A7A-4F52-4EBF-81DD-05F50809BB87",
+      "overrideName": "D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle",
+      "value": "0D67F761-F55A-4D04-BDBE-22F2EBE35DCC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3A1B5D0-E270-4286-9C61-B3A4215766A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5729B141-A543-4BF6-8D04-E6DFD5261704",
+  "verticalSpacing": 0
+}

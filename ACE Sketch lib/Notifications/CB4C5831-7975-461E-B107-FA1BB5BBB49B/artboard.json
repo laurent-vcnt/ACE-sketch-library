@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB4C5831-7975-461E-B107-FA1BB5BBB49B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": 819,
+    "y": -513
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3E48ED05-2224-4068-AAEF-3657E8E98CA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B84808B-3FAE-4059-BB0E-E5E065EFCEA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2FA8D67-376A-403F-9ECF-72660B8928DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D16D2C5B-1AAD-4AAA-99B0-77EE4A65B274"
+    },
+    {
+      "class": "text",
+      "id": "EB9A3CA2-0A3B-4C27-A6B0-1FC7246A29D8"
+    },
+    {
+      "class": "text",
+      "id": "9969CC45-E762-4B0C-ABDA-E2EF0AA8D280"
+    },
+    {
+      "class": "text",
+      "id": "ACD7E222-D81D-4B40-AF64-2A030E10C4D4"
+    },
+    {
+      "class": "text",
+      "id": "70168ED8-715F-46C5-BBA4-2B7BE4B01536"
+    },
+    {
+      "class": "text",
+      "id": "5ED9276C-DE11-4C41-8428-9B25CD99EF07"
+    },
+    {
+      "class": "text",
+      "id": "7233534F-8CED-4E15-94A7-75092A4580DA"
+    }
+  ],
+  "name": "Notifications Multi-line",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86C66B66-EB93-4B89-871E-6B853C1214DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "341DFE92-3AF2-43A9-9029-02054CBA21DB"
+    },
+    {
+      "class": "text",
+      "id": "4EC60012-6A8A-495C-862D-D4356422271D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E947869-4D2E-43EE-8C4C-C7F877E4C7B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BC47E15-1785-4080-89A8-FDE75C583F89"
+    }
+  ],
+  "name": "Notifications / Warning / Simple with close button Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
