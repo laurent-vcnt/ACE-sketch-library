@@ -62,8 +62,8 @@
       "id": "A4DBBB85-9F52-492D-A1FA-32EC1109E0B3"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "error",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

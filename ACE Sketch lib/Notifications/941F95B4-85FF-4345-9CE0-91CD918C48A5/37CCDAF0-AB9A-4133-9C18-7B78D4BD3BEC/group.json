@@ -62,8 +62,8 @@
       "id": "788C5184-B77F-4B81-BE7E-974DCFEB9765"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "info",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
