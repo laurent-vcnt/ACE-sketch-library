@@ -1,25 +1,29 @@
 # Sketch lib
 Library of UI elements based on Atomic Design approach.
 
-## Structure
+## Pages
 - Symbols
 - DNA elements
-- Atoms
-- Molecules
-- Organisms
+- Form elements
+- Links
+- Navigation elements
+- Notifications
+- Tags
 - Templates
 
+## Text styles
+## Layer styles
 
 # Versioning
 Versioning done with Kactus – http://kactus.io
 
 # Required Sketch plugins
-– Symbol Organizer Plugin – https://sketchapphub.com/resource/symbol-organizer-plugin/
-– Symbol Instance Renamer – https://github.com/sonburn/symbol-instance-renamer
+- Symbol Organizer Plugin – https://sketchapphub.com/resource/symbol-organizer-plugin/
+- Symbol Instance Renamer – https://github.com/sonburn/symbol-instance-renamer
 
 # Required fonts
 
-– Fira Sans
-– Roboto
+- Fira Sans
+- Roboto
 
 Find it in "Fonts" folder at root of the repo
