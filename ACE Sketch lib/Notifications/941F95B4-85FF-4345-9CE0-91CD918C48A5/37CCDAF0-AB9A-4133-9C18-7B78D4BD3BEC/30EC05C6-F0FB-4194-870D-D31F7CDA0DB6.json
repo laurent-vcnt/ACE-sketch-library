@@ -9,37 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2666666666666667,
-            "green": 0.2666666666666667,
-            "red": 0.2666666666666667
+            "blue": 0.3450980392156863,
+            "green": 0.3450980392156863,
+            "red": 0.3450980392156863
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Light",
-              "size": 28
+              "name": "Roboto-Light",
+              "size": 13
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 21,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "Notifications – #atom"
+    "string": "Simple info with notification type"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5ED9276C-DE11-4C41-8428-9B25CD99EF07",
+  "do_objectID": "30EC05C6-F0FB-4194-870D-D31F7CDA0DB6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "195FE407-C641-4543-893B-D47B60B255C8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -59,12 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 601,
-    "x": 30,
-    "y": 30
+    "do_objectID": "8024FB70-F33F-476F-ACC1-A33B32AC6424",
+    "height": 30,
+    "width": 179,
+    "x": 0,
+    "y": 155
   },
-  "glyphBounds": "{{3, 5}, {262, 23}}",
+  "glyphBounds": "{{0, 2}, {157, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,47 +74,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Notifications – #atom",
-  "nameIsFixed": true,
-  "resizingConstraint": 43,
+  "lineSpacingBehaviour": 1,
+  "name": "Simple info with not",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D7C71618-32EE-4554-B87E-D3FD99331C6A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "41F7C11F-633E-48EA-A00B-1FFE947B1846",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2666666666666667,
-          "green": 0.2666666666666667,
-          "red": 0.2666666666666667
+          "blue": 0.3450980392156863,
+          "green": 0.3450980392156863,
+          "red": 0.3450980392156863
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Light",
-            "size": 28
+            "name": "Roboto-Light",
+            "size": 13
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

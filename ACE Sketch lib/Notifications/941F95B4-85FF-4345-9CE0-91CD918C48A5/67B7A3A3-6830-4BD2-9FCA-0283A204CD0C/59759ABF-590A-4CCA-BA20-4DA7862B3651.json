@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0E8356B8-303B-4185-8B06-E2CEC972B618",
+  "do_objectID": "59759ABF-590A-4CCA-BA20-4DA7862B3651",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "980625A3-3B67-4122-B515-CA90AB9C3CD7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,43 +15,35 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "752FFCC5-C3B3-4C8C-B65D-3378C0597EA7",
-    "height": 16,
-    "width": 16,
-    "x": 12,
-    "y": 12
+    "height": 40,
+    "width": 360,
+    "x": 279,
+    "y": 144
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Icons / Warning / Circle / Small",
+  "name": "Notifications / Error / Mono-line / With error type label",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "5E6609FE-887A-42C2-92D9-ECD728562A64",
-      "overrideName": "E9373E98-F420-4325-8EAD-C491BDE35C7B/C9814688-8611-43BE-B2FA-BC576FC97DE9_layerStyle",
-      "value": "0D67F761-F55A-4D04-BDBE-22F2EBE35DCC"
-    }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "04AE23A1-8212-4D69-9B17-3436A204D15D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A2DB4D6D-A45F-45C7-A412-A111D8D8A418",
+  "symbolID": "FCF94A83-8EF6-4E57-BAB7-79CE879A0791",
   "verticalSpacing": 0
 }

@@ -33,8 +33,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A47F7CD9-3314-42E6-A313-5964D91CCE40",
-      "overrideName": "083D0423-1D02-47C1-9DE9-50FB4D221C47/B9AC41F1-9208-43A8-B86E-7691E1EF2479_layerStyle",
+      "do_objectID": "FA451073-FA91-4F0C-9B76-F815AE8C7F02",
+      "overrideName": "E9373E98-F420-4325-8EAD-C491BDE35C7B/C9814688-8611-43BE-B2FA-BC576FC97DE9_layerStyle",
       "value": "0D67F761-F55A-4D04-BDBE-22F2EBE35DCC"
     }
   ],
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F52C8409-C617-4BBB-826B-B7E5D3EF8C64",
+  "symbolID": "A2DB4D6D-A45F-45C7-A412-A111D8D8A418",
   "verticalSpacing": 0
 }
