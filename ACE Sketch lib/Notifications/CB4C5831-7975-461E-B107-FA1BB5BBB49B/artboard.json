@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB4C5831-7975-461E-B107-FA1BB5BBB49B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1463,
+    "width": 1920,
+    "x": 1299,
+    "y": -513
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6BC06356-085D-4AC4-8004-40784276A5CF"
+    },
+    {
+      "class": "group",
+      "id": "2B55B61B-B2BD-45AE-9A78-8A46B9BCEC27"
+    },
+    {
+      "class": "group",
+      "id": "DDA77096-3666-4A45-9C9A-DF1BC16CFDDA"
+    },
+    {
+      "class": "group",
+      "id": "B5CFE3F3-E725-45A2-93FD-188F4BDB949B"
+    },
+    {
+      "class": "group",
+      "id": "70AD31C1-131C-4617-8899-CB1A290C5482"
+    },
+    {
+      "class": "text",
+      "id": "5ED9276C-DE11-4C41-8428-9B25CD99EF07"
+    },
+    {
+      "class": "text",
+      "id": "7233534F-8CED-4E15-94A7-75092A4580DA"
+    },
+    {
+      "class": "text",
+      "id": "EEF8E5C3-4DB3-4D97-AC4D-EF0CFD687333"
+    },
+    {
+      "class": "text",
+      "id": "81C7201F-22A5-4EE9-8CAF-1ED80ABA4E57"
+    },
+    {
+      "class": "text",
+      "id": "D313EF31-CDDA-409E-BD85-6D0933340B27"
+    }
+  ],
+  "name": "Notifications Multi-line",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7745D3F-133A-4878-8051-F462ECAE3F59",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 128,
+    "width": 128,
+    "x": 40,
+    "y": 1174
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy 6",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "59D2A3FA-7BEB-4D67-A9D3-9FEBF5CD3DD6",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BB1D727-A464-4D60-B3FD-903735143E18",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.3607843137254902,
+          "red": 0.592156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

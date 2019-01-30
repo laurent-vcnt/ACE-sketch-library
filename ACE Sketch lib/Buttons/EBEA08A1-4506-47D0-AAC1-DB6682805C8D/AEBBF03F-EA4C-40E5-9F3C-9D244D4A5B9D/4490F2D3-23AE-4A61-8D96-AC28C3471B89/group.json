@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4490F2D3-23AE-4A61-8D96-AC28C3471B89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 255,
+    "width": 56,
+    "x": 183,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4E5935D7-D60E-4410-8908-35285C2F223A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31D1E2AE-8EA4-415C-AA91-C3CF614DDD1A"
+    },
+    {
+      "class": "rectangle",
+      "id": "724F81CF-ECAE-4300-99C7-906E85438F99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7FC5AEA-20CC-46E1-A565-F139F11134E8"
+    }
+  ],
+  "name": "Buttons / Reject / Hover",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

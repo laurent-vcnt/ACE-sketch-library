@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
+  "changeIdentifier": 1655,
   "clippingMaskMode": 0,
   "do_objectID": "3F67787D-8B28-467F-9DFC-C393A13F8877",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 10613,
+    "x": 11193,
     "y": 132
   },
   "hasBackgroundColor": false,
@@ -49,8 +49,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "0AFD3CF0-333D-4DD0-9BA1-01F4C592A251"
+      "class": "group",
+      "id": "1F5E14BB-53FB-4F06-A57C-268268425704"
+    },
+    {
+      "class": "rectangle",
+      "id": "8E6E466A-F389-4C9F-B1F6-92FA5951E44E"
     }
   ],
   "name": "DNA / Icons / Trash / Small",

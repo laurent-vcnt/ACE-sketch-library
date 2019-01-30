@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20411EED-8E7A-4DD4-9C3A-1A55D08D418B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6A54EC4-9356-4994-8A30-F458355B4738",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F531B331-5F43-4DE3-8885-A641AA40969E",
+    "height": 8,
+    "width": 8,
+    "x": 8,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DNA / Icons / Crossmark / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B74F7CA7-E080-4681-BB82-031C87043A8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5729B141-A543-4BF6-8D04-E6DFD5261704",
+  "verticalSpacing": 0
+}

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 10,
+  "changeIdentifier": 40,
   "clippingMaskMode": 0,
   "do_objectID": "0B31FAD2-6794-4519-9594-054F14AC3C1C",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 7269,
+    "x": 7849,
     "y": 380
   },
   "hasBackgroundColor": false,
@@ -50,7 +50,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "0ECE46E5-51B6-4593-93E2-29B05C98DA72"
+      "id": "B4C30EB2-A7E0-4C35-B68F-6819006B4827"
     }
   ],
   "name": "DNA / Icons / Locker / Opened / Small",

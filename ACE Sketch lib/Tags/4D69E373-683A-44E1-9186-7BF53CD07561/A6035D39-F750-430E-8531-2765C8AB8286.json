@@ -1,0 +1,127 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2666666666666667,
+            "green": 0.2666666666666667,
+            "red": 0.2666666666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "FiraSans-Light",
+              "size": 22
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
+          }
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "Tag – #atom"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6035D39-F750-430E-8531-2765C8AB8286",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8609EE7-8FF5-49AE-A0CB-5A231FD64FA4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6B7A842-ECF4-4CCD-B236-FE90611D4D91",
+    "height": 36,
+    "width": 600,
+    "x": 31,
+    "y": 92
+  },
+  "glyphBounds": "{{0, 9}, {117, 21}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Tag – #atom",
+  "nameIsFixed": false,
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E34B9CB-AF75-4BBC-82B0-E577B50376B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "92AA9C21-A4D1-4B85-932E-1BF69DD91494",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.2666666666666667
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FiraSans-Light",
+            "size": 22
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

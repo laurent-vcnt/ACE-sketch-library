@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
-    "width": 647,
+    "height": 561,
+    "width": 660,
     "x": 31,
     "y": 564
   },
@@ -42,8 +42,24 @@
       "id": "BBFAC1DB-2251-44D2-983E-49CD64F00C59"
     },
     {
+      "class": "symbolInstance",
+      "id": "2C67F55E-3FF8-4CE4-AF40-D1B2790D1934"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8A62D1C-CBB7-461B-91F9-09FFC5D3D8AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8B6CCED-2C34-459F-AED0-2CD7474C32D1"
+    },
+    {
       "class": "text",
       "id": "8F93BF83-4082-4FFA-8472-A3BE36846CAB"
+    },
+    {
+      "class": "text",
+      "id": "D8D16158-5991-441B-9772-066BE53C706D"
     }
   ],
   "name": "Input text",

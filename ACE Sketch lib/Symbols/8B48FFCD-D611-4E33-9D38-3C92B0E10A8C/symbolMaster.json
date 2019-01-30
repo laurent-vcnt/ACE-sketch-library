@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 28,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "8B48FFCD-D611-4E33-9D38-3C92B0E10A8C",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 3093,
+    "x": 3673,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -49,12 +49,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5A31A754-727B-4E49-BCDE-BEB848F8E2F3"
-    },
-    {
       "class": "group",
-      "id": "DC67FFE2-F3AA-421C-9234-617139DC1701"
+      "id": "F75616CF-D84B-43B8-8A24-2A0EC331529A"
     }
   ],
   "name": "DNA / Icons / Bell / Medium",

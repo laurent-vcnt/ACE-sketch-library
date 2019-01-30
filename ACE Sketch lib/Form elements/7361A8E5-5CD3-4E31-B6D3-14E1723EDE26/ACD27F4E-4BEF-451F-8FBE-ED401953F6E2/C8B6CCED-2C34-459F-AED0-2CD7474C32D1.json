@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8B6CCED-2C34-459F-AED0-2CD7474C32D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F141937B-2036-4AC9-9D15-CFCDBFA899BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA8D8BC8-6F10-4C98-B700-345FAAE963D1",
+    "height": 40,
+    "width": 360,
+    "x": 300,
+    "y": 469
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications / Informative / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43DE5C93-867A-46FB-A2DB-FA42F12121E1",
+      "overrideName": "6EA8251A-F8C1-4E73-B01D-BDF2DC3E83D2_stringValue",
+      "value": "You reached the maximum of values."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAC85C95-7206-4F87-B3B7-91294DC4380B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "867EC3CD-BB1F-4A46-BFD1-7D2097D7B25C",
+  "verticalSpacing": 0
+}

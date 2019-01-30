@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 111,
     "width": 800,
-    "x": 31,
-    "y": 29
+    "x": 30,
+    "y": 30
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",

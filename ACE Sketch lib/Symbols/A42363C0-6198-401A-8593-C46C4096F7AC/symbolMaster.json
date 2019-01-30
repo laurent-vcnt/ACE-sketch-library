@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 32,
+  "changeIdentifier": 56,
   "clippingMaskMode": 0,
   "do_objectID": "A42363C0-6198-401A-8593-C46C4096F7AC",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 10149,
+    "x": 10729,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -49,12 +49,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "4C21A1E5-C036-4685-903C-F6FB452C08FE"
-    },
-    {
       "class": "group",
-      "id": "4A7E9F6C-7987-4E0C-974C-A87F2E988888"
+      "id": "58DC2ED9-2863-4EBC-AC57-744293FA6BBF"
     }
   ],
   "name": "DNA / Icons / Success / Circle / Medium",

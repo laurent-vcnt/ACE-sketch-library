@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29,
+  "changeIdentifier": 47,
   "clippingMaskMode": 0,
   "do_objectID": "75CEBD45-1B36-44F7-BD84-AD2B236AB7CB",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 7501,
+    "x": 8081,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -49,12 +49,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "21E02D39-DC2E-4771-9109-47E34B49ABED"
-    },
-    {
       "class": "group",
-      "id": "7DF3160F-B159-4EA4-ABC4-97F1049BD6C0"
+      "id": "23A3DE62-B3F1-4FA6-BF7D-9505F40122A3"
     }
   ],
   "name": "DNA / Icons / Logout / Medium",

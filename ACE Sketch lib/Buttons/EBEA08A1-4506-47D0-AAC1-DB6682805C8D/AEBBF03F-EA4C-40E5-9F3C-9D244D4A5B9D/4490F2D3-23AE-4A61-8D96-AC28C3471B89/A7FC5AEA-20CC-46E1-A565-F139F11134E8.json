@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7FC5AEA-20CC-46E1-A565-F139F11134E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30090BC0-A51D-4BD7-91FF-A18EE9655B15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C85D159-61C5-4BB7-BBEF-BBB82427A9EF",
+    "height": 16,
+    "width": 16,
+    "x": 20,
+    "y": 227
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DNA / Icons / Trash / Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDCE8E61-A78D-4BCB-B114-42B1AD49B9A4",
+      "overrideName": "0AFD3CF0-333D-4DD0-9BA1-01F4C592A251/6BB5A11D-0A5B-4944-81B8-6B46CBC06F92_layerStyle",
+      "value": "91B6659D-26DB-425D-9057-F1C26894378C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CC68D1D-0758-4ED6-87E5-25EE92D020C3",
+      "overrideName": "8E6E466A-F389-4C9F-B1F6-92FA5951E44E_layerStyle",
+      "value": "91B6659D-26DB-425D-9057-F1C26894378C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A834091-D51E-40D6-80DE-7B34DB8495C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D149722-C600-42D7-B121-1791D307D55A",
+  "verticalSpacing": 0
+}

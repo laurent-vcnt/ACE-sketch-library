@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "26C490DF-11EC-46A5-8270-2AEF4CD2F145",
+  "name": "Icons / Success",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.4666666666666667,
+          "red": 0.2588235294117647
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

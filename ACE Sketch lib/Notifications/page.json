@@ -1,0 +1,67 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D83EA5F-03C1-4881-857C-64990B5E6FB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -588,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "941F95B4-85FF-4345-9CE0-91CD918C48A5"
+    },
+    {
+      "class": "artboard",
+      "id": "CB4C5831-7975-461E-B107-FA1BB5BBB49B"
+    }
+  ],
+  "name": "Notifications",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -520,
+    "guides": [
+    ]
+  }
+}

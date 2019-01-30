@@ -33,6 +33,12 @@
   "name": "Form elements / input text / disabled",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65875706-E352-441B-A048-CE4B551532C9",
+      "overrideName": "01E34B6D-BBF3-42B9-9D6E-8D3D845ABD7F_stringValue",
+      "value": "Type something here…"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

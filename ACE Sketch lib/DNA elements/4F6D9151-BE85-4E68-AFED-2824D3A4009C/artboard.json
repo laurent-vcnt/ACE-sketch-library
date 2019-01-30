@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2432,
+    "height": 4622,
     "width": 1600,
     "x": -533,
     "y": -285
@@ -44,39 +44,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "B59AE4AD-56A7-4D4D-AA4B-8D7F67BA9BEB"
-    },
-    {
-      "class": "rectangle",
-      "id": "033329D3-538A-4D27-9EB9-143D8D4D0A95"
-    },
-    {
-      "class": "rectangle",
-      "id": "DBC8D9AA-BC66-43B8-9E6C-22D24AEFB93A"
-    },
-    {
-      "class": "rectangle",
-      "id": "8A4E0E6D-289E-405B-8796-D509BE52C423"
-    },
-    {
-      "class": "rectangle",
-      "id": "81D7EB85-ED58-48EA-A2F9-75002E185A98"
-    },
-    {
-      "class": "rectangle",
-      "id": "CA09B8C0-E2D3-4B46-B8E4-2D3EB469CF09"
-    },
-    {
-      "class": "rectangle",
-      "id": "578B5E24-0EB6-4EA1-B924-99564C2D17E2"
-    },
-    {
-      "class": "text",
-      "id": "4622534D-949E-4C00-81E3-7D6588194C06"
     },
     {
       "class": "group",
@@ -85,6 +57,14 @@
     {
       "class": "group",
       "id": "9F850C3B-3A01-4352-9B27-8D863C8991B3"
+    },
+    {
+      "class": "group",
+      "id": "94D5125C-A942-48F3-A709-506025345F3C"
+    },
+    {
+      "class": "group",
+      "id": "2DDA262A-140F-4917-8E2E-5D23F628BD55"
     }
   ],
   "name": "Colors",

@@ -31,8 +31,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy",
-  "nameIsFixed": false,
+  "name": "Icon color",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
@@ -79,30 +79,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "053992B8-3A04-487F-887A-C6F64D93B60E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0
-    },
+    "do_objectID": "134A7D35-FA65-42F6-A8E9-D4D6DAF266A1",
     "endMarkerType": 0,
     "fills": [
       {
@@ -110,9 +91,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8470588235294118,
-          "green": 0.8470588235294118,
-          "red": 0.8470588235294118
+          "blue": 0.407843137254902,
+          "green": 0.1921568627450979,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,

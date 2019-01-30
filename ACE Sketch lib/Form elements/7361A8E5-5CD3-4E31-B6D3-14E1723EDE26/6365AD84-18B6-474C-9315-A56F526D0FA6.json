@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 105,
+    "width": 108,
     "x": 812,
     "y": 106
   },
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Tags / Tag item / Monoline",
+  "name": "Tags / Tag item / Mono-line",
   "nameIsFixed": false,
   "overrideValues": [
   ],

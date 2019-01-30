@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46563580-00CB-4FEA-A457-4AE7E585ECD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 255,
+    "width": 56,
+    "x": 0,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "92EE3D50-B5D2-4F24-A0C9-CB53F1F15F96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D2C33EC-30CA-40B9-87D0-6E3EF9926A68"
+    },
+    {
+      "class": "rectangle",
+      "id": "D14A6F56-509C-456E-A04A-67972188AF53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "759B7DD4-7517-4CBC-8060-F2FDD6B0601A"
+    }
+  ],
+  "name": "Buttons / Reject / Normal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

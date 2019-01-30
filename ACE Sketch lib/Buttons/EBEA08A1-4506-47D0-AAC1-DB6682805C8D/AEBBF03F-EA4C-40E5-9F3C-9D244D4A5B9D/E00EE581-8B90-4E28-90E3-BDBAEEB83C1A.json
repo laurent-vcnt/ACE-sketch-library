@@ -1,0 +1,127 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Light",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
+        },
+        "length": 12,
+        "location": 0
+      }
+    ],
+    "string": "Normal State"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E00EE581-8B90-4E28-90E3-BDBAEEB83C1A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7E36CA8-B722-495B-B89C-9B37FC40BA11",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EA6294A-10D1-41CA-ABD2-EFE04F326E30",
+    "height": 15,
+    "width": 87,
+    "x": 0,
+    "y": 317.0000000000001
+  },
+  "glyphBounds": "{{1, 2}, {74, 11}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Normal State Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "199CCC0C-5352-4E05-8816-3493D0EDF5A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "17F97E50-3B7C-49DD-8723-DA4BAF3786C6",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Light",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

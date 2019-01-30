@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "053992B8-3A04-487F-887A-C6F64D93B60E",
+  "name": "Icons / RBC dark blue Tint 1",
+  "value": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.407843137254902,
+          "green": 0.1921568627450979,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

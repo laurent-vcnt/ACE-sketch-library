@@ -21,7 +21,7 @@
     "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -42,7 +42,7 @@
       "id": "C1099B1F-1E2B-4784-AA7A-48392C63D6A1"
     }
   ],
-  "name": "Group 14",
+  "name": "Mask",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 39,
   "clippingMaskMode": 0,
   "do_objectID": "8B853EC9-C0CD-442D-9C44-00BDA4783051",
   "exportOptions": {
@@ -24,8 +24,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 105,
-    "x": 24518,
+    "width": 108,
+    "x": 27347,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,14 +46,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "8A1C046D-FA99-4D4E-A713-9CB22AFF05C8"
     }
   ],
-  "name": "Tags / Tag item / Monoline",
+  "name": "Tags / Tag item / Mono-line",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

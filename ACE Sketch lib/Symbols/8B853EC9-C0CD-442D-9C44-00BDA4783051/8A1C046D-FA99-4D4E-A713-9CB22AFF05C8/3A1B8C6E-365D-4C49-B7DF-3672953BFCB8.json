@@ -20,7 +20,7 @@
     "constrainProportions": false,
     "do_objectID": "AE5CDFED-A184-487D-9DA0-23DD1407F6C2",
     "height": 24,
-    "width": 105,
+    "width": 108,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Rectangle 32 Copy",

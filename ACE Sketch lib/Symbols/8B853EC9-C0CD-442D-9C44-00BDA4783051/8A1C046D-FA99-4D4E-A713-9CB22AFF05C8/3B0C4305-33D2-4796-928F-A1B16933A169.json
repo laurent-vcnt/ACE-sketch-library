@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Tag label"
+    "string": "Tag value"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "852F9960-191E-4A78-A03F-B8017786A26D",
     "height": 16,
-    "width": 57,
+    "width": 60,
     "x": 36,
     "y": 4
   },
-  "glyphBounds": "{{0, 2}, {56, 14}}",
+  "glyphBounds": "{{0, 2}, {59, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Tag label",
+  "name": "Tag value",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

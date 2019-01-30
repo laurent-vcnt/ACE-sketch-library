@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 33,
+  "changeIdentifier": 51,
   "clippingMaskMode": 0,
   "do_objectID": "D330C4A0-D872-44E8-A97E-140C682ADDD5",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 4949,
+    "x": 5529,
     "y": 248
   },
   "hasBackgroundColor": false,
@@ -49,12 +49,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "FAEF2372-CDF3-4B49-AC53-EC0BA5F38484"
-    },
-    {
       "class": "group",
-      "id": "C1FE7E1E-D87A-441B-91EA-D14F5F484B80"
+      "id": "E07E7794-62C7-42E5-9F2B-E4200F7A771E"
     }
   ],
   "name": "DNA / Icons / Download / PDF document / Medium",
