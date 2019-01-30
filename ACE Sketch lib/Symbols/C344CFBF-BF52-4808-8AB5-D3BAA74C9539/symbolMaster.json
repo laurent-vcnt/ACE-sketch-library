@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 513,
+  "changeIdentifier": 514,
   "clippingMaskMode": 0,
   "do_objectID": "C344CFBF-BF52-4808-8AB5-D3BAA74C9539",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "3946FBF7-B812-4438-80BB-F1253EA0645D"
     }
   ],
-  "name": "Form elements / input text / error without value",
+  "name": "Form elements / input text / error with value",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
