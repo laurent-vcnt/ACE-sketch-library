@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8",
+  "do_objectID": "AD04B608-9458-49A7-A94F-C4ECDA66019D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 108,
-    "x": 0,
-    "y": 40
+    "width": 149,
+    "x": 262,
+    "y": 228
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Tags / Tag item / Mono-line",
+  "name": "Tags / Tag item / Mono-line with label",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AC6A3045-1104-4820-BFAD-387C9E5FAFFE",
+  "symbolID": "451B675A-61CA-489B-8B8B-A785A3709029",
   "verticalSpacing": 0
 }

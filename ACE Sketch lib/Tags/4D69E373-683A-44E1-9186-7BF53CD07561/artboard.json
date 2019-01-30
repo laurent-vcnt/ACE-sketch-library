@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
   "clippingMaskMode": 0,
-  "do_objectID": "4A38FA67-0E96-4654-8ECD-9C1101A64FAF",
+  "do_objectID": "4D69E373-683A-44E1-9186-7BF53CD07561",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 170,
-    "width": 347,
-    "x": 12373,
-    "y": 420
+    "height": 1024,
+    "width": 1440,
+    "x": -720,
+    "y": -513
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,7 +37,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -46,19 +44,54 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3"
+      "class": "text",
+      "id": "DE1B8CF7-B40D-4434-AA0A-8E28602D73B8"
+    },
+    {
+      "class": "text",
+      "id": "A6035D39-F750-430E-8531-2765C8AB8286"
+    },
+    {
+      "class": "text",
+      "id": "03B1FD77-0724-48F6-9B0F-741A4EDF9EE7"
     },
     {
       "class": "symbolInstance",
-      "id": "DAEB79DC-DF98-436B-A9D7-1AA3168E59D7"
+      "id": "66E8D025-80E3-401A-BE2D-7F8AEF66D189"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E5D836A-6E5A-4865-8FF4-894C1388BDB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD04B608-9458-49A7-A94F-C4ECDA66019D"
+    },
+    {
+      "class": "text",
+      "id": "EB137CA2-9C4F-4EC9-8675-4B803074A049"
+    },
+    {
+      "class": "text",
+      "id": "5717538F-FE46-4848-9682-D61A360AB456"
+    },
+    {
+      "class": "text",
+      "id": "884259B3-992C-4FED-8ED4-AE7D709F84D3"
     }
   ],
-  "name": "Form elements / Autocomplete / Input text / Focus with list opened / Multi-values",
-  "nameIsFixed": false,
+  "name": "Tags",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "929940C6-4A80-4741-B341-150BE6F8D191",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "1869DAD7-4AB4-4C0F-BE13-116121CB6EC4",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
+  "changeIdentifier": 231,
   "clippingMaskMode": 0,
-  "do_objectID": "4A38FA67-0E96-4654-8ECD-9C1101A64FAF",
+  "do_objectID": "0108910E-46D3-464D-8E91-1AC2822AD8AA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F847F988-CEA9-4087-9A43-FF1B44297B0F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 170,
-    "width": 347,
-    "x": 12373,
-    "y": 420
+    "do_objectID": "F7CFD289-B7AB-45AE-854D-B448CD03310C",
+    "height": 24,
+    "width": 149,
+    "x": 27347,
+    "y": 124
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,6 +37,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "B20E982E-E2A8-458D-96E4-D0226933BA62",
     "guides": [
     ]
   },
@@ -49,16 +53,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DAEB79DC-DF98-436B-A9D7-1AA3168E59D7"
+      "class": "group",
+      "id": "84CAEC13-2A96-4BB9-B418-BC261AEB2E55"
     }
   ],
-  "name": "Form elements / Autocomplete / Input text / Focus with list opened / Multi-values",
-  "nameIsFixed": false,
+  "name": "Tags / Tag item / Mono-line with label",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,15 +66,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "0159F2A9-820F-48B0-9827-2CCC7FDDF650",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "929940C6-4A80-4741-B341-150BE6F8D191",
+  "symbolID": "451B675A-61CA-489B-8B8B-A785A3709029",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "DE5534DC-1B13-4A07-901E-71D796D2C039",
     "guides": [
     ]
   }

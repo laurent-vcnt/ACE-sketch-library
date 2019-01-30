@@ -9,37 +9,48 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3450980392156863,
-            "green": 0.3450980392156863,
-            "red": 0.3450980392156863
+            "blue": 0.2666666666666667,
+            "green": 0.2666666666666667,
+            "red": 0.2666666666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 14
+              "name": "FiraSans-Light",
+              "size": 22
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
           }
         },
-        "length": 9,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Tag value"
+    "string": "Tag – #atom"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3B0C4305-33D2-4796-928F-A1B16933A169",
+  "do_objectID": "A6035D39-F750-430E-8531-2765C8AB8286",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B8F7BE0F-7C3F-4139-BC75-07F7B8ED84AB",
+    "do_objectID": "E8609EE7-8FF5-49AE-A0CB-5A231FD64FA4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -49,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "852F9960-191E-4A78-A03F-B8017786A26D",
-    "height": 16,
-    "width": 60,
-    "x": 36,
-    "y": 4
+    "do_objectID": "B6B7A842-ECF4-4CCD-B236-FE90611D4D91",
+    "height": 36,
+    "width": 600,
+    "x": 31,
+    "y": 92
   },
-  "glyphBounds": "{{0, 2}, {59, 14}}",
+  "glyphBounds": "{{0, 9}, {117, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,45 +74,54 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
-  "name": "Tag value",
+  "lineSpacingBehaviour": 2,
+  "name": "Tag – #atom",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B05ED545-BC75-40E1-8843-B88D760D9F7F",
+    "do_objectID": "0E34B9CB-AF75-4BBC-82B0-E577B50376B3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5AAF603E-12C0-4473-A5D2-D9348C6F48E5",
+      "do_objectID": "92AA9C21-A4D1-4B85-932E-1BF69DD91494",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3450980392156863,
-          "red": 0.3450980392156863
+          "blue": 0.2666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.2666666666666667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 14
+            "name": "FiraSans-Light",
+            "size": 22
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

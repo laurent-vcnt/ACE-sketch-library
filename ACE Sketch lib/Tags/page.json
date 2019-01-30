@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8",
+  "do_objectID": "2539EB09-06F2-4647-9DDB-3E62120CB191",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 108,
+    "height": 0,
+    "width": 0,
     "x": 0,
-    "y": 40
+    "y": 0
   },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -567,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Tags / Tag item / Mono-line",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "4D69E373-683A-44E1-9186-7BF53CD07561"
+    }
   ],
+  "name": "Tags",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,6 +54,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AC6A3045-1104-4820-BFAD-387C9E5FAFFE",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -520,
+    "guides": [
+    ]
+  }
 }

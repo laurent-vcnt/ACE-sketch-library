@@ -9,37 +9,48 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3450980392156863,
-            "green": 0.3450980392156863,
-            "red": 0.3450980392156863
+            "blue": 0.2666666666666667,
+            "green": 0.2666666666666667,
+            "red": 0.2666666666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 14
+              "name": "FiraSans-Light",
+              "size": 22
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
           }
         },
-        "length": 9,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Tag value"
+    "string": "A serie of tags – #molecule"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3B0C4305-33D2-4796-928F-A1B16933A169",
+  "do_objectID": "03B1FD77-0724-48F6-9B0F-741A4EDF9EE7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B8F7BE0F-7C3F-4139-BC75-07F7B8ED84AB",
+    "do_objectID": "4EEA1C7E-27B8-4ECA-896E-828983FE1DB5",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -49,13 +60,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "852F9960-191E-4A78-A03F-B8017786A26D",
-    "height": 16,
-    "width": 60,
-    "x": 36,
-    "y": 4
+    "do_objectID": "77ADA808-208F-4539-BE7E-F7ED4B8DF552",
+    "height": 36,
+    "width": 600,
+    "x": 31,
+    "y": 433
   },
-  "glyphBounds": "{{0, 2}, {59, 14}}",
+  "glyphBounds": "{{0, 8}, {263, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,45 +74,54 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
-  "name": "Tag value",
+  "lineSpacingBehaviour": 2,
+  "name": "A serie of tags – #m",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B05ED545-BC75-40E1-8843-B88D760D9F7F",
+    "do_objectID": "F35CE365-A81F-47AF-9560-517A8B0247E9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5AAF603E-12C0-4473-A5D2-D9348C6F48E5",
+      "do_objectID": "2F809930-4C62-4853-8B23-3D018604678D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3450980392156863,
-          "red": 0.3450980392156863
+          "blue": 0.2666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.2666666666666667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 14
+            "name": "FiraSans-Light",
+            "size": 22
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D587CF8E-C7E2-4CFF-B959-FA56C8039E38",
+  "do_objectID": "84CAEC13-2A96-4BB9-B418-BC261AEB2E55",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8AAA027C-5D83-474A-9B39-F2DCD93BB0A6",
+    "do_objectID": "E7CB4E17-5F5D-4EFD-AF16-9D64E7EB6460",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +16,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "35B2E31B-6393-462C-B6CD-A7CF2F1B7B6D",
+    "do_objectID": "68EFC0E6-D9AA-4DC6-9E87-583B725AF05F",
     "height": 24,
-    "width": 108,
+    "width": 149,
     "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Tags / Tag item / Mono-line",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7784BE1B-DA5F-4E0E-A5A8-7C52E1BB4C18"
+    },
+    {
+      "class": "text",
+      "id": "9DAEF537-BEDF-488F-A4E1-2BBD39B4E214"
+    },
+    {
+      "class": "shapePath",
+      "id": "A383E0D0-8338-48E3-9785-AEFA2F56042A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20411EED-8E7A-4DD4-9C3A-1A55D08D418B"
+    }
   ],
+  "name": "Autocomplete / Tag / Button",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9EEC00C0-9234-4B70-8B56-6F1F2AE6E067",
+    "do_objectID": "9D340B01-F47A-43EC-8288-F671621C97D0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "AC6A3045-1104-4820-BFAD-387C9E5FAFFE",
-  "verticalSpacing": 0
+  }
 }

@@ -16,6 +16,31 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "Roboto-Medium",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 6,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3450980392156863,
+            "green": 0.3450980392156863,
+            "red": 0.3450980392156863
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Roboto-Regular",
               "size": 14
             }
@@ -25,20 +50,20 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
-        "location": 0
+        "length": 10,
+        "location": 6
       }
     ],
-    "string": "Tag value"
+    "string": "Label: Tag value"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3B0C4305-33D2-4796-928F-A1B16933A169",
+  "do_objectID": "9DAEF537-BEDF-488F-A4E1-2BBD39B4E214",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B8F7BE0F-7C3F-4139-BC75-07F7B8ED84AB",
+    "do_objectID": "6B7B1EE1-5E4B-474B-8B56-5FE7C2CF8735",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +74,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "852F9960-191E-4A78-A03F-B8017786A26D",
+    "do_objectID": "32855C4B-3F97-4E58-819D-6202B14D0DCA",
     "height": 16,
-    "width": 60,
+    "width": 101,
     "x": 36,
     "y": 4
   },
-  "glyphBounds": "{{0, 2}, {59, 14}}",
+  "glyphBounds": "{{1, 2}, {99, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +89,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Tag value",
+  "name": "Label: Tag value",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,13 +97,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B05ED545-BC75-40E1-8843-B88D760D9F7F",
+    "do_objectID": "763283D1-887D-43E4-BAAE-0298905DC405",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5AAF603E-12C0-4473-A5D2-D9348C6F48E5",
+      "do_objectID": "9E75B3D8-0330-4FDB-A271-1CDC35798DD4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,7 +115,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "Roboto-Medium",
             "size": 14
           }
         },

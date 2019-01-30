@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8",
+  "do_objectID": "9E5D836A-6E5A-4865-8FF4-894C1388BDB9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 108,
-    "x": 0,
-    "y": 40
+    "x": 262,
+    "y": 166
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
