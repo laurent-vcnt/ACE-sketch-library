@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 231,
+  "changeIdentifier": 271,
   "clippingMaskMode": 0,
   "do_objectID": "0108910E-46D3-464D-8E91-1AC2822AD8AA",
   "exportOptions": {
@@ -39,6 +39,7 @@
     "base": 0,
     "do_objectID": "B20E982E-E2A8-458D-96E4-D0226933BA62",
     "guides": [
+      77
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -50,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

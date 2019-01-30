@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "Roboto-Medium",
               "size": 14
             }
           },
@@ -25,20 +25,19 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Tag value"
+    "string": "Label:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9DAEF537-BEDF-488F-A4E1-2BBD39B4E214",
+  "do_objectID": "A11C8181-0487-40CB-8C55-ECC5F6232BAF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6B7B1EE1-5E4B-474B-8B56-5FE7C2CF8735",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "32855C4B-3F97-4E58-819D-6202B14D0DCA",
     "height": 16,
-    "width": 60,
-    "x": 77,
+    "width": 38,
+    "x": 36,
     "y": 4
   },
-  "glyphBounds": "{{0, 2}, {59, 14}}",
+  "glyphBounds": "{{1, 2}, {36, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Tag value",
+  "name": "Label",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,13 +70,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "763283D1-887D-43E4-BAAE-0298905DC405",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9E75B3D8-0330-4FDB-A271-1CDC35798DD4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,7 +86,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "Roboto-Medium",
             "size": 14
           }
         },
