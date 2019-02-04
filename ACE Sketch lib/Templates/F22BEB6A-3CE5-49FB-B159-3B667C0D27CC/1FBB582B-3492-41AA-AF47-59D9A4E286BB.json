@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 27,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": ".container{ width: 960px; }"
+    "string": ".container{\n\twidth: 960px;\n}"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,12 +58,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3F1DF540-FBE7-4AB5-931A-178A1462DEF4",
-    "height": 16,
-    "width": 161,
+    "height": 48,
+    "width": 111,
     "x": 31,
-    "y": 148
+    "y": 154
   },
-  "glyphBounds": "{{0, 2}, {161, 14}}",
+  "glyphBounds": "{{0, 2}, {110, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
