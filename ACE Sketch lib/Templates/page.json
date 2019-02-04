@@ -36,6 +36,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "F22BEB6A-3CE5-49FB-B159-3B667C0D27CC"
+    }
   ],
   "name": "Templates",
   "nameIsFixed": true,
