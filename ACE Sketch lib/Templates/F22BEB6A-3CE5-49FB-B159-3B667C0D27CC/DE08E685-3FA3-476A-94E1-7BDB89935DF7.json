@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 45,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "Desktop XS – Less than or equal 1020px pixels"
+    "string": "Desktop XS – Smaller than or equal 1020px pixels"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "3F0D0716-C07D-4DAA-B71C-A4C6E57FB180",
     "height": 36,
-    "width": 451,
+    "width": 484,
     "x": 31,
     "y": 92
   },
-  "glyphBounds": "{{2, 8}, {448, 22}}",
+  "glyphBounds": "{{2, 8}, {480, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
