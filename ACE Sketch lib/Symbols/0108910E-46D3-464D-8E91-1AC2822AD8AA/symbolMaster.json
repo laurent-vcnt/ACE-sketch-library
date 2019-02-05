@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 274,
+  "changeIdentifier": 499,
   "clippingMaskMode": 0,
   "do_objectID": "0108910E-46D3-464D-8E91-1AC2822AD8AA",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F7CFD289-B7AB-45AE-854D-B448CD03310C",
-    "height": 24,
-    "width": 149,
+    "height": 26,
+    "width": 151,
     "x": 29169,
     "y": 124
   },
@@ -51,11 +51,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "84CAEC13-2A96-4BB9-B418-BC261AEB2E55"
+      "class": "rectangle",
+      "id": "D1779071-D596-442D-AF07-6E310E81AF4F"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0D67877-AF34-49E9-8A87-3ADD379359B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06A17478-B0D5-4DCE-A16E-4841AED2D20B"
+    },
+    {
+      "class": "text",
+      "id": "64B30BDC-2934-49BD-BFA2-2190A124E821"
+    },
+    {
+      "class": "text",
+      "id": "45CA09F9-E992-4BC7-9958-2AB330B66BAD"
     }
   ],
   "name": "Tags / Tag item / Mono-line with label",

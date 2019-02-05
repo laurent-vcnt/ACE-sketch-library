@@ -2,11 +2,11 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A383E0D0-8338-48E3-9785-AEFA2F56042A",
+  "do_objectID": "D0D67877-AF34-49E9-8A87-3ADD379359B5",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "87CDCE3A-9430-4D2C-AFB2-9F49A3733BE8",
+    "do_objectID": "813D7530-E15F-4716-B3FE-36D971914857",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,11 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B982C07-2B93-4871-B81B-FE45199B7012",
-    "height": 22,
+    "do_objectID": "B9FF4DEF-116D-4F3C-A7A4-9D26684EE1F6",
+    "height": 23,
     "width": 1,
-    "x": 23,
-    "y": 1
+    "x": 25,
+    "y": 1.499999999999972
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -38,22 +38,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.5000000000000009, -0.045454545454545449}",
+      "curveFrom": "{1.5000000000000009, -0.065217391304346575}",
       "curveMode": 1,
-      "curveTo": "{1.5000000000000009, -0.045454545454545449}",
+      "curveTo": "{1.5000000000000009, -0.065217391304346575}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.5, 0.022727272727271434}"
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.5000000000000009, -0.045454545454545449}",
+      "curveFrom": "{1.5000000000000009, -0.065217391304346575}",
       "curveMode": 1,
-      "curveTo": "{1.5000000000000009, -0.045454545454545449}",
+      "curveTo": "{1.5000000000000009, -0.065217391304346575}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.5, 0.97727272727271952}"
+      "point": "{0.5, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -66,7 +66,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "F44E63F9-DEE3-4CA8-9D70-C32D5673DD96",
+      "do_objectID": "DC98E64B-7782-4E1F-B259-F44C47D4CA8F",
       "isEnabled": false,
       "lineCapStyle": 2,
       "lineJoinStyle": 0
@@ -87,7 +87,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "993D2FDB-F0C0-4064-AB8D-089F72B43D23",
+    "do_objectID": "60668EB0-205D-4A7A-B719-C4FE6E1CADE8",
     "endMarkerType": 0,
     "fills": [
       {

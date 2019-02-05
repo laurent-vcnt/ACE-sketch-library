@@ -20,9 +20,11 @@
               "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 9,
@@ -32,13 +34,12 @@
     "string": "Tag value"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3B0C4305-33D2-4796-928F-A1B16933A169",
+  "do_objectID": "030B4865-90C8-46F2-9BE8-A6EC199B8C82",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B8F7BE0F-7C3F-4139-BC75-07F7B8ED84AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "852F9960-191E-4A78-A03F-B8017786A26D",
-    "height": 16,
-    "width": 60,
-    "x": 36,
+    "height": 18,
+    "width": 61,
+    "x": 38,
     "y": 4
   },
-  "glyphBounds": "{{0, 2}, {59, 14}}",
+  "glyphBounds": "{{0, 3}, {60, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,22 +63,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
+  "lineSpacingBehaviour": 2,
   "name": "Tag value",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "860E38DC-08EE-4BA6-9778-C2E2C0A805E1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B05ED545-BC75-40E1-8843-B88D760D9F7F",
+    "do_objectID": "AACB8EC8-79FB-4675-8715-0895B8957E2E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5AAF603E-12C0-4473-A5D2-D9348C6F48E5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,9 +94,11 @@
             "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0
