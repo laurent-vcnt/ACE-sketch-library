@@ -16,13 +16,16 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Medium",
-              "size": 14
+              "name": "FiraSans-Light",
+              "size": 16
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 2,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 1,
@@ -55,7 +58,7 @@
     "x": 181,
     "y": 1
   },
-  "glyphBounds": "{{10, 6}, {8, 11}}",
+  "glyphBounds": "{{10, 2}, {8, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,9 +66,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
-  "name": "S Copy 2",
-  "nameIsFixed": false,
+  "lineSpacingBehaviour": 2,
+  "name": "Saturday",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -90,13 +93,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Medium",
-            "size": 14
+            "name": "FiraSans-Light",
+            "size": 16
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 2,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 1

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 300,
     "x": 0,
     "y": 0
@@ -42,6 +42,18 @@
       "do_objectID": "132EFF66-3388-41A4-BF52-1F7FAE210B14",
       "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/B852A6FB-0A57-49D6-B5E4-7FE2037306E9_stringValue",
       "value": "Vincenzo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75152427-1E6D-4187-B7D3-941677DF9FC2",
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_stringValue",
+      "value": "ABCDEFG"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E39F587-2C59-4127-8051-34B5C8C1067D",
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
     }
   ],
   "resizingConstraint": 63,

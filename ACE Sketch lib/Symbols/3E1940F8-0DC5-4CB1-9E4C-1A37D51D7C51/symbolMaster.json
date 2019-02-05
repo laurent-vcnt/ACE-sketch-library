@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 30,
+  "changeIdentifier": 51,
   "clippingMaskMode": 0,
   "do_objectID": "3E1940F8-0DC5-4CB1-9E4C-1A37D51D7C51",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 220,
     "width": 298,
-    "x": 17374,
-    "y": 420
+    "x": 17396,
+    "y": 432
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,32 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "7AF47A34-4C20-46FD-94A9-0C62C028720D"
+      "class": "rectangle",
+      "id": "7BA749C2-EFAA-4D02-9553-B3A323E3862F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D9A5484-191C-409F-BFD8-59594588933D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE9C255F-4406-4EF4-A14A-1E3C86677B78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F88A33A4-0A34-437F-B15E-0FD8629274E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAF7C83B-D814-466F-A0F5-513E12532B57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18DAB962-A435-4DA5-9850-8F1229FFB972"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3364310-FB29-4FA9-92A0-E640710213C7"
     }
   ],
   "name": "Form elements / dropdown / list",

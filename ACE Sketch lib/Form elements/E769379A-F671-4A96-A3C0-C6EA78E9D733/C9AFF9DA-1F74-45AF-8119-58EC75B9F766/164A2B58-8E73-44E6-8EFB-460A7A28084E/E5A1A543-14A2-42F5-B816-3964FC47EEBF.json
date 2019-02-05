@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 18,
     "width": 114,
     "x": 186,
-    "y": 2
+    "y": 1
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,11 +31,6 @@
   "name": "Form elements / Input label / left alignement",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "ED69A92B-C0E3-4CEC-95A4-43FDBCBD6765_textStyle",
-      "value": "3720DD24-67E5-438A-8D03-24D2D6F28508"
-    },
     {
       "_class": "overrideValue",
       "overrideName": "ED69A92B-C0E3-4CEC-95A4-43FDBCBD6765_stringValue",

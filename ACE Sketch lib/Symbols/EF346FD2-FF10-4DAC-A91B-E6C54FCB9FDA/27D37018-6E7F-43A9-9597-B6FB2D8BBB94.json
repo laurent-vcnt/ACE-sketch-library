@@ -20,9 +20,13 @@
               "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           }
         },
         "length": 9,
@@ -50,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6E6E931E-A073-4EC2-81FF-0F8B45DB27F3",
-    "height": 16,
-    "width": 59,
+    "height": 20,
+    "width": 274,
     "x": 12,
-    "y": 14
+    "y": 12
   },
-  "glyphBounds": "{{1, 2}, {57, 14}}",
+  "glyphBounds": "{{1, 4}, {57, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,12 +67,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
+  "lineSpacingBehaviour": 2,
   "name": "Entry abc",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "FAC8D789-2C22-44AC-ACE9-55951FEC692C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BCF2CAD2-0769-4424-96D0-89A5477F6481",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,14 +98,18 @@
             "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

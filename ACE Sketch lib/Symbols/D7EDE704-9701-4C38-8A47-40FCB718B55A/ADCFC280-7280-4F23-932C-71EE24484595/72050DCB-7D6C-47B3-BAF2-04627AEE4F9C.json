@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 300,
     "x": 0,
     "y": 0
@@ -42,6 +42,18 @@
       "do_objectID": "57E69933-C022-408E-B33C-A629CBC730C6",
       "overrideName": "4701F4BF-77F3-411E-9F0E-8E1946005AD1_stringValue",
       "value": "John Doe"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57D3CB91-29A5-4A1C-8E4D-B44E0E9D8F56",
+      "overrideName": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F580468D-0B3D-4273-AF79-370CB268B3DE",
+      "overrideName": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78_stringValue",
+      "value": "ABCD"
     }
   ],
   "resizingConstraint": 63,

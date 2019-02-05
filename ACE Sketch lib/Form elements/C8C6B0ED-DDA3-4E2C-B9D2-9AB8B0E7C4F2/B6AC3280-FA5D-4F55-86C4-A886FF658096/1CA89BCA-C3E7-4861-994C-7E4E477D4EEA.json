@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 172,
+    "height": 176,
     "width": 300,
     "x": 1081,
     "y": 551
@@ -31,6 +31,18 @@
   "name": "Form elements / Autocomplete / Dropdown / Opened with list / With matches",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97984A4A-094A-4A71-BCF6-DC2619F57FBA",
+      "overrideName": "A550F520-DF0E-4D2C-BA8D-30DCC215EAC3/9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92A4055C-040F-44A3-9625-411BB3651FEF",
+      "overrideName": "A550F520-DF0E-4D2C-BA8D-30DCC215EAC3/9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_stringValue",
+      "value": "Vinc"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

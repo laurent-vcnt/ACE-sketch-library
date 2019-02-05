@@ -27,7 +27,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
@@ -88,7 +88,7 @@
       "id": "7A6A102A-2B11-4D35-B1F0-75956D3020CD"
     }
   ],
-  "name": "Days heading row",
+  "name": "Weekdays heading row",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

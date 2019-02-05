@@ -17,12 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 14
+              "size": 16
             }
           },
+          "kerning": 0.4000000059604645,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 4,
@@ -50,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8BBD92F0-1D7A-45C7-AD8D-FF2E274B50BF",
-    "height": 16,
-    "width": 32,
-    "x": 28,
+    "height": 18,
+    "width": 38,
+    "x": 23,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {31, 12}}",
+  "glyphBounds": "{{0, 2}, {37, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,6 +73,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6D63DA45-4DAB-4677-B637-BCB2A2DB4E80",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "359D989C-186A-4B03-865B-38AED8B6BEBC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,12 +95,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 14
+            "size": 16
           }
         },
+        "kerning": 0.4000000059604645,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

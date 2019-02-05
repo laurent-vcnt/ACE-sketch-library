@@ -20,10 +20,13 @@
               "size": 14
             }
           },
+          "kerning": 0.2000000029802322,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 15,
@@ -51,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1AB864D8-A2D1-466E-B5F9-EE8805B8043C",
-    "height": 16,
-    "width": 123,
+    "height": 18,
+    "width": 126,
     "x": 20,
     "y": 12
   },
-  "glyphBounds": "{{0, 2}, {122, 12}}",
+  "glyphBounds": "{{0, 4}, {125, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,6 +73,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "EA87B14F-D286-4983-A476-3AD4FB782A62",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3BA5C072-70C6-4C9D-9846-94C3D1D271B3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,10 +98,13 @@
             "size": 14
           }
         },
+        "kerning": 0.2000000029802322,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

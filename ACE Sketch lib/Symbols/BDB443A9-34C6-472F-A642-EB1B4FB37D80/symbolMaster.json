@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 248,
   "clippingMaskMode": 0,
   "do_objectID": "BDB443A9-34C6-472F-A642-EB1B4FB37D80",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 12373,
-    "y": 1330
+    "x": 12386,
+    "y": 1358
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -54,7 +54,7 @@
     },
     {
       "class": "text",
-      "id": "4701F4BF-77F3-411E-9F0E-8E1946005AD1"
+      "id": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78"
     },
     {
       "class": "symbolInstance",

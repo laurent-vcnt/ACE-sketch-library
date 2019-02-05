@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 203,
+  "changeIdentifier": 361,
   "clippingMaskMode": 0,
   "do_objectID": "9FB499EC-A040-444E-BAFB-D1D84678991A",
   "exportOptions": {
@@ -26,9 +26,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7F248398-64F5-4072-B0BE-E1070F1B0DAE",
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 18372,
+    "x": 18394,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -57,12 +57,12 @@
       "id": "590F09FC-2134-42B5-BE24-8D0A7B4FFF38"
     },
     {
-      "class": "text",
-      "id": "3077CB2E-202D-4D30-9D0E-44685CB4A274"
-    },
-    {
       "class": "symbolInstance",
       "id": "8AC00144-F0A0-446A-B7AA-3CDD7FA4FC8D"
+    },
+    {
+      "class": "text",
+      "id": "54A28538-6B77-499E-8906-73F0C75F4384"
     }
   ],
   "name": "Form elements / input text with embed icon / normal with placeholder",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 379,
+  "changeIdentifier": 426,
   "clippingMaskMode": 0,
   "do_objectID": "C2CD1F76-A39F-4405-B33A-A8BF4035269E",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E6E9D6C8-EFB2-41DF-8076-637093DCC2C8",
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 17374,
-    "y": 140
+    "x": 17396,
+    "y": 144
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -58,11 +58,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B311EFD0-07F5-4340-BB60-2E2FB0A1643C"
+      "id": "882349C4-7CF5-414C-A7D4-CE60D021A7AC"
     },
     {
       "class": "text",
-      "id": "8BBFE9F6-7C17-4D73-9CC4-3EBC4EB907AB"
+      "id": "5CFBE800-2F6F-4F20-86E6-FF22A94756DD"
     }
   ],
   "name": "Form elements / dropdown / error",

@@ -20,9 +20,13 @@
               "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           }
         },
         "length": 15,
@@ -50,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "65101C26-81BD-48D8-A0E2-400500D7C2DF",
-    "height": 16,
-    "width": 96,
+    "height": 20,
+    "width": 276,
     "x": 12,
     "y": 12
   },
-  "glyphBounds": "{{0, 2}, {95, 12}}",
+  "glyphBounds": "{{0, 4}, {96, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +67,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
+  "lineSpacingBehaviour": 2,
   "name": "User value here",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -94,14 +98,18 @@
             "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "97F46926-0F35-40FF-9E8C-19F9FA1B30BC",
-    "height": 40,
+    "height": 44,
     "width": 300,
     "x": 300,
     "y": 148
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form elements / input text with embed icon / normal with value Copy",
+  "name": "Form elements / input text with embed icon / normal with value",
   "nameIsFixed": false,
   "overrideValues": [
   ],

@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "6016068C-06EB-4A59-98FC-0A86D48C40FA",
-  "name": "Form elements / Input label / Normal",
+  "name": "Form elements / Input label / Normal Left",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -24,9 +24,12 @@
             "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0
