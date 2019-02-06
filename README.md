@@ -20,7 +20,7 @@ Library of UI elements based on Atomic Design approach.
 Versioning done with Kactus – http://kactus.io
 
 
-#Sketch plugins
+# Sketch plugins
 
 ## Required
 - Symbol Organizer Plugin – https://sketchapphub.com/resource/symbol-organizer-plugin/
