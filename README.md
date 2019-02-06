@@ -4,25 +4,34 @@ Library of UI elements based on Atomic Design approach.
 ## Pages
 - Symbols
 - DNA elements
-- Form elements
+- Buttons
 - Links
-- Navigation elements
-- Notifications
+- Form elements
 - Tags
+- Notifications
+- Navigation elements
 - Templates
 
 ## Text styles
 ## Layer styles
 
+
 # Versioning
 Versioning done with Kactus – http://kactus.io
 
-# Required Sketch plugins
+
+#Sketch plugins
+
+## Required
 - Symbol Organizer Plugin – https://sketchapphub.com/resource/symbol-organizer-plugin/
 - Symbol Instance Renamer – https://github.com/sonburn/symbol-instance-renamer
 
-# Required fonts
+## Also used (optional)
+- Merge Duplicate Symbols – https://github.com/oodesign/merge-duplicate-symbols
+- Symbol Instance Locator – https://github.com/sonburn/symbol-instance-locator
 
+
+# Required fonts
 - Fira Sans
 - Roboto
 
