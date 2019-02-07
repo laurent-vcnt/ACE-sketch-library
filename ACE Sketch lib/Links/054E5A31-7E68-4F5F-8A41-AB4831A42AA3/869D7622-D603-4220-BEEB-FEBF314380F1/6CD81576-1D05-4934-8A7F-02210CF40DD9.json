@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ACEA5968-5E8B-4AC7-B8B3-060575242A64",
+  "do_objectID": "6CD81576-1D05-4934-8A7F-02210CF40DD9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C1B0D6E2-3C5C-414B-A6BD-6A8C87BFFD2F",
+    "do_objectID": "CF4D3151-D047-46C7-BE43-07D5E3361641",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EB5E322B-50FC-4BB6-A0BD-954090A8C6F2",
+    "do_objectID": "538FBFB8-D5CA-4408-B548-AA07A7F16D9C",
     "height": 18,
     "width": 68,
-    "x": 146,
-    "y": 264
+    "x": 115,
+    "y": 65
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Links / Active",
+  "name": "Links / Normal",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FF7F717B-A973-471A-9ED6-A3888C366DE0",
+    "do_objectID": "D4788DA8-7152-4931-9665-CF8941252B86",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C46A6222-DA20-4CA6-9082-29CAF2B7D3E2",
+  "symbolID": "16E5E94F-0D37-444E-BB30-D13CA65824DA",
   "verticalSpacing": 0
 }

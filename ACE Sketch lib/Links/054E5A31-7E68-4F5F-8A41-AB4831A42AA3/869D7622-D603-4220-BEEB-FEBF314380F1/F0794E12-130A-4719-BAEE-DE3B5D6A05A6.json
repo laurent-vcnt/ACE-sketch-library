@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6CD81576-1D05-4934-8A7F-02210CF40DD9",
+  "do_objectID": "F0794E12-130A-4719-BAEE-DE3B5D6A05A6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CF4D3151-D047-46C7-BE43-07D5E3361641",
+    "do_objectID": "22156600-61B1-4A3B-9676-E15706D9589A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "538FBFB8-D5CA-4408-B548-AA07A7F16D9C",
+    "do_objectID": "FC238046-1579-43A9-B951-6591699D48ED",
     "height": 18,
     "width": 68,
-    "x": 146,
-    "y": 165
+    "x": 115,
+    "y": 114
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Links / Normal",
+  "name": "Links / Hover",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D4788DA8-7152-4931-9665-CF8941252B86",
+    "do_objectID": "1841EB33-BCA9-46BF-8593-860E0C58A453",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "16E5E94F-0D37-444E-BB30-D13CA65824DA",
+  "symbolID": "C0822F53-BD5E-446A-8BFA-89893B2F60CF",
   "verticalSpacing": 0
 }
