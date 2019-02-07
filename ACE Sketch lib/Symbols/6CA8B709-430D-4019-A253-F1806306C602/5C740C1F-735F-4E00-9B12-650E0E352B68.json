@@ -19,7 +19,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2CEAEB8C-3E1F-4ECD-914E-73EC63F6C5EB",
-    "height": 40,
+    "height": 44,
     "width": 360,
     "x": 0,
     "y": 0
@@ -30,7 +30,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "name": "Rectangle Copy 7",

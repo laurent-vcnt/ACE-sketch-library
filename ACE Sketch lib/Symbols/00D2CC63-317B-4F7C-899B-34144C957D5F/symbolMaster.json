@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 242,
+  "changeIdentifier": 379,
   "clippingMaskMode": 0,
   "do_objectID": "00D2CC63-317B-4F7C-899B-34144C957D5F",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C097E77C-57CB-4484-A350-E38CF9439710",
-    "height": 40,
+    "height": 44,
     "width": 360,
     "x": 26373,
     "y": 420
@@ -50,27 +50,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "A0D578A4-BE86-4BC4-A69C-13F85651C456"
     },
     {
-      "class": "text",
-      "id": "0479B3DD-3775-4147-9CAE-DA3A2B5C9E62"
-    },
-    {
-      "class": "text",
-      "id": "FE4AA3EF-47B6-450F-94BB-B33206909ECD"
+      "class": "symbolInstance",
+      "id": "A3E4EB23-D032-4D6A-9261-9691410B5E2F"
     },
     {
       "class": "symbolInstance",
-      "id": "E5E6800A-19AE-4C8D-9DD3-0F8C37CFED98"
+      "id": "A6C9AD59-AA28-4364-A43E-870B6F912307"
     },
     {
-      "class": "symbolInstance",
-      "id": "962A76F8-BCCB-4A25-BD43-AF37C36F1A5C"
+      "class": "text",
+      "id": "93681386-A911-4EE9-8FF0-B1072F5CCD06"
+    },
+    {
+      "class": "text",
+      "id": "E7FD4AF9-B4BC-457A-8ACA-AB6AE8B0DB1E"
     }
   ],
   "name": "Notifications / Error / With notification type label with close button",

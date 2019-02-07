@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 38,
+  "changeIdentifier": 120,
   "clippingMaskMode": 0,
   "do_objectID": "2C93C5DA-BC81-4A49-BE02-479A2FA256D3",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 360,
     "x": 27493,
     "y": 140
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "341DFE92-3AF2-43A9-9029-02054CBA21DB"
-    },
-    {
-      "class": "text",
-      "id": "4EC60012-6A8A-495C-862D-D4356422271D"
     },
     {
       "class": "symbolInstance",
@@ -63,6 +59,10 @@
     {
       "class": "symbolInstance",
       "id": "3BC47E15-1785-4080-89A8-FDE75C583F89"
+    },
+    {
+      "class": "text",
+      "id": "6AC156DA-5E74-4519-9961-CC1BD5388BF4"
     }
   ],
   "name": "Notifications / Success / With close button",
