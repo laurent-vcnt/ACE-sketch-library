@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
-  "do_objectID": "3A9EBEBE-D26F-4D22-9D78-D5678EF1F125",
-  "name": "Footer text / Base",
+  "do_objectID": "E7054DA7-8CD0-433E-B8E2-4DECB678E031",
+  "name": "Footer text / Link / Base",
   "value": {
     "_class": "style",
     "endMarkerType": 0,
@@ -13,9 +13,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2666666666666667,
-          "green": 0.2666666666666667,
-          "red": 0.2666666666666667
+          "blue": 0.7647058823529411,
+          "green": 0.4156862745098038,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

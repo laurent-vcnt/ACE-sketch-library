@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 47,
+  "changeIdentifier": 82,
   "clippingMaskMode": 0,
   "do_objectID": "AE7113BD-79CA-4C40-BB98-741BC5F36693",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 104,
     "width": 1600,
     "x": 22773,
     "y": 200
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -57,8 +57,8 @@
       "id": "939F62F1-D03D-435F-9338-BAF547C5330A"
     },
     {
-      "class": "text",
-      "id": "12E79FDC-2B43-49FA-A4F5-54B5C696BC04"
+      "class": "group",
+      "id": "3DC4D3EF-D1EC-43A4-B26F-AB9A3F8BCB68"
     }
   ],
   "name": "Navigation elements / Footer / Logged in with link hover",
