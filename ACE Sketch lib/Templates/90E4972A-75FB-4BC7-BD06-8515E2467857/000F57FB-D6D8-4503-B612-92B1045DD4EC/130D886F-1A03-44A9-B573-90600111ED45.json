@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A18671D5-152B-44AA-B72D-A26F1E2C2527",
+  "do_objectID": "130D886F-1A03-44A9-B573-90600111ED45",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8069B39C-536C-4CCF-9915-5808AA3D2B25",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A2DCE9B0-26D7-4147-A08C-00ACFB1AB133",
-    "height": 16,
-    "width": 16,
+    "height": 24,
+    "width": 1600,
     "x": 0,
     "y": 0
   },
@@ -27,10 +25,10 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Icons / Placeholder / Small",
+  "name": "Navigation elements / Header / Breadcrumb (beta)",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,18 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "E227DBB8-CCF3-41A3-A821-4774768BA0E1",
-      "opacity": 0
-    },
-    "do_objectID": "4314B849-3BDC-4A3F-8811-D189975B1E84",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AF755CF5-6FB1-4AFF-B606-4BBD72376AC7",
+  "symbolID": "CA3497C8-3D90-41FE-B7B9-167797DBEAA3",
   "verticalSpacing": 0
 }
