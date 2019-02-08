@@ -28,6 +28,9 @@
     "x": 3222,
     "y": 1736
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,18 @@
   ],
   "name": "DNA / Icons / Arrow / Plain rounded / Up / Medium",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8325A31F-FF6C-42DB-BB9F-78371749AB79_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8325A31F-FF6C-42DB-BB9F-78371749AB79/B8FC6ED5-09FF-4670-95CA-7719F22DE781_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

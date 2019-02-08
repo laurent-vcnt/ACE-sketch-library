@@ -31,6 +31,9 @@
     "x": 17405,
     "y": 144
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,33 @@
   ],
   "name": "Form elements / dropdown / error",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "882349C4-7CF5-414C-A7D4-CE60D021A7AC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "882349C4-7CF5-414C-A7D4-CE60D021A7AC/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5CFBE800-2F6F-4F20-86E6-FF22A94756DD_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5CFBE800-2F6F-4F20-86E6-FF22A94756DD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5B0118F1-2EA1-4D21-9DAC-C392D7256682_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

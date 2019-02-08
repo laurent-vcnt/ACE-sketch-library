@@ -28,6 +28,9 @@
     "x": 34137,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,38 @@
   ],
   "name": "Notifications / Informative / Base",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6EA8251A-F8C1-4E73-B01D-BDF2DC3E83D2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6EA8251A-F8C1-4E73-B01D-BDF2DC3E83D2_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "99AFC7D1-7DD1-474A-89D1-B24879C79111/A447D454-4CD8-4A29-A4A4-6C0C26A03F23_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "99AFC7D1-7DD1-474A-89D1-B24879C79111_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "99AFC7D1-7DD1-474A-89D1-B24879C79111/A447D454-4CD8-4A29-A4A4-6C0C26A03F23/75CCDB14-3E0A-4C1E-874C-E471A134E432_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2C1A1515-63A4-4974-8575-6FBDAC699C03_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,6 +28,9 @@
     "x": 11886,
     "y": 432
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,18 @@
   ],
   "name": "Form elements / Autocomplete / Dropdown / Normal with value",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "313DD59B-3DE3-4018-B131-78FC1DD6E5EA/885870B9-9104-4247-B411-DA6BE274F4B8/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "313DD59B-3DE3-4018-B131-78FC1DD6E5EA_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -31,6 +31,9 @@
     "x": 11886,
     "y": 1740
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,18 @@
   ],
   "name": "Form elements / Autocomplete / Dropdown / Opened / With value",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/0F78AB3B-8705-4B7D-8DA0-737AD267CD2E/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

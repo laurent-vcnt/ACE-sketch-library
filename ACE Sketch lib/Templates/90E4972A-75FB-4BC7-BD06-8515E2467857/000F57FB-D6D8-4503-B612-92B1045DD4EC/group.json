@@ -15,10 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 153,
+    "height": 117,
     "width": 1600,
     "x": 0,
     "y": 100
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "5C090396-F3B8-4975-B941-E65D3EEF0A69"
-    },
     {
       "class": "symbolInstance",
       "id": "B911AC1E-68FD-48A5-981B-6358F0505C0D"

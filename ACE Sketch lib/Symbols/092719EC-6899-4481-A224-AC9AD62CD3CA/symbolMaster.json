@@ -28,6 +28,9 @@
     "x": 1640,
     "y": 800
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,8 @@
   ],
   "name": "DNA / Colors / Others / Data Visualizations / Sky",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

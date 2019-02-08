@@ -28,6 +28,9 @@
     "x": 11886,
     "y": 288
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,18 @@
   ],
   "name": "Form elements / Autocomplete / Dropdown / Hover-active without value",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C875584B-7FE7-4AE5-B955-A888B994A770_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C875584B-7FE7-4AE5-B955-A888B994A770/35EFBB86-41DE-4823-A115-65CC4D2EE141/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

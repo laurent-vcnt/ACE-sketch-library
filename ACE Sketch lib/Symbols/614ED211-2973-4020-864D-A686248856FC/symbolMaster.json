@@ -28,6 +28,9 @@
     "x": 15965,
     "y": 365
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,23 @@
   ],
   "name": "Form elements / datepicker / Opened",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B04215D6-4251-42FC-ABC9-E505B9F46DB0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "793C5FCB-6DE6-4D26-BF0A-C55016FA3591_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "793C5FCB-6DE6-4D26-BF0A-C55016FA3591/5DE296AF-607E-487B-9EA2-762AC72A1561/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

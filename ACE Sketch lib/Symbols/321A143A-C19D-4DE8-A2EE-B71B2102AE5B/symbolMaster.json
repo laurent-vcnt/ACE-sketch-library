@@ -28,6 +28,9 @@
     "x": 12951,
     "y": 320
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,8 @@
   ],
   "name": "Form elements / Autocomplete / List / Loading indicator",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

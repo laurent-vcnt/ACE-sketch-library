@@ -28,6 +28,9 @@
     "x": 12386,
     "y": 1356
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,33 @@
   ],
   "name": "Form elements / Autocomplete / Input text / Focus / Without value",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4504F9A1-3F98-4649-9A25-DD47E2DF4F12_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8187EA08-009E-49A6-9D6F-1E668D1938FD_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8187EA08-009E-49A6-9D6F-1E668D1938FD_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

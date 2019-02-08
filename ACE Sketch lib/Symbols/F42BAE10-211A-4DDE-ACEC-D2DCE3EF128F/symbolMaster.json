@@ -28,6 +28,9 @@
     "x": 35257,
     "y": 432
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -71,6 +74,58 @@
   ],
   "name": "Notifications / Warning / With notification type label with close button",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E76D81BE-9DDD-46D9-847A-6DFE36769F5B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "838CC1EF-9E5B-42A6-8509-14D6BC5463AE_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "AD10A374-771D-4709-BE97-18C52469DFBF_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "838CC1EF-9E5B-42A6-8509-14D6BC5463AE_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "D1F330CA-E570-461E-9172-6BF69AD3A5D1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "30940AE0-6C72-4152-A538-77762AD8529B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "30940AE0-6C72-4152-A538-77762AD8529B/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "30940AE0-6C72-4152-A538-77762AD8529B/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "AD10A374-771D-4709-BE97-18C52469DFBF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "D1F330CA-E570-461E-9172-6BF69AD3A5D1/FBB27C0D-C550-4327-A0F6-8F9086275C88_layerStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

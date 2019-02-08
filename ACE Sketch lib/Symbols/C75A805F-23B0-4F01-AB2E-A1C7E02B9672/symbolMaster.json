@@ -28,6 +28,9 @@
     "x": 34697,
     "y": 288
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,48 @@
   ],
   "name": "Notifications / Success / With notification type",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6AC7D522-3B63-4DFC-98C6-731F7C617E09_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A92B2ED2-BD05-4806-B9EB-A439351AE309_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A92B2ED2-BD05-4806-B9EB-A439351AE309_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CFEDD479-4E04-4BD9-8732-BC16AD16015D/55AB15F0-FBFA-4CF8-A2A8-C5B93CF84172_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CFEDD479-4E04-4BD9-8732-BC16AD16015D/55AB15F0-FBFA-4CF8-A2A8-C5B93CF84172/2DBEBB28-038E-445C-A107-FC485D556172_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5105B2DC-8AF1-431A-8C08-C62EB91C46B5_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6AC7D522-3B63-4DFC-98C6-731F7C617E09_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CFEDD479-4E04-4BD9-8732-BC16AD16015D_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

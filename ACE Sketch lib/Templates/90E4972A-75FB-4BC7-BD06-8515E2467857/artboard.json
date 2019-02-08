@@ -30,6 +30,9 @@
     "x": 5921,
     "y": 566
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -61,6 +64,10 @@
     {
       "class": "symbolInstance",
       "id": "CFB6D559-021C-49B5-8F14-CB5DBFB3F65E"
+    },
+    {
+      "class": "rectangle",
+      "id": "5C090396-F3B8-4975-B941-E65D3EEF0A69"
     },
     {
       "class": "group",
