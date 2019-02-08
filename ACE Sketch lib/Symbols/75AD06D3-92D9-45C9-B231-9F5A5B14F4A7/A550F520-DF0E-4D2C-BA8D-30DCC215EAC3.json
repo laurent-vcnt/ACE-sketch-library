@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 300,
     "x": 0,
     "y": 0
@@ -36,6 +36,18 @@
       "do_objectID": "B2AC725C-B047-4873-A0DA-3B6FE9C08F6C",
       "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/B852A6FB-0A57-49D6-B5E4-7FE2037306E9_stringValue",
       "value": "Vinc"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2097B63-B913-45BE-BE3C-5C2F68B3D747",
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_stringValue",
+      "value": "Vinc"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66CFD113-C9C8-42EC-A758-1F4326B66BB7",
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
     }
   ],
   "resizingConstraint": 63,

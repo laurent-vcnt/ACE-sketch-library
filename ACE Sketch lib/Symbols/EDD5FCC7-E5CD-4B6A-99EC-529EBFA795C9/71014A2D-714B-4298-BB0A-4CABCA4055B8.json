@@ -20,9 +20,12 @@
               "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           }
         },
         "length": 17,
@@ -50,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "29F5C31B-7282-4126-826F-262C34C2F372",
-    "height": 16,
-    "width": 114,
+    "height": 96,
+    "width": 336,
     "x": 12,
     "y": 12
   },
-  "glyphBounds": "{{1, 2}, {112, 12}}",
+  "glyphBounds": "{{1, 4}, {112, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +82,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9C00BB7A-2243-4EA5-8581-A77C5D112438",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,14 +97,17 @@
             "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

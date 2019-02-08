@@ -30,13 +30,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form elements / datepicker / Calendar items / Day / Normal",
+  "name": "Form elements / datepicker / Calendar items / Day / Disabled",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "93A71832-102E-499A-BFF5-407D8B9E9FAD",
-      "overrideName": "696F497E-2474-4CB2-8D23-1587F73A91EC_textStyle",
+      "do_objectID": "9001725D-A359-43DA-8563-0C53F2DFBAAD",
+      "overrideName": "EBD3B33C-E96B-4A21-AFA3-5F9ED815C40E_textStyle",
       "value": "03B303E2-0F23-4F1E-9273-28ACDE71F4CA"
     }
   ],
@@ -53,6 +53,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "822C922B-A193-4BAC-AF1A-35532571C29A",
+  "symbolID": "4F3F5C97-B7FE-40B7-B8AB-2D7F1E31FD76",
   "verticalSpacing": 0
 }

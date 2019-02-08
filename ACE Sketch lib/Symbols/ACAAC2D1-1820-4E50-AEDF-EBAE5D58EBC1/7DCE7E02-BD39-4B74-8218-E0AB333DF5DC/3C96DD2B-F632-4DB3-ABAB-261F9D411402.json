@@ -18,7 +18,7 @@
     "height": 48,
     "width": 298,
     "x": 1,
-    "y": 40
+    "y": 44
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "Form elements / Autocomplete / List / Searching for matches",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "704B4C2F-E4BE-468C-88CE-C4267C3F32F9",
+      "overrideName": "60320633-9CD0-4576-96C7-3537E1207FD8/3BF7D2E1-C04B-41FC-AF6E-365AC554295D_stringValue",
+      "value": "Searching for matches"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

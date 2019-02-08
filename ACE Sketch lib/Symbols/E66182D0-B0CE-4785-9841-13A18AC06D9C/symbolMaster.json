@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 755,
+  "changeIdentifier": 806,
   "clippingMaskMode": 0,
   "do_objectID": "E66182D0-B0CE-4785-9841-13A18AC06D9C",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "107662CB-56B4-49AE-AB5C-C58C9F5270F6",
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 16874,
-    "y": 140
+    "x": 16905,
+    "y": 144
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -58,15 +58,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "326AFCD2-9B43-4A4C-8764-CE648B82ABA0"
-    },
-    {
-      "class": "text",
-      "id": "CC93AEC4-B673-4B8E-BC48-B7A8C878C447"
+      "id": "49BAD70F-EFE4-4EE2-A8AE-0593B95AE6EF"
     },
     {
       "class": "symbolInstance",
-      "id": "E493D471-61D0-4205-AEBF-BA16AFE7863C"
+      "id": "35B61788-A976-4FAD-980C-D5BE5504D235"
+    },
+    {
+      "class": "text",
+      "id": "640B00E7-C3E7-4476-BD42-C50CCB55EB31"
     }
   ],
   "name": "Form elements / dropdown with embed icon / Normal with value",

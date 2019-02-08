@@ -20,10 +20,13 @@
               "size": 14
             }
           },
+          "kerning": 0.2000000029802322,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 13,
@@ -49,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 84,
+    "height": 18,
+    "width": 86,
     "x": 20,
     "y": 12
   },
-  "glyphBounds": "{{1, 2}, {82, 14}}",
+  "glyphBounds": "{{1, 4}, {84, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,9 +71,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E928441F-F172-4AB8-AAFA-38990AB09501",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "84D0DF2C-3A97-4BF5-9A9B-6C45751BBF68",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -91,10 +96,13 @@
             "size": 14
           }
         },
+        "kerning": 0.2000000029802322,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

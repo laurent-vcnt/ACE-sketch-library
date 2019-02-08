@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 553,
+  "changeIdentifier": 589,
   "clippingMaskMode": 0,
   "do_objectID": "243CC187-029F-45D6-910F-CD1C50C80166",
   "exportOptions": {
@@ -26,9 +26,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FCC863EA-9054-49A1-810D-55DC17FF1293",
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 17374,
+    "x": 17405,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -57,12 +57,12 @@
       "id": "CA63FFF9-8EBD-4112-9A0B-21973FD2B4C0"
     },
     {
-      "class": "symbolInstance",
-      "id": "B010C16C-39E2-4B17-ACD8-C2D379D326D5"
+      "class": "text",
+      "id": "CA4A83E6-EC16-4C69-94A3-F17F961E097F"
     },
     {
-      "class": "text",
-      "id": "00947290-D495-4B40-8198-2F8DB564208F"
+      "class": "symbolInstance",
+      "id": "DC755CA1-A861-4728-874F-9228C60C8F80"
     }
   ],
   "name": "Form elements / dropdown / disabled",

@@ -62,7 +62,7 @@
     "constrainProportions": false,
     "do_objectID": "C2418148-7DF7-4CB8-A2A2-60B1AE41CFD4",
     "height": 36,
-    "width": 601,
+    "width": 454,
     "x": 30,
     "y": 30
   },
@@ -116,7 +116,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

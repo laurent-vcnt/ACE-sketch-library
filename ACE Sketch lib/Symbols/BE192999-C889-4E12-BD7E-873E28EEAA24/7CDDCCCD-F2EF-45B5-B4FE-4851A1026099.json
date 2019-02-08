@@ -36,6 +36,12 @@
       "do_objectID": "20C9F420-375D-4F4A-879A-665EA917BA10",
       "overrideName": "AC4ADEEE-2CD2-4869-94C8-8DCF0B58E46C/C25EA2DE-7512-4AE2-82FD-9A442F09653C_stringValue",
       "value": "Type min 3 characters to get matches"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68AABFD7-51E5-435F-AC7D-411D8419615C",
+      "overrideName": "AC4ADEEE-2CD2-4869-94C8-8DCF0B58E46C/3BF7D2E1-C04B-41FC-AF6E-365AC554295D_stringValue",
+      "value": "Please type minimum X characters"
     }
   ],
   "resizingConstraint": 63,

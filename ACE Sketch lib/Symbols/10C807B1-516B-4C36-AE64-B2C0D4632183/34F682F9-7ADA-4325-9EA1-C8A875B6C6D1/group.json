@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 300,
+    "width": 298,
     "x": 0,
     "y": 88
   },
@@ -35,7 +35,7 @@
     },
     {
       "class": "text",
-      "id": "8FA40C6E-E415-4905-8918-2D5E7B80F878"
+      "id": "CE027A23-2F21-4176-AC40-887C41F8B45B"
     }
   ],
   "name": "Form elements / dropdown / list / item / normal",

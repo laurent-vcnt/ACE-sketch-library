@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 67,
+  "changeIdentifier": 205,
   "clippingMaskMode": 0,
   "do_objectID": "C75A805F-23B0-4F01-AB2E-A1C7E02B9672",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 360,
-    "x": 25671,
-    "y": 280
+    "x": 34697,
+    "y": 288
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,12 +57,12 @@
       "id": "A92B2ED2-BD05-4806-B9EB-A439351AE309"
     },
     {
-      "class": "text",
-      "id": "C241D64B-477A-4A2F-B2B6-D3C53537E003"
-    },
-    {
       "class": "symbolInstance",
       "id": "CFEDD479-4E04-4BD9-8732-BC16AD16015D"
+    },
+    {
+      "class": "text",
+      "id": "6AC7D522-3B63-4DFC-98C6-731F7C617E09"
     }
   ],
   "name": "Notifications / Success / With notification type",

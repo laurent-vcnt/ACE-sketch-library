@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 679,
+  "changeIdentifier": 736,
   "clippingMaskMode": 0,
   "do_objectID": "3A46EDAB-952E-4A23-80C9-92B718FD3B35",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BF5AA565-D544-4CE4-82D3-872590114987",
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 17374,
-    "y": 880
+    "x": 17405,
+    "y": 896
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,12 +57,12 @@
       "id": "DD8D1530-31D5-476D-90F7-C82FCDE9F6B1"
     },
     {
-      "class": "text",
-      "id": "25D6EC54-176B-4D97-BF93-E8F77A9138C9"
+      "class": "symbolInstance",
+      "id": "885870B9-9104-4247-B411-DA6BE274F4B8"
     },
     {
-      "class": "symbolInstance",
-      "id": "43D79436-2AAD-40D9-86E2-BADC2238A532"
+      "class": "text",
+      "id": "35028B42-2F1A-4CA2-A9C4-27F321031C51"
     }
   ],
   "name": "Form elements / dropdown / Normal with value",

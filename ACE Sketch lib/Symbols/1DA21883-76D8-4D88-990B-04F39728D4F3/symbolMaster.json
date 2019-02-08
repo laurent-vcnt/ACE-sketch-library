@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 869,
+  "changeIdentifier": 899,
   "clippingMaskMode": 0,
   "do_objectID": "1DA21883-76D8-4D88-990B-04F39728D4F3",
   "exportOptions": {
@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "069425B5-AD14-4C15-B9ED-2A703F798388",
-    "height": 40,
+    "height": 44,
     "width": 300,
-    "x": 16874,
-    "y": 280
+    "x": 16905,
+    "y": 288
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -58,15 +58,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6352F264-9893-45E6-A7ED-D4717351D532"
-    },
-    {
-      "class": "text",
-      "id": "24017B93-AB9F-4B49-8E20-E44459F80873"
+      "id": "48782F6C-5105-4F87-96E8-A468DBE256B2"
     },
     {
       "class": "symbolInstance",
-      "id": "371C0E25-FF9A-4F05-96CC-2D4FCE0A6134"
+      "id": "5DE296AF-607E-487B-9EA2-762AC72A1561"
+    },
+    {
+      "class": "text",
+      "id": "736CF6DF-5DB0-4DF7-9518-DADA53DD56AC"
     }
   ],
   "name": "Form elements / dropdown with embed icon / Opened",

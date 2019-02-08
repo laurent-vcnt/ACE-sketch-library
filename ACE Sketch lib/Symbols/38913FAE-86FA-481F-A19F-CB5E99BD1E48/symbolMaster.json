@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 73,
+  "changeIdentifier": 184,
   "clippingMaskMode": 0,
   "do_objectID": "38913FAE-86FA-481F-A19F-CB5E99BD1E48",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 360,
-    "x": 25111,
-    "y": 420
+    "x": 34137,
+    "y": 432
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,16 +57,16 @@
       "id": "3F345348-3004-40A3-8B1F-A32A627CE374"
     },
     {
-      "class": "symbolInstance",
-      "id": "921DCCFF-0EAE-451B-80C1-B93355CF265A"
-    },
-    {
       "class": "text",
       "id": "3DD64FDC-D10A-4F13-8828-F9030E085DAB"
     },
     {
       "class": "text",
       "id": "661F2FEB-846F-4CA9-8C4E-7C132418C8D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28371953-0D30-4DB8-BEAF-33A9AAD20E37"
     }
   ],
   "name": "Notifications / Informative / With notification type label with close button",

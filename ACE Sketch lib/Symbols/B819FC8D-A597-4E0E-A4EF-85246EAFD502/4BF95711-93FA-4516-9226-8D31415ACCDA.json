@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 300,
     "x": 0,
     "y": 0
@@ -31,6 +31,18 @@
   "name": "Form elements / Autocomplete / Input text / Focus / Without value",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B4EEADB-BE95-43DC-B7A6-CC5135B1384A",
+      "overrideName": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3AEC944-6531-49DF-B73A-4E2FE9C732AA",
+      "overrideName": "BB5127DA-D060-4DE1-BD97-9F2D46EEFD78_stringValue",
+      "value": "AB"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

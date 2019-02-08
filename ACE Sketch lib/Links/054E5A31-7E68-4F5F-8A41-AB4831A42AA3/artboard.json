@@ -55,28 +55,12 @@
       "id": "120FFD01-FDBF-4FD2-B16D-D9682EB2D977"
     },
     {
-      "class": "text",
-      "id": "BAEDE9F6-86C0-4FFD-B14D-CD9A8029A425"
+      "class": "group",
+      "id": "869D7622-D603-4220-BEEB-FEBF314380F1"
     },
     {
-      "class": "symbolInstance",
-      "id": "6CD81576-1D05-4934-8A7F-02210CF40DD9"
-    },
-    {
-      "class": "text",
-      "id": "BD819B30-3211-4507-889F-FB863D511FE4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F0794E12-130A-4719-BAEE-DE3B5D6A05A6"
-    },
-    {
-      "class": "text",
-      "id": "BAF14C23-7A12-4B4A-B34E-32A2C55B7C23"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "ACEA5968-5E8B-4AC7-B8B3-060575242A64"
+      "class": "group",
+      "id": "231D0BF0-B29E-42A8-829E-8E7634946579"
     }
   ],
   "name": "Links",

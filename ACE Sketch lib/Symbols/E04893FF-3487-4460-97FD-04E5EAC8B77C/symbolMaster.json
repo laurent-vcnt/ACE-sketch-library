@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 49,
   "clippingMaskMode": 0,
   "do_objectID": "E04893FF-3487-4460-97FD-04E5EAC8B77C",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 11657,
+    "x": 11670,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "A6C61876-8DCA-4063-8F25-87B53F867F0E"
+      "id": "3D090092-4F06-453B-BABB-BB61A2B0047E"
     }
   ],
   "name": "DNA / Misc / dropdown / arrow",

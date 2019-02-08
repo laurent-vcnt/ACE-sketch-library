@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 300,
+    "width": 298,
     "x": 0,
     "y": 44
   },
@@ -35,7 +35,7 @@
     },
     {
       "class": "text",
-      "id": "8C73707B-BEAB-4FF8-BA5F-9B6290FB6022"
+      "id": "3034FDCA-298B-4230-892C-D798E7CA5D9E"
     }
   ],
   "name": "Form elements / dropdown / list / item / hover",

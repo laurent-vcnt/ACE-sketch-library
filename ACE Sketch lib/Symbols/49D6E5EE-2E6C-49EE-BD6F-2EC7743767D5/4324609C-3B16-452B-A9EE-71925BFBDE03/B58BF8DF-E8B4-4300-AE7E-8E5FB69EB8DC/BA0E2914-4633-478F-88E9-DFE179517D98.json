@@ -17,13 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 18
+              "size": 16
             }
           },
+          "kerning": 0.4000000059604645,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 7,
@@ -51,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EA2A3BD0-73C5-4229-BDED-66DF87E0C0B8",
-    "height": 21,
-    "width": 95,
-    "x": 55,
-    "y": 0
+    "height": 18,
+    "width": 60,
+    "x": 71,
+    "y": 1
   },
-  "glyphBounds": "{{15, 4}, {65, 17}}",
+  "glyphBounds": "{{0, 2}, {60, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,12 +67,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 0,
+  "lineSpacingBehaviour": 2,
   "name": "Month",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "09BD295E-B757-485B-BB06-420265339C1B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +83,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5470F87F-C10D-4446-BB0F-9E549165F247",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,18 +95,21 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 18
+            "size": 16
           }
         },
+        "kerning": 0.4000000059604645,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

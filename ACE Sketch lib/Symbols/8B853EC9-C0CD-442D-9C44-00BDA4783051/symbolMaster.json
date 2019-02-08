@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 39,
+  "changeIdentifier": 263,
   "clippingMaskMode": 0,
   "do_objectID": "8B853EC9-C0CD-442D-9C44-00BDA4783051",
   "exportOptions": {
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 108,
-    "x": 27347,
+    "height": 26,
+    "width": 111,
+    "x": 36382,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -46,11 +46,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "8A1C046D-FA99-4D4E-A713-9CB22AFF05C8"
+      "class": "rectangle",
+      "id": "3A1B8C6E-365D-4C49-B7DF-3672953BFCB8"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BD4DC44-EB66-4713-88D7-03631445B7C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "865E3580-5A6F-4ABE-8232-470E4E10415F"
+    },
+    {
+      "class": "text",
+      "id": "030B4865-90C8-46F2-9BE8-A6EC199B8C82"
     }
   ],
   "name": "Tags / Tag item / Mono-line",

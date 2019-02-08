@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 81,
+  "changeIdentifier": 288,
   "clippingMaskMode": 0,
   "do_objectID": "7119F7B7-BC8A-4D8E-910D-882BD7F94C0E",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 360,
-    "x": 25671,
-    "y": 420
+    "x": 34697,
+    "y": 432
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -66,7 +66,7 @@
     },
     {
       "class": "text",
-      "id": "E401CC50-D2E8-4FEC-A450-AD0D17ABE6DD"
+      "id": "188D3515-CC41-42C2-BE26-6943BD5A4430"
     }
   ],
   "name": "Notifications / Success / With notification type label with close button",

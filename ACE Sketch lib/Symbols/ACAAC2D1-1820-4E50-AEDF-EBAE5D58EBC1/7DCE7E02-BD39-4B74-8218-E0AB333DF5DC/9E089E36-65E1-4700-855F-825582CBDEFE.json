@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 300,
     "x": 0,
     "y": 0
@@ -40,6 +40,18 @@
       "_class": "overrideValue",
       "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/B852A6FB-0A57-49D6-B5E4-7FE2037306E9_stringValue",
       "value": "Vincenzo Vin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41753C2E-4682-4041-A6DB-AEE5323BBD33",
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_stringValue",
+      "value": "ABCD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "823E1572-A53B-47B0-AD47-5A40FDD1072D",
+      "overrideName": "9CD54850-8B49-47A8-A423-80324C8D98D7/222B277D-4530-42A9-85B6-DFF8EF264B41_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
     }
   ],
   "resizingConstraint": 63,

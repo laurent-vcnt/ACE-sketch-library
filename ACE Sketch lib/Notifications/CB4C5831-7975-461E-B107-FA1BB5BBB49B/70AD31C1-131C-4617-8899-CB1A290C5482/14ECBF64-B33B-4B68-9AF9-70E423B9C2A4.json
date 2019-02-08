@@ -15,11 +15,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "93BBBFE0-B47C-4F34-81EB-3C5A223A4F73",
-    "height": 16,
-    "width": 16,
-    "x": 1290,
+    "height": 20,
+    "width": 20,
+    "x": 1286,
     "y": 12
   },
   "hasClippingMask": false,
