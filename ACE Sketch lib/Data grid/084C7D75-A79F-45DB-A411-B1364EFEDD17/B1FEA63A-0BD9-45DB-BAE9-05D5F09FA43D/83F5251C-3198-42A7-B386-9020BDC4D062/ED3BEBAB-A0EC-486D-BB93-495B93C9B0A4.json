@@ -36,11 +36,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BFAC707D-49F7-4DD5-BD10-2C94836099E7",
+  "do_objectID": "ED3BEBAB-A0EC-486D-BB93-495B93C9B0A4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6B7EC8ED-D224-48FD-AD0E-A2029158E58A",
+    "do_objectID": "2E9942EB-3024-4D08-8E5A-7A488F828CE3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,10 +51,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B55339A4-B425-41A8-8CC8-EC2027BDFA11",
+    "do_objectID": "D5F9F387-8663-4698-A295-6EBDF36EB855",
     "height": 20,
     "width": 64,
-    "x": 0,
+    "x": 1,
     "y": 0
   },
   "glyphBounds": "{{1, 3}, {63, 13}}",
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Filter heading Copy",
+  "name": "Filter heading",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,13 +75,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6A85BE28-29C2-40E0-8754-5458AE46CDDD",
+    "do_objectID": "33828EE6-0FB3-4D5E-B600-78D234BD1726",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EA30C166-56C6-4921-B084-C2F31ED39A73",
+      "do_objectID": "B05AAED6-25E7-408A-B7C9-DF2221A0D62D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

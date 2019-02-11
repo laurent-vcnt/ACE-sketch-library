@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "83360900-E913-4834-9A40-F05F53C8A540",
+  "do_objectID": "80FCCC47-D87F-400B-A99D-BB527A644D44",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "758EE2FF-D8A6-4E14-8C8D-D77FBF4E7527",
+    "do_objectID": "A3762BC7-F6C7-4BB8-AE26-963E9031AF97",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7FF7AE46-DF84-411C-9761-8D192BDBC599",
+    "do_objectID": "6A269584-016C-4DAD-805D-9C3BCF33A841",
     "height": 42,
-    "width": 116,
-    "x": 46,
-    "y": 914
+    "width": 117,
+    "x": 128,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Buttons / Primary / Normal",
+  "name": "Buttons / Secondary / Normal",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9BF7C672-44A7-408F-AC67-34128EC51A30",
-      "overrideName": "FED95F5E-6012-40B7-AACA-C12384AAB8E7_stringValue",
-      "value": "Apply filters"
+      "do_objectID": "4A52EF83-8977-46BF-9BD0-7FE42E06D389",
+      "overrideName": "FE394B56-955D-4E29-BAC9-4FF81ADCBDFC_stringValue",
+      "value": "Reset filters"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A6336E22-D62F-4AA4-8BBA-FBC9F8C6081B",
+    "do_objectID": "8C9B1919-71CF-46B7-989E-05209305B34F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A77BF050-921A-4F37-AD78-14B6D07A4581",
+  "symbolID": "6C2BF605-87B9-4DAE-AB29-66C252E51A65",
   "verticalSpacing": 0
 }

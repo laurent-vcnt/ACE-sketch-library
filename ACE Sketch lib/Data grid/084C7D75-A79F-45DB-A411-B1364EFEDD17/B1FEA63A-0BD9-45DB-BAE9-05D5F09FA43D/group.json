@@ -44,20 +44,16 @@
       "id": "9175FF55-306D-455B-A3A2-32B305446B79"
     },
     {
-      "class": "rectangle",
-      "id": "437D8F90-87BC-4D23-A69F-C8A27F112840"
-    },
-    {
-      "class": "rectangle",
-      "id": "F3B85E33-E0F0-4A3F-AE12-E0712C3B846B"
+      "class": "group",
+      "id": "11A26B8F-6BB6-459F-B10E-6F8794153E94"
     },
     {
       "class": "group",
-      "id": "7571A382-FD82-4EFA-BD90-B936CFC34A4B"
+      "id": "83F5251C-3198-42A7-B386-9020BDC4D062"
     },
     {
       "class": "group",
-      "id": "457D8087-0BF1-4E0A-9030-F161BDC916D1"
+      "id": "141C50D7-6622-4D6E-8EC1-26909E064D68"
     }
   ],
   "name": "Dropdown menu list",
