@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "Navigation elements / Header / Title bar (beta) / Base",
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown pages menu / Base",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -47,6 +47,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B12F1A85-BB69-440D-9E92-7F54F600A688",
+  "symbolID": "59A7A42E-9035-4ECE-B889-FA3046005E57",
   "verticalSpacing": 0
 }
