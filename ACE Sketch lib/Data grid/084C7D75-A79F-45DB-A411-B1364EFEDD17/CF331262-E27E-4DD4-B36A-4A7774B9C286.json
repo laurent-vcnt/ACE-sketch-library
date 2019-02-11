@@ -35,9 +35,9 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A49839B4-FE25-4DD5-9B20-E4076E34E289",
-      "overrideName": "756498B8-F46F-45EC-97F1-067ECA0E5683_symbolID",
-      "value": "B207CB8D-FCB7-4100-A649-D435A4C114C6"
+      "do_objectID": "D32F6C54-B61E-4F88-B2A7-49A0BB45C226",
+      "overrideName": "756498B8-F46F-45EC-97F1-067ECA0E5683/0AEDFE19-3C53-40FE-90CC-E37566A8A959_layerStyle",
+      "value": "85BB30D5-3634-46CC-9647-4672DCB79C5D"
     }
   ],
   "resizingConstraint": 63,

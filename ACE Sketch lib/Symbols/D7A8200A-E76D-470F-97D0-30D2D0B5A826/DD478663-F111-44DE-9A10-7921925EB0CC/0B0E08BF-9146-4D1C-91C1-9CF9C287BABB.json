@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Misc / dropdown / arrow",
+  "name": "DNA / Misc / dropdown / arrow / Down",
   "nameIsFixed": false,
   "overrideValues": [
     {
@@ -38,7 +38,7 @@
       "value": "053992B8-3A04-487F-887A-C6F64D93B60E"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

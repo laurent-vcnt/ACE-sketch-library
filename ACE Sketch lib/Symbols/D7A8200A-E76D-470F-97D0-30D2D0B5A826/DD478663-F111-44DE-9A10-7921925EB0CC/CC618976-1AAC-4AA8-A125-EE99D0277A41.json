@@ -28,11 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Icons / Filters / Small",
+  "name": "DNA / Icons / Placeholder / Small",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D5E04273-67BA-446D-9B3F-8E1F29EC69DB",
+  "symbolID": "AF755CF5-6FB1-4AFF-B606-4BBD72376AC7",
   "verticalSpacing": 0
 }

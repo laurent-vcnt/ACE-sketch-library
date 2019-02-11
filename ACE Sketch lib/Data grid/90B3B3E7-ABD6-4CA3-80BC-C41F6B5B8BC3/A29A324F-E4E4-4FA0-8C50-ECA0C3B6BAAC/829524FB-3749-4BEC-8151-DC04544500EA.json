@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "829524FB-3749-4BEC-8151-DC04544500EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B28733C4-2447-483A-B21E-14D011C55CFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8A23590-5E1F-43F6-9994-20C694250E67",
+    "height": 106,
+    "width": 1020,
+    "x": 0,
+    "y": 342
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DNA / Colors / Primary / Cool white",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5308D41-B141-4E44-9379-C208A9BC9426",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
+  "verticalSpacing": 0
+}

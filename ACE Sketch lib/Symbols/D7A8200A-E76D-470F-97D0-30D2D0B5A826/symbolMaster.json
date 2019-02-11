@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 95,
+  "changeIdentifier": 119,
   "clippingMaskMode": 0,
   "do_objectID": "D7A8200A-E76D-470F-97D0-30D2D0B5A826",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 46,
     "width": 184,
-    "x": 36633,
-    "y": 0
+    "x": 22777,
+    "y": 438
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -49,14 +49,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "DD478663-F111-44DE-9A10-7921925EB0CC"
     }
   ],
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Filters menu / Closed",
+  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Dropdown menu / Base",
   "nameIsFixed": true,
   "overrideProperties": [
     {
