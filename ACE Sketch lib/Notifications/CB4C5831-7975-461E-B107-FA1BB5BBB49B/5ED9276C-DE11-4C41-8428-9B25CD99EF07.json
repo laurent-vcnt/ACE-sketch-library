@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Light",
+              "name": "FiraSans-Bold",
               "size": 28
             }
           },
@@ -60,11 +60,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 449,
+    "width": 457,
     "x": 30,
     "y": 30
   },
-  "glyphBounds": "{{3, 5}, {445, 23}}",
+  "glyphBounds": "{{1, 4}, {456, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -97,7 +97,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Light",
+            "name": "FiraSans-Bold",
             "size": 28
           }
         },

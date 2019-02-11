@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "11137F2D-17A1-40DB-AB9C-9C1DCFF89904",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1744568B-D6D0-4633-9138-C4B9B4AEBA66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02F28DA5-9F1D-4BDE-8BDB-8B5FDFA48350",
+    "height": 34,
+    "width": 1600,
+    "x": 30,
+    "y": 230
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation elements / Header / Title bar / Base Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE91C5FE-E1ED-4E0E-BBC7-7EFA9A887DC5",
+      "overrideName": "9E792460-ECF5-4034-9B3C-F39C664C90FA_textStyle",
+      "value": "497AB89C-B4DC-4CBF-8C20-FD4E83B155CD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F2413AD-2CB7-4AFF-BEBA-D9D3E902A5F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA3497C8-3D90-41FE-B7B9-167797DBEAA3",
+  "verticalSpacing": 0
+}

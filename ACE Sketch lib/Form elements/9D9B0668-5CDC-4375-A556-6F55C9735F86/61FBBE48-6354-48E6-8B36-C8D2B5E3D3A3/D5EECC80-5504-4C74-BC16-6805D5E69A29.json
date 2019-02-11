@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "Roboto-Bold",
               "size": 28
             }
           },
@@ -64,7 +64,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 7}, {241, 22}}",
+  "glyphBounds": "{{1, 7}, {250, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -97,7 +97,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "Roboto-Bold",
             "size": 28
           }
         },

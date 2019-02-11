@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FiraSans-Light",
+              "name": "FiraSans-Bold",
               "size": 28
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 27,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "Main navigation – #organism"
+    "string": "Main navigation (beta) – #organism"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -63,10 +63,10 @@
     "do_objectID": "61D6DEEC-456F-4F36-A182-3AE0656B03C1",
     "height": 36,
     "width": 600,
-    "x": 31,
+    "x": 30,
     "y": 30
   },
-  "glyphBounds": "{{1, 5}, {356, 28}}",
+  "glyphBounds": "{{0, 2}, {449, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Main navigation – #o",
+  "name": "Main navigation (bet",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
@@ -101,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FiraSans-Light",
+            "name": "FiraSans-Bold",
             "size": 28
           }
         },

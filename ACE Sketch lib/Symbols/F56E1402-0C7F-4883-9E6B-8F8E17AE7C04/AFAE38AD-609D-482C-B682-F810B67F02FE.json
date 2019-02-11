@@ -27,11 +27,11 @@
             "minimumLineHeight": 44
           }
         },
-        "length": 8,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Holdings"
+    "string": "Title page here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "DBFDE23C-A255-455B-86F2-474CD483E5C2",
     "height": 44,
-    "width": 124,
+    "width": 208,
     "x": 82,
     "y": 18
   },
-  "glyphBounds": "{{3, 8}, {120, 32}}",
+  "glyphBounds": "{{0, 8}, {207, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DD478663-F111-44DE-9A10-7921925EB0CC",
+  "do_objectID": "3B8A8BC6-6BDE-40AE-9E14-DDB0DC787F4C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3ABAC1CC-DEC8-4162-887D-9FC276CEF4EF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,51 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "05BCE95B-EAB3-4A45-93F6-E57DA0240C9E",
     "height": 46,
     "width": 184,
-    "x": 1,
-    "y": 0
+    "x": 314,
+    "y": 30
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "0AEDFE19-3C53-40FE-90CC-E37566A8A959"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0B0E08BF-9146-4D1C-91C1-9CF9C287BABB"
-    },
-    {
-      "class": "text",
-      "id": "CC6811B3-0E6D-4E05-9B70-6170D86C1D0F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CC618976-1AAC-4AA8-A125-EE99D0277A41"
-    }
+  "layerListExpandedType": 0,
+  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Filters menu / Closed Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Filters",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F9A3A53D-8910-4F23-B8FF-1A7C065BF8F0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "83539F9B-B117-4CF4-B8DA-CD564B804C18",
+  "verticalSpacing": 0
 }

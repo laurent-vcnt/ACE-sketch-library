@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0B0E08BF-9146-4D1C-91C1-9CF9C287BABB",
+  "do_objectID": "2322309D-4D7E-4551-8E42-34716544E7ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 153,
-    "y": 15
+    "height": 80,
+    "width": 1600,
+    "x": 0,
+    "y": 34
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,8 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "DNA / Misc / dropdown / arrow",
+  "layerListExpandedType": 1,
+  "name": "Navigation elements / Header / Title bar / Base",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0D6356E8-8064-469D-B614-B4272009BD08",
+  "symbolID": "B12F1A85-BB69-440D-9E92-7F54F600A688",
   "verticalSpacing": 0
 }

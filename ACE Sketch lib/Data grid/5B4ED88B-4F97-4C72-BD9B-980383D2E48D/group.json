@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B4ED88B-4F97-4C72-BD9B-980383D2E48D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1160,
+    "width": 1456,
+    "x": 1220,
+    "y": -1729
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "AD940E8E-31C6-4492-B472-CAF9E7ED87AE"
+    },
+    {
+      "class": "bitmap",
+      "id": "79F3A9E9-DFDE-42B3-B91E-CD4DB2FA7D40"
+    },
+    {
+      "class": "bitmap",
+      "id": "20C8E075-211B-42E6-9D64-1B9448262DA7"
+    },
+    {
+      "class": "bitmap",
+      "id": "D9BF2965-F986-4EE3-8E91-E2271665D80D"
+    },
+    {
+      "class": "bitmap",
+      "id": "7CD275B6-9BF5-46C1-BAD0-4B36C91F9EFB"
+    }
+  ],
+  "name": "Filters menu screenshots from production",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

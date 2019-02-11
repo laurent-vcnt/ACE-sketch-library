@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B303A8F-A4EC-4E6A-AAAB-CB173A1F3099",
+  "do_objectID": "88D724F9-19F2-482F-A22F-3F003A274581",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "581F45E9-CFE5-4DC7-89E7-D8D821897C09",
+    "do_objectID": "92D231A7-16FC-4B4E-A321-5B1E8F231E36",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "92DDDF6E-E2FC-433A-BCED-2F3E9192865E",
-    "height": 220,
-    "width": 1920,
+    "do_objectID": "A3ABBCB3-653C-4E4E-9070-8B2D9F65B58C",
+    "height": 44,
+    "width": 245,
     "x": 0,
-    "y": 306
+    "y": 32
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Colors / Primary / Cool white",
+  "name": "Form elements / dropdown / normal",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20AA8BCF-33DE-43DB-B9D2-2F4337E971B0",
+      "overrideName": "608E4BAA-D04B-4956-B263-D033CE188C44_stringValue",
+      "value": "Value ABC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AB567AF-1E32-4E48-9B30-D7DD2C562D84",
+      "overrideName": "608E4BAA-D04B-4956-B263-D033CE188C44_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +53,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6CB5E325-23BF-4F43-B1B7-02BD25F76704",
+    "do_objectID": "8529A21E-9554-44FF-8088-77FBE4F03522",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
+  "symbolID": "13126809-DE23-45C1-8E41-7CB052AD0584",
   "verticalSpacing": 0
 }
