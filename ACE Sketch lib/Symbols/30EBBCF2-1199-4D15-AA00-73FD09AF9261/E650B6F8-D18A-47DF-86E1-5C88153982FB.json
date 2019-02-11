@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E16FA227-578E-4FDE-A8F4-6A74457177B0",
+  "do_objectID": "E650B6F8-D18A-47DF-86E1-5C88153982FB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B59A9FB7-0941-4D02-9CF9-EC2B298C4DE0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "03E0F8B8-4747-4653-85E8-60302CB32CAC",
-    "height": 928,
-    "width": 1920,
+    "height": 40,
+    "width": 78,
     "x": 0,
-    "y": 100
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +28,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Colors / Primary / Cool white",
+  "name": "Navigation elements / Header / Tab bar (beta) / tab item / Base",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "864D12C5-A058-4C6E-81D8-0F20A7800947",
+      "overrideName": "1C862BDD-805A-42DD-A6EC-18A0B30253A9_textStyle",
+      "value": "A4FDBB5D-BC02-4703-B186-EEE8CB0A3343"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +45,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2514167D-38CB-44D6-A38A-C169AF20BE88",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
+  "symbolID": "457315E6-D677-4BBE-BE9A-7039EE62E433",
   "verticalSpacing": 0
 }

@@ -35,7 +35,7 @@
     "do_objectID": "E8EA2825-5080-4D42-97AF-8EB5824EC87A"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,6 +65,26 @@
     {
       "class": "symbolInstance",
       "id": "C040FE3D-FB31-4E84-A778-DAA5DA5E238E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "763440B5-8D8C-49DB-BE7F-D6971012A7DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5079F95-2A3A-4F9F-A217-257ABC5B2628"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F7FBA57-AC70-44E3-9823-39D1B78102AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D4B5D3B-5C9D-41FB-B895-E4FE1F3F7DEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8C999A7-08B0-4CAC-A312-BCE9118EF28D"
     }
   ],
   "name": "Header / Tab bar",

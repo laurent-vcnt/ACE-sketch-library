@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 9,
   "clippingMaskMode": 0,
-  "do_objectID": "90B3B3E7-ABD6-4CA3-80BC-C41F6B5B8BC3",
+  "do_objectID": "5C797074-3F55-4493-B8EE-0BE71252F583",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1920,
-    "x": -800,
-    "y": -512
+    "height": 40,
+    "width": 78,
+    "x": 28177,
+    "y": 386
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,31 +49,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "5E2C4FA5-3A17-4E68-A550-66CB5488B465"
+      "class": "symbolInstance",
+      "id": "B381F13B-7AF5-43EC-A35C-EBCDE234FCC1"
     },
     {
-      "class": "group",
-      "id": "A29A324F-E4E4-4FA0-8C50-ECA0C3B6BAAC"
-    },
-    {
-      "class": "text",
-      "id": "49CBBBDC-C75F-42F9-86DD-E6E87F049E53"
+      "class": "rectangle",
+      "id": "926EB6CB-B9E6-4920-A1D7-9B67C1C0BBEC"
     }
   ],
-  "name": "Action bar",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop XL – 1600",
-    "offersLandscapeVariant": 0,
-    "width": 1600
-  },
-  "resizesContent": false,
+  "name": "Navigation elements / Header / Tab bar (beta) / tab item / Current",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B381F13B-7AF5-43EC-A35C-EBCDE234FCC1_symbolID"
+    }
+  ],
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -83,6 +81,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "8F59AF5E-C1C7-474C-A1CA-50A9981A6EFC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
