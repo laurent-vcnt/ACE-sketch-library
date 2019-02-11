@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F7FBA57-AC70-44E3-9823-39D1B78102AB",
+  "do_objectID": "2D5646CB-1AC2-4EE2-84C0-A0EEA195B283",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 200,
     "width": 78,
     "x": 30,
     "y": 555
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Header / Tab bar (beta) / tab item / Base",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5F7FBA57-AC70-44E3-9823-39D1B78102AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D4B5D3B-5C9D-41FB-B895-E4FE1F3F7DEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8C999A7-08B0-4CAC-A312-BCE9118EF28D"
+    }
   ],
+  "name": "Sub-elements",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -43,7 +57,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "457315E6-D677-4BBE-BE9A-7039EE62E433",
-  "verticalSpacing": 0
+  }
 }

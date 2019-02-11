@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A8C999A7-08B0-4CAC-A312-BCE9118EF28D",
+  "do_objectID": "5F7FBA57-AC70-44E3-9823-39D1B78102AB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 78,
-    "x": 30,
-    "y": 715
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Header / Tab bar (beta) / tab item / Base Copy 2",
+  "name": "Navigation elements / Header / Tab bar (beta) / tab item / Base",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "29546A79-0137-4F29-96A6-9A57FE3B905F",
+  "symbolID": "457315E6-D677-4BBE-BE9A-7039EE62E433",
   "verticalSpacing": 0
 }

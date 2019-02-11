@@ -55,12 +55,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "9695C115-04F0-4E07-875B-C0EA2CA56E0A"
-    },
-    {
       "class": "symbolInstance",
       "id": "E16FA227-578E-4FDE-A8F4-6A74457177B0"
+    },
+    {
+      "class": "text",
+      "id": "9695C115-04F0-4E07-875B-C0EA2CA56E0A"
     },
     {
       "class": "symbolInstance",
@@ -75,16 +75,8 @@
       "id": "F5079F95-2A3A-4F9F-A217-257ABC5B2628"
     },
     {
-      "class": "symbolInstance",
-      "id": "5F7FBA57-AC70-44E3-9823-39D1B78102AB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6D4B5D3B-5C9D-41FB-B895-E4FE1F3F7DEB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A8C999A7-08B0-4CAC-A312-BCE9118EF28D"
+      "class": "group",
+      "id": "2D5646CB-1AC2-4EE2-84C0-A0EEA195B283"
     }
   ],
   "name": "Header / Tab bar",
