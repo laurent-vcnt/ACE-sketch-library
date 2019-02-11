@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 18,
+  "changeIdentifier": 59,
   "clippingMaskMode": 0,
-  "do_objectID": "F56E1402-0C7F-4883-9E6B-8F8E17AE7C04",
+  "do_objectID": "1D7503C0-9518-48FC-B328-8701DD2E6284",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 1600,
+    "height": 44,
+    "width": 266,
     "x": 29977,
-    "y": 0
+    "y": 1694
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -49,33 +49,29 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "43E7069A-3BF3-473F-8C78-7FBAC088760B"
-    },
-    {
-      "class": "rectangle",
-      "id": "B526C66A-090E-45B7-967C-D625979EEEF2"
+      "class": "group",
+      "id": "80D71679-1603-4722-944A-BE9C33DEDB14"
     },
     {
       "class": "text",
-      "id": "AFAE38AD-609D-482C-B682-F810B67F02FE"
+      "id": "63C7A056-6A1F-4D68-B746-525989C5318D"
     }
   ],
-  "name": "Navigation elements / Header / Title bar (beta) / Base",
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown / List / Item / Hover",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AFAE38AD-609D-482C-B682-F810B67F02FE_textStyle"
+      "overrideName": "63C7A056-6A1F-4D68-B746-525989C5318D_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AFAE38AD-609D-482C-B682-F810B67F02FE_stringValue"
+      "overrideName": "63C7A056-6A1F-4D68-B746-525989C5318D_stringValue"
     }
   ],
   "resizesContent": false,
@@ -90,7 +86,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B12F1A85-BB69-440D-9E92-7F54F600A688",
+  "symbolID": "9AFF8711-F63E-4926-83C6-23F6EEBCECF5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,10 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EC9F79B-ADA7-4D1C-BAEC-2D882C426D55",
+  "do_objectID": "1AD76B43-6A14-4B4F-8768-966634E62CC5",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "771DD85B-F2C1-4EEE-AA9A-1C96F9290846",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,35 +16,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "do_objectID": "0281BF51-B60B-4201-8F30-F1B19230D2DE",
+    "height": 114,
     "width": 1600,
     "x": 0,
-    "y": 34
+    "y": 100
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CD0232FB-9B1B-4522-89B2-F048247B38C3"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "Navigation elements / Header / Title bar (beta) / Base",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8AC27DF4-0E6B-4BDF-B99B-2180DDA4D077"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B046A9CC-D003-4852-985F-B102785305B5"
+    }
   ],
+  "name": "Header",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "119B7990-E346-4AFD-8DFE-B0C42ED88190",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "B12F1A85-BB69-440D-9E92-7F54F600A688",
-  "verticalSpacing": 0
+  }
 }

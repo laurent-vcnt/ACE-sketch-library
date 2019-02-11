@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "30ABC59A-69F0-413D-AFE0-F085B766FCB4",
+  "do_objectID": "FF9BD2F3-79D2-4E56-8995-588374B093E4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "01C1FCA6-6F5D-4280-9ABD-8DC397EBAAA6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "99F55270-1449-4EA5-86E6-74EE0E4CF931",
-    "height": 846,
-    "width": 1920,
+    "height": 44,
+    "width": 266,
     "x": 0,
-    "y": 96
+    "y": 44
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Colors / Primary / Cool white",
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown / List / Item / Hover",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D5B9EF48-C5F3-4BD8-989E-6AD0883445FB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
+  "symbolID": "9AFF8711-F63E-4926-83C6-23F6EEBCECF5",
   "verticalSpacing": 0
 }

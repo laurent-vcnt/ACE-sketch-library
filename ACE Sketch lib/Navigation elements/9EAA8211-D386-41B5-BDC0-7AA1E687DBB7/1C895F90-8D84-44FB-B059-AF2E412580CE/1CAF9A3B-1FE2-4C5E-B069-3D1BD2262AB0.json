@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "30ABC59A-69F0-413D-AFE0-F085B766FCB4",
+  "do_objectID": "1CAF9A3B-1FE2-4C5E-B069-3D1BD2262AB0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "01C1FCA6-6F5D-4280-9ABD-8DC397EBAAA6",
+    "do_objectID": "A89EEC79-926C-4F9B-9634-F4BE23F4E6F5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "99F55270-1449-4EA5-86E6-74EE0E4CF931",
-    "height": 846,
-    "width": 1920,
-    "x": 0,
-    "y": 96
+    "do_objectID": "E748CA99-4AC8-4DE9-93F0-4A1CA1A58DAA",
+    "height": 220,
+    "width": 266,
+    "x": 496,
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Colors / Primary / Cool white",
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown / List",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D5B9EF48-C5F3-4BD8-989E-6AD0883445FB",
+    "do_objectID": "8613BC53-9FAF-4DF0-B5B2-93BDE739A8F2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
+  "symbolID": "4139FCBD-8DCF-4476-8D93-BA47EF60BD95",
   "verticalSpacing": 0
 }

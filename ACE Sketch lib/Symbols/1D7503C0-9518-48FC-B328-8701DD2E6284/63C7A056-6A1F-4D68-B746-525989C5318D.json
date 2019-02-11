@@ -9,38 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2666666666666667,
-            "green": 0.2666666666666667,
-            "red": 0.2666666666666667
+            "blue": 0.7764705882352941,
+            "green": 0.4549019607843134,
+            "red": 0.06666666666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "FiraSans-Light",
-              "size": 32
+              "size": 24
             }
           },
-          "kerning": -0.2000000029802322,
+          "kerning": -0.15,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "maximumLineHeight": 44,
             "minimumLineHeight": 44
           }
         },
-        "length": 15,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Page title here"
+    "string": "Page title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "AFAE38AD-609D-482C-B682-F810B67F02FE",
+  "do_objectID": "63C7A056-6A1F-4D68-B746-525989C5318D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6D7AF45F-ADB6-41C6-94BD-FD7C7DAC0DA9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DBFDE23C-A255-455B-86F2-474CD483E5C2",
     "height": 44,
-    "width": 202,
-    "x": 82,
-    "y": 18
+    "width": 242,
+    "x": 12,
+    "y": 0
   },
-  "glyphBounds": "{{3, 8}, {197, 32}}",
+  "glyphBounds": "{{2, 11}, {94, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,16 +64,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Page heading",
-  "nameIsFixed": true,
+  "name": "Page title",
+  "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "68BA8853-70AF-4AFF-8097-C959A02C5FD7",
+  "sharedStyleID": "2C0C3606-B9B0-4A67-BDEF-2C7AE794F214",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5375BF68-B11A-4EC4-93E4-7D0682644145",
+    "do_objectID": "94492C68-2347-4FA1-8AF9-90386A83D170",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -85,18 +83,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2666666666666667,
-          "green": 0.2666666666666667,
-          "red": 0.2666666666666667
+          "blue": 0.7764705882352941,
+          "green": 0.4549019607843134,
+          "red": 0.06666666666666667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "FiraSans-Light",
-            "size": 32
+            "size": 24
           }
         },
-        "kerning": -0.2000000029802322,
+        "kerning": -0.15,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "maximumLineHeight": 44,
@@ -107,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
