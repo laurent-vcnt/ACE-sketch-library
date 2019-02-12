@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96CC9991-A7DF-4B62-81A7-A47ADEB6DED5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3CF4AE7-A794-4160-B4BE-12A27A678D35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB4D374E-6519-4C7E-A6E3-90C037D28120",
+    "height": 46,
+    "width": 40,
+    "x": 1100,
+    "y": 186
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Icon button / Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8115DC7-1EC1-46B1-8DF5-014C476F2E03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0E1BFC5A-B355-4DC6-A5D1-ECDB47830545",
+  "verticalSpacing": 0
+}

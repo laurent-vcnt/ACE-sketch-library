@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "144747BF-712E-4C8E-BFDA-87DF1DB7876A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15535DA8-90AB-4B98-825E-A01ED8FB9344",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2B2792C-5E17-4558-BC43-942AED981078",
+    "height": 20,
+    "width": 86,
+    "x": 0,
+    "y": 112
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / radio button with label / Checked / Normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B44AACF-6997-4630-92EE-0469F10C9220",
+      "overrideName": "2BC2B3BB-FD0E-4B2E-90BB-962CAAF803DE_stringValue",
+      "value": "Comma"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4AD0385-C088-4946-9B98-C53E4A00DD5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74AD0EC0-9953-40B7-A1F6-4C526072B672",
+  "verticalSpacing": 0
+}

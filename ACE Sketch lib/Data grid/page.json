@@ -50,6 +50,10 @@
     {
       "class": "group",
       "id": "5B4ED88B-4F97-4C72-BD9B-980383D2E48D"
+    },
+    {
+      "class": "group",
+      "id": "8C287E8E-56CF-468F-AED1-7AE90569613D"
     }
   ],
   "name": "Data grid",

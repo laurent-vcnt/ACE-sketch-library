@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 448,
+    "height": 939,
     "width": 1140,
     "x": 30,
     "y": 302
@@ -50,6 +50,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "C737E613-2C21-4755-AD77-E65B4B849EE4"
+    },
+    {
+      "class": "symbolInstance",
       "id": "75A3FA33-6112-4B29-804E-2E8C88BCB23F"
     },
     {
@@ -79,6 +83,10 @@
     {
       "class": "symbolInstance",
       "id": "1A3D15DE-B333-4024-8345-5F9682882BDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8511C6E0-6FA9-4D4B-AC2F-C178A94F7783"
     }
   ],
   "name": "Sub-elements",

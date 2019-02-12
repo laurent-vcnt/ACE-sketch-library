@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F1DC3582-0794-4BDA-A842-9ABBB3CB0B47",
-    "height": 1171,
+    "height": 2146,
     "width": 1920,
     "x": 0,
     "y": 96
@@ -27,7 +27,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "DNA / Colors / Primary / Cool white",

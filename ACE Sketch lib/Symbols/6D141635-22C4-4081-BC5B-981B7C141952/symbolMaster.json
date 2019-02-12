@@ -79,12 +79,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "35EFBB86-41DE-4823-A115-65CC4D2EE141/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+      "overrideName": "35EFBB86-41DE-4823-A115-65CC4D2EE141_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "35EFBB86-41DE-4823-A115-65CC4D2EE141_symbolID"
+      "overrideName": "35EFBB86-41DE-4823-A115-65CC4D2EE141/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

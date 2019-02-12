@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -95,7 +95,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1500
   },
-  "name": "Template – Base with header @1600px with header Copy",
+  "name": "Template – Base with header and page-switcher @1600px",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

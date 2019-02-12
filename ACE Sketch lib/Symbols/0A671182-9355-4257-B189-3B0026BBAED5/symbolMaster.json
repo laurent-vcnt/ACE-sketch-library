@@ -70,12 +70,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "67F13810-9FA3-4D3C-A66C-94B271DB0ADA_stringValue"
+      "overrideName": "67F13810-9FA3-4D3C-A66C-94B271DB0ADA_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "67F13810-9FA3-4D3C-A66C-94B271DB0ADA_textStyle"
+      "overrideName": "67F13810-9FA3-4D3C-A66C-94B271DB0ADA_stringValue"
     }
   ],
   "resizesContent": false,

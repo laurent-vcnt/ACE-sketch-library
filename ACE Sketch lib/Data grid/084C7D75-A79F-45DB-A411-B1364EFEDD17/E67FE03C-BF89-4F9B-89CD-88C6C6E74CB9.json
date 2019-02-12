@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 32,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Action bar / Filters menu (beta)"
+    "string": "Action bar / Menus (beta)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 30,
     "y": 30
   },
-  "glyphBounds": "{{-1, 2}, {402, 30}}",
+  "glyphBounds": "{{-1, 2}, {326, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Action bar / Filters",
+  "name": "Action bar / Menus (",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,

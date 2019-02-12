@@ -62,12 +62,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EB786D86-46E6-4376-997A-82E2711E984B_image"
+      "overrideName": "EB786D86-46E6-4376-997A-82E2711E984B_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EB786D86-46E6-4376-997A-82E2711E984B_layerStyle"
+      "overrideName": "EB786D86-46E6-4376-997A-82E2711E984B_image"
     }
   ],
   "resizesContent": false,

@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1267,
+    "height": 2242,
     "width": 1920,
     "x": 1220,
     "y": -512
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -55,22 +55,22 @@
     },
     {
       "class": "group",
-      "id": "D4984354-3894-42B9-B5A9-CD96BB6171DF"
+      "id": "59808FD0-12BC-4B95-931B-AF81907D08D7"
     },
     {
       "class": "group",
-      "id": "B1FEA63A-0BD9-45DB-BAE9-05D5F09FA43D"
+      "id": "B507356D-E5AF-4E1B-B16B-A19BDBF5F033"
     },
     {
-      "class": "symbolInstance",
-      "id": "CF331262-E27E-4DD4-B36A-4A7774B9C286"
+      "class": "group",
+      "id": "D97F55A0-F943-476A-996F-8BA34954D6FC"
     },
     {
       "class": "text",
       "id": "E67FE03C-BF89-4F9B-89CD-88C6C6E74CB9"
     }
   ],
-  "name": "Action bar with filters menu",
+  "name": "Action bar with menus",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
