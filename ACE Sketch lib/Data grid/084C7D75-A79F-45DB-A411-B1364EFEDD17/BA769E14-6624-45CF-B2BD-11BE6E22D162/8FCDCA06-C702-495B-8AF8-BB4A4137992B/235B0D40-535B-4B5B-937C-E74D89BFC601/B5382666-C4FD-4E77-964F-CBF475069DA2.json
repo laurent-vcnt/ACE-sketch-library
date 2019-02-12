@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A3E19778-E580-47C0-AF42-200187FF8D8F",
+  "do_objectID": "B5382666-C4FD-4E77-964F-CBF475069DA2",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "13438FD7-307C-4C13-BBCB-8F987FB0391C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "A0293B89-A251-4026-9E04-B3FF68E62E85",
     "height": 20,
     "width": 86,
     "x": 0,
-    "y": 84
+    "y": 112
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form elements / radio button with label / Checked / Normal",
+  "name": "Form elements / radio button with label / Checked / Normal Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "39F36B16-995C-4028-BF65-8AA9B40F1C66",
-      "overrideName": "CC08E1EF-9AD5-4259-861A-7A4ED280570E_stringValue",
-      "value": "Semicolon"
+      "do_objectID": "6B44AACF-6997-4630-92EE-0469F10C9220",
+      "overrideName": "2BC2B3BB-FD0E-4B2E-90BB-962CAAF803DE_stringValue",
+      "value": "Comma"
     }
   ],
   "resizingConstraint": 63,
@@ -45,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "303AA453-BC71-44A2-BC49-7124997073B3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A0EC891B-589C-4ED7-9F2A-5DAD095E3DE1",
+  "symbolID": "74AD0EC0-9953-40B7-A1F6-4C526072B672",
   "verticalSpacing": 0
 }

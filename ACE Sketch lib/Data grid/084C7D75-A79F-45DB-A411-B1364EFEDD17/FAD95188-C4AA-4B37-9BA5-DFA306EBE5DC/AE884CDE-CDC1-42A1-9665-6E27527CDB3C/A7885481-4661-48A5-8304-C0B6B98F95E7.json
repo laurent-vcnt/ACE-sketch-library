@@ -1,12 +1,10 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "7CD275B6-9BF5-46C1-BAD0-4B36C91F9EFB",
+  "do_objectID": "A7885481-4661-48A5-8304-C0B6B98F95E7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "248E438B-4820-427A-9B2C-D5A0A938433A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,41 +12,43 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "8F2D4901-C591-42DD-A05F-B91A9639DAA4",
-    "height": 421,
-    "width": 392,
-    "x": 533,
-    "y": 1010
+    "constrainProportions": false,
+    "height": 44,
+    "width": 160,
+    "x": 20,
+    "y": 90
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/f0f1945e2c4014a9e9fa93154dd568b13de621b3.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Screenshot 2019-02-11 at 10.39.46",
+  "name": "Form elements / dropdown / list / item / normal Copy 2",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "27D37018-6E7F-43A9-9597-B6FB2D8BBB94_stringValue",
+      "value": "Support"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5312E837-3BF5-4309-B798-9862C9F1C7E3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "4109707A-25AD-4362-96DA-2DA0444EE6A6",
+  "verticalSpacing": 0
 }

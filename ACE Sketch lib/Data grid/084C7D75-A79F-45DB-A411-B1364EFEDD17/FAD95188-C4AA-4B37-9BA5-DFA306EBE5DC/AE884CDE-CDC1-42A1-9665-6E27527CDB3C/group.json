@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0007279B-D8FC-4167-A30E-717015D928AB",
+  "do_objectID": "AE884CDE-CDC1-42A1-9665-6E27527CDB3C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "00292168-F046-4C9A-ADA5-807C9F4A07FA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C268FCCF-2022-4E32-8227-9EE7B5A15EB9",
-    "height": 160,
-    "width": 233,
-    "x": 35,
-    "y": 17
+    "height": 154,
+    "width": 200,
+    "x": 1339,
+    "y": 46
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "A98F83E0-3296-4FA3-88D2-3DA8D2A92D78"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,30 +30,34 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A3E19778-E580-47C0-AF42-200187FF8D8F"
+      "id": "6569BC60-409F-43E3-A80A-EA2630BB451C"
+    },
+    {
+      "class": "rectangle",
+      "id": "E68F89DD-B9BB-4770-AD22-782A0C707846"
     },
     {
       "class": "symbolInstance",
-      "id": "144747BF-712E-4C8E-BFDA-87DF1DB7876A"
+      "id": "6EE824EE-BA1D-46B4-99F9-2C29FA8120B4"
     },
     {
       "class": "symbolInstance",
-      "id": "EAAB4DCE-6D4B-4DB4-92B7-029CDC9AEEE8"
+      "id": "3C5BA887-BE73-4FB2-8A81-956A32E4EF6E"
     },
     {
-      "class": "text",
-      "id": "FE27AFEF-BED1-423A-9C33-8A9346E447D1"
+      "class": "rectangle",
+      "id": "6FB50DF2-A486-4232-A2BC-7ACCD3B7D5BB"
     },
     {
-      "class": "text",
-      "id": "5DEC00BA-E34C-46F2-A275-30B9C9A016FA"
+      "class": "symbolInstance",
+      "id": "A7885481-4661-48A5-8304-C0B6B98F95E7"
     }
   ],
-  "name": "Export setting",
+  "name": "Help menu",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,7 +65,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "95E10B9D-B233-4754-9AB2-35029F45A0C1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

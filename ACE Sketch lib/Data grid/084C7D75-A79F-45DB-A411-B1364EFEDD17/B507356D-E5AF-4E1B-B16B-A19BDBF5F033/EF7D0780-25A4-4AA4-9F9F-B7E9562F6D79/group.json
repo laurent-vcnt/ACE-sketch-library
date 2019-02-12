@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -48,7 +48,7 @@
       "id": "365CFD09-7235-4FC5-BA4C-40D76B91B948"
     }
   ],
-  "name": "View adata at a specific date",
+  "name": "Pick a date menu",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

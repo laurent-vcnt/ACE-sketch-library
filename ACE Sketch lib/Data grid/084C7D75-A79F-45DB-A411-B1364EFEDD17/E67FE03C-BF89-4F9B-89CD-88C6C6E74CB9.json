@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 25,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "Action bar / Menus (beta)"
+    "string": "Action bar / Menus examples (beta)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -66,7 +66,7 @@
     "x": 30,
     "y": 30
   },
-  "glyphBounds": "{{-1, 2}, {326, 30}}",
+  "glyphBounds": "{{-1, 2}, {456, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Action bar / Menus (",
+  "name": "Action bar / Menus e",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,

@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FC4B7D94-6F69-48DB-B210-5F1D50C1DE20",
+  "do_objectID": "6569BC60-409F-43E3-A80A-EA2630BB451C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 213,
-    "width": 303,
-    "x": 1154,
-    "y": 46
+    "height": 154,
+    "width": 200,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Menu flyout down / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "D460931A-161D-4CE0-8780-9B3C20B5B240"
-    },
-    {
-      "class": "group",
-      "id": "0007279B-D8FC-4167-A30E-717015D928AB"
+      "_class": "overrideValue",
+      "do_objectID": "1B228EF2-5297-4C8C-9FA8-FC74E3C46882",
+      "overrideName": "F0262C5E-21F8-4F84-8E3D-94CF0658CA4C_layerStyle",
+      "value": "489B8DCA-E77B-4B9D-89A5-741DB4558445"
     }
   ],
-  "name": "View settings menu",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,5 +49,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "53E4CA75-74F1-486D-9591-79C26AE05B64",
+  "verticalSpacing": 0
 }

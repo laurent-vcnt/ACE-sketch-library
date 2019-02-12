@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E87DF6E3-65BC-4094-A101-48554435731C",
+  "do_objectID": "3C5BA887-BE73-4FB2-8A81-956A32E4EF6E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5463320A-EA1C-40D3-8788-62A0FAE562E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 46,
-    "width": 184,
-    "x": 0,
-    "y": 0
+    "do_objectID": "A6F58EBF-B434-4E06-B903-4BF0CE09DA7C",
+    "height": 44,
+    "width": 160,
+    "x": 20,
+    "y": 45
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,20 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Button / Base",
+  "name": "Form elements / dropdown / list / item / normal Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "EA4C7DF5-2FBC-44BA-ADD1-425DDC046E6A",
-      "overrideName": "CC618976-1AAC-4AA8-A125-EE99D0277A41_symbolID",
-      "value": "7443ED67-27F5-4EE0-AA23-827F2945752F"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3E2762D4-A542-43E5-8326-D774038643E3",
-      "overrideName": "CC6811B3-0E6D-4E05-9B70-6170D86C1D0F_stringValue",
-      "value": "As of today"
+      "do_objectID": "305B6590-5A7B-424C-BDE5-7CF92B302652",
+      "overrideName": "67F13810-9FA3-4D3C-A66C-94B271DB0ADA_stringValue",
+      "value": "Glossary"
     }
   ],
   "resizingConstraint": 63,
@@ -51,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0C4D5712-F18C-41CB-B05D-8F2882A8B416",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E6B434FC-9B6D-4327-BC84-8EED927DDE99",
+  "symbolID": "37C35D2D-EC48-49C4-9674-1DC2BBA07572",
   "verticalSpacing": 0
 }

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "144747BF-712E-4C8E-BFDA-87DF1DB7876A",
+  "do_objectID": "B0A4D975-EC86-4AA1-9C07-79E2AEB7E4C5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "15535DA8-90AB-4B98-825E-A01ED8FB9344",
+    "do_objectID": "E044DC59-3427-4480-B577-0227020ADC58",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E2B2792C-5E17-4558-BC43-942AED981078",
-    "height": 20,
-    "width": 86,
+    "do_objectID": "FD15BDAB-705D-4306-B064-A98F92689619",
+    "height": 213,
+    "width": 303,
     "x": 0,
-    "y": 112
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Form elements / radio button with label / Checked / Normal Copy",
+  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Menu flyout down / Base",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6B44AACF-6997-4630-92EE-0469F10C9220",
-      "overrideName": "2BC2B3BB-FD0E-4B2E-90BB-962CAAF803DE_stringValue",
-      "value": "Comma"
+      "do_objectID": "E006A00E-4EB9-43B6-87ED-0EC79DB9C6E4",
+      "overrideName": "F0262C5E-21F8-4F84-8E3D-94CF0658CA4C_layerStyle",
+      "value": "489B8DCA-E77B-4B9D-89A5-741DB4558445"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A4AD0385-C088-4946-9B98-C53E4A00DD5A",
+    "do_objectID": "3A4B15FA-D220-4553-AC35-98A61199F866",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "74AD0EC0-9953-40B7-A1F6-4C526072B672",
+  "symbolID": "53E4CA75-74F1-486D-9591-79C26AE05B64",
   "verticalSpacing": 0
 }

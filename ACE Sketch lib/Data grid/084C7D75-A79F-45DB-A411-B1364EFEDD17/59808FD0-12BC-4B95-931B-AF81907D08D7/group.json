@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -39,13 +39,9 @@
     {
       "class": "group",
       "id": "D4984354-3894-42B9-B5A9-CD96BB6171DF"
-    },
-    {
-      "class": "group",
-      "id": "FC4B7D94-6F69-48DB-B210-5F1D50C1DE20"
     }
   ],
-  "name": "Action bar with menu opened",
+  "name": "Action bar with menu opened – demo filters",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CF331262-E27E-4DD4-B36A-4A7774B9C286",
+  "do_objectID": "D039A308-CB47-4697-A660-6A282B6746F4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "286A534A-43DF-4810-88F6-F66CF6EE2AFE",
+    "do_objectID": "497780A8-F073-4D58-B9C6-1A524AAA8EA7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D57FB862-A58A-4ED8-83B6-37262E8D7657",
+    "do_objectID": "2A13FBEF-176F-44DA-A038-380A3CA3FE54",
     "height": 46,
     "width": 1600,
     "x": 0,
@@ -35,21 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "576F92C8-76D9-46AD-8C2D-0620918E25F0",
-      "overrideName": "756498B8-F46F-45EC-97F1-067ECA0E5683_symbolID",
-      "value": "B207CB8D-FCB7-4100-A649-D435A4C114C6"
+      "do_objectID": "55D29765-4F91-4110-ADC2-FE5D5D01E6E1",
+      "overrideName": "8C99F609-5D4C-427C-BA44-F5CED8BDF0F9_symbolID",
+      "value": "0E1BFC5A-B355-4DC6-A5D1-ECDB47830545"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3818FF38-9BA6-4329-914B-AB7398F13DF0",
-      "overrideName": "756498B8-F46F-45EC-97F1-067ECA0E5683/9E685B6B-EF94-4781-AC15-58ECB8157421/CC618976-1AAC-4AA8-A125-EE99D0277A41_symbolID",
-      "value": "D5E04273-67BA-446D-9B3F-8E1F29EC69DB"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "25A65EE5-1A2D-4378-B92B-7EF19F3254B0",
-      "overrideName": "756498B8-F46F-45EC-97F1-067ECA0E5683/9E685B6B-EF94-4781-AC15-58ECB8157421/CC6811B3-0E6D-4E05-9B70-6170D86C1D0F_stringValue",
-      "value": "Filters"
+      "do_objectID": "35A771CF-E990-49BB-B799-B02707559498",
+      "overrideName": "8C99F609-5D4C-427C-BA44-F5CED8BDF0F9/19D157DE-49DC-426F-B100-572918DF65C3_symbolID",
+      "value": "B1E9EFB1-A140-4E50-9529-57C403150C0D"
     }
   ],
   "resizingConstraint": 63,
@@ -59,7 +53,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FAB79A76-0481-4683-822F-B21F94BDA9A2",
+    "do_objectID": "4A0ABDFA-143F-4DA8-B98D-CB9E861810B1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
