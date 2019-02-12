@@ -1085,6 +1085,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "7BBF6FA7-C520-47EC-85A8-E12B4F524EAB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6EB94815-44C6-4542-8EAB-F61267719E6E"
+    },
+    {
+      "class": "symbolMaster",
       "id": "19AC4A8F-2768-4A4D-A929-3941A4EE66D6"
     },
     {
@@ -1242,10 +1250,6 @@
     {
       "class": "symbolMaster",
       "id": "0108910E-46D3-464D-8E91-1AC2822AD8AA"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "7BBF6FA7-C520-47EC-85A8-E12B4F524EAB"
     }
   ],
   "name": "Symbols",

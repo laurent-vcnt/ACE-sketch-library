@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0AC300BF-17EE-402A-8456-1D777FAB3D59",
+  "do_objectID": "F017F069-F889-4CCE-8ABC-9729F80AFCD3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DBE8620B-2EAF-46AB-AC18-8B56ED02E46A",
+    "do_objectID": "DDAF2FCD-7209-4AE6-984F-406350FD195D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +16,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A0931AC3-89C3-4D1E-A7CD-8F35DEAA976E",
-    "height": 106,
-    "width": 244,
+    "do_objectID": "DA068D17-7BCE-45B0-B49B-455C9DE4F143",
+    "height": 156,
+    "width": 1920,
     "x": 0,
-    "y": 0
+    "y": 282
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "603238DC-7E49-4308-A68C-E9ACE195FD70"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "DNA / Colors / Primary / Cool white",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4D95272E-C519-4034-8FA1-307C19E2440D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0272FDA-442D-4406-88A4-B171BD3CBAED"
+    }
   ],
+  "name": "Base Copy",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "59E113BD-FCE9-48EF-B022-1F1C55BB4354",
+    "do_objectID": "92D75200-C905-442A-96B3-F6A86DB53058",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
-  "verticalSpacing": 0
+  }
 }

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "74F0A090-D93A-4766-9CD7-BFFE77404DBE",
+  "do_objectID": "6E4E4DBD-F0DB-4F22-A06F-E124B5DA1896",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0134EB56-551C-416F-A528-37E7A068A992",
+    "do_objectID": "5FB522BF-CCA2-4DAA-A0DA-224E116C0E82",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "85905AF0-7B8F-4E67-8CFA-8BCC3C487CE7",
-    "height": 46,
-    "width": 40,
-    "x": 960,
-    "y": 186
+    "do_objectID": "E83F698A-57F1-4514-B1F4-68EDF5ECA151",
+    "height": 16,
+    "width": 16,
+    "x": 15,
+    "y": 15
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,23 +30,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Icon button / Base",
+  "name": "DNA / Icons / Search / Small",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "05209A40-A650-4642-8FDC-C2517EF4153E",
+    "do_objectID": "8977BDA8-383F-450C-88BF-C93527243301",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5AA8E2EF-1819-463A-B51F-F63623AD1899",
+  "symbolID": "9DD2BDED-1575-4F5C-B008-E9B49D699E11",
   "verticalSpacing": 0
 }

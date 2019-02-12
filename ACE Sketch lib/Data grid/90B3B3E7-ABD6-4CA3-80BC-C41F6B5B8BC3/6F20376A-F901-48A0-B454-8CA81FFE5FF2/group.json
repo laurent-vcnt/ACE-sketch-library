@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5A2C4394-A83A-4E3E-A5FA-4F498B2A4967",
-    "height": 939,
+    "height": 1125,
     "width": 1140,
     "x": 30,
-    "y": 302
+    "y": 650
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -53,6 +53,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "F3B658DF-D1F3-4A10-92CC-BE40B36CDD9D"
+    },
+    {
+      "class": "symbolInstance",
       "id": "7F17E224-3088-45ED-8B7A-081062CDDEB6"
     },
     {
@@ -81,6 +85,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "F869C30D-F24A-45FD-A95B-BDFC43E25311"
+    },
+    {
+      "class": "symbolInstance",
       "id": "D3ACF679-944C-41B3-AB1C-2CBDF64A6C9D"
     },
     {
@@ -90,9 +98,13 @@
     {
       "class": "symbolInstance",
       "id": "2202A470-E80F-40C9-962E-E3F6D733EDD3"
+    },
+    {
+      "class": "text",
+      "id": "4BA9E579-CD83-45AF-9F13-9448C3263DEB"
     }
   ],
-  "name": "Sub-elements Copy",
+  "name": "Sub-elements",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F07F7EB7-BB10-4DF6-9D65-BE3F1CED3ED2",
+  "do_objectID": "4D95272E-C519-4034-8FA1-307C19E2440D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8D2985DD-3979-4976-A720-47DD512D48C2",
+    "do_objectID": "7DAF9E8F-E20C-487F-919A-4DF4E4DAD7E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7212E4AC-392C-414E-BF9B-4BB27B50D39B",
-    "height": 46,
-    "width": 183,
-    "x": 314,
-    "y": 186
+    "do_objectID": "87F29182-AB8A-4F4C-AD91-11F3C1003F4A",
+    "height": 156,
+    "width": 1920,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Button / Hover",
+  "name": "DNA / Colors / Primary / Cool white",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C8177AE-5000-424A-AC0B-1E6F878575CF",
+    "do_objectID": "BE57ADA5-EE73-4256-B450-5E2065878964",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9F03368C-1AEE-4F23-BD72-7346CF4595A0",
+  "symbolID": "31F3A465-7837-46E3-9BCF-B0B5683EAFB4",
   "verticalSpacing": 0
 }
