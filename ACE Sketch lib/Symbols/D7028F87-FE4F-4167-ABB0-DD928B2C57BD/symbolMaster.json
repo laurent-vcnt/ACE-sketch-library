@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 17,
+  "changeIdentifier": 21,
   "clippingMaskMode": 0,
   "do_objectID": "D7028F87-FE4F-4167-ABB0-DD928B2C57BD",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 46,
     "width": 1,
-    "x": 22979,
-    "y": 1911
+    "x": 3672,
+    "y": 1765
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,8 +56,8 @@
       "id": "44270C2E-E89A-4118-9A64-FF936A3820A2"
     }
   ],
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Separator",
-  "nameIsFixed": false,
+  "name": "Datagrid / Action bar (beta) / Items / Separator",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,

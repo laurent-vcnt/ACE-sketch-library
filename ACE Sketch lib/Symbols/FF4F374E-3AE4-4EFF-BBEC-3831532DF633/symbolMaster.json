@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 57,
+  "changeIdentifier": 61,
   "clippingMaskMode": 0,
   "do_objectID": "FF4F374E-3AE4-4EFF-BBEC-3831532DF633",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 46,
     "width": 184,
-    "x": 22979,
-    "y": 146
+    "x": 3672,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -64,8 +64,8 @@
       "id": "E3E1A717-EB11-4725-ADE4-71076B453134"
     }
   ],
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Button / Base",
-  "nameIsFixed": false,
+  "name": "Datagrid / Action bar (beta) / Items / Button / Base",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

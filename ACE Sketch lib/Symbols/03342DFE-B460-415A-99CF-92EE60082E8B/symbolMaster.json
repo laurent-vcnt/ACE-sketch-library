@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 219,
+  "changeIdentifier": 223,
   "clippingMaskMode": 0,
   "do_objectID": "03342DFE-B460-415A-99CF-92EE60082E8B",
   "exportOptions": {
@@ -28,8 +28,8 @@
     "do_objectID": "72F74836-D121-4589-A3E0-B1DCCE1A4EE2",
     "height": 46,
     "width": 184,
-    "x": 22979,
-    "y": 730
+    "x": 3672,
+    "y": 584
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -61,7 +61,7 @@
       "id": "9E685B6B-EF94-4781-AC15-58ECB8157421"
     }
   ],
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Dropdown menu / Opened",
+  "name": "Datagrid / Action bar (beta) / Items / Dropdown menu / Opened",
   "nameIsFixed": true,
   "overrideProperties": [
     {

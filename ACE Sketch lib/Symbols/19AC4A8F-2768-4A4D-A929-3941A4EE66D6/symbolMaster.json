@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 65,
+  "changeIdentifier": 69,
   "clippingMaskMode": 0,
   "do_objectID": "19AC4A8F-2768-4A4D-A929-3941A4EE66D6",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 46,
     "width": 760,
-    "x": 22979,
-    "y": 1765
+    "x": 3672,
+    "y": 1619
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -64,13 +64,18 @@
       "id": "2560D69C-F52A-4492-92B7-249EC470B8D6"
     }
   ],
-  "name": "Navigation elements / Datagrid / Action bar (beta) / Items / Quick Search / Base",
-  "nameIsFixed": false,
+  "name": "Datagrid / Action bar (beta) / Items / Quick Search / Base",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A3942A81-10CD-484B-A514-E452D10CA23E_stringValue"
+      "overrideName": "2560D69C-F52A-4492-92B7-249EC470B8D6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "850D3999-5D7F-4492-9E7D-A4FB31C876DB_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -80,7 +85,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2560D69C-F52A-4492-92B7-249EC470B8D6_symbolID"
+      "overrideName": "A3942A81-10CD-484B-A514-E452D10CA23E_stringValue"
     }
   ],
   "resizesContent": true,
