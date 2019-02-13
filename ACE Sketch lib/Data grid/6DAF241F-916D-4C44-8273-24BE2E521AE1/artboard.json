@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 2099,
     "width": 1600,
     "x": -2500,
     "y": -512
@@ -58,7 +58,7 @@
       "id": "FE33D88C-BA3F-4297-9FC1-8C97A42007EC"
     }
   ],
-  "name": "Datagrid",
+  "name": "Datagrid / Table",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

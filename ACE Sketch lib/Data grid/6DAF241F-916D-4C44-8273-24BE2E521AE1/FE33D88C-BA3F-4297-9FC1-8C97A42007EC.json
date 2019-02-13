@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 29,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Datagrid / Placeholder (beta)"
+    "string": "Datagrid / Table Placeholder (beta)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -62,11 +62,11 @@
     "constrainProportions": false,
     "do_objectID": "D7DF954A-CE9A-454D-9B11-5750E7101667",
     "height": 36,
-    "width": 376,
+    "width": 454,
     "x": 30,
     "y": 30
   },
-  "glyphBounds": "{{1, 2}, {375, 32}}",
+  "glyphBounds": "{{1, 2}, {452, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Datagrid / Placehold",
+  "name": "Datagrid / Table Pla",
   "nameIsFixed": false,
   "resizingConstraint": 43,
   "resizingType": 0,
