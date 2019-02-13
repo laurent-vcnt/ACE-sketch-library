@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
   "do_objectID": "D2B66740-032C-4129-B575-360BC192114B",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 3918,
+    "x": 10310,
     "y": 132
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "DNA / Icons / Calendar / Small",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6A74F237-2957-41AD-9853-878551B9735A_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

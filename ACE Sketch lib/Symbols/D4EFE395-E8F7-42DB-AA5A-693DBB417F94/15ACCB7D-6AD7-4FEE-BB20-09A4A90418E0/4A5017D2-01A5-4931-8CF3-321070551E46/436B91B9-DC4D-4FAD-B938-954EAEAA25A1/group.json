@@ -17,8 +17,11 @@
     "constrainProportions": false,
     "height": 46,
     "width": 184,
-    "x": 1134,
+    "x": 1132,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,16 +33,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "8729CE76-7DE4-490B-BA6C-B6836B4C9311"
-    },
-    {
-      "class": "text",
-      "id": "5708D6FA-AB31-4A64-B324-ECE369CD3C06"
-    },
-    {
       "class": "symbolInstance",
-      "id": "28EDC907-D664-4253-8E67-1E7378639A4C"
+      "id": "E87DF6E3-65BC-4094-A101-48554435731C"
     }
   ],
   "name": "Calendar",

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "379A33F4-3E7C-4982-B9D9-C32438C565A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62664862-754C-4C4F-B4BA-3AF969196499",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8C156E5-B2B8-4171-BB7E-F91227E08557",
+    "height": 46,
+    "width": 40,
+    "x": 1358,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid / Action bar (beta) / Items / Icon button / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1C40F82-E6C3-44AF-846A-E5342CB9CF88",
+      "overrideName": "B92ED08B-06B6-4678-9B66-B60783FA5F95_symbolID",
+      "value": "DCC0AA91-8E45-470C-8D3B-2393B36A98B9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21120DDC-2C4F-4192-B2F9-C2F7EDC9C081",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AA8E2EF-1819-463A-B51F-F63623AD1899",
+  "verticalSpacing": 0
+}

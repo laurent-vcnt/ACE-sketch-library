@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB3701A3-DED2-49A3-A488-40FB38968675",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 266,
+    "x": 80,
+    "y": 66
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Title bar (beta) / Dropdown / List",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F9EE652-5A7D-4DBE-90FC-1D9C128018D4",
+      "overrideName": "9FAD9B48-CE85-49F4-944A-C82B1EE599F0/6EC1FC7D-19CF-48CA-894B-4CAF5915267A_stringValue",
+      "value": "Reports"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFE7FBE5-07A1-43E7-A821-66086B17101F",
+      "overrideName": "2DA90F2D-DD90-4AA5-B4B8-F91B6275BCBE/6EC1FC7D-19CF-48CA-894B-4CAF5915267A_stringValue",
+      "value": "Statements"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D5D07E8-CF93-4101-98B9-1D4A3214DC9C",
+      "overrideName": "70481A54-2FDE-4F46-A099-2038822A4FED/6EC1FC7D-19CF-48CA-894B-4CAF5915267A_stringValue",
+      "value": "Inverstors"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81B8E360-DF96-42C4-AB38-A6B66F22E34C",
+      "overrideName": "E57B686F-0FA2-4D58-BA0F-3E5199595BD9/6EC1FC7D-19CF-48CA-894B-4CAF5915267A_stringValue",
+      "value": "Holdings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EE9F6A1-EE10-49DD-9AD3-422E01621FC7",
+      "overrideName": "FF9BD2F3-79D2-4E56-8995-588374B093E4/63C7A056-6A1F-4D68-B746-525989C5318D_stringValue",
+      "value": "Transactions"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4139FCBD-8DCF-4476-8D93-BA47EF60BD95",
+  "verticalSpacing": 0
+}

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 27,
+  "changeIdentifier": 30,
   "clippingMaskMode": 0,
   "do_objectID": "B819FC8D-A597-4E0E-A4EF-85246EAFD502",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 88,
     "width": 300,
-    "x": 12386,
+    "x": 18778,
     "y": 892
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "Form elements / Autocomplete / Input text / Focus with list opened / Not enough characters",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "03A18E8E-F334-458F-8D28-E2FFC50D8725_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BF95711-93FA-4516-9226-8D31415ACCDA_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

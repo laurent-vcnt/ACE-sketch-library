@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 44,
+  "changeIdentifier": 47,
   "clippingMaskMode": 0,
   "do_objectID": "0562A8FF-E7BD-48F5-A8C0-C485E0AE383D",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 5310,
+    "x": 11702,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "DNA / Icons / Document / Rejected / Medium",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "633E2A7E-B5E2-4D6A-957F-9F3CD3C4C0BF_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "633E2A7E-B5E2-4D6A-957F-9F3CD3C4C0BF_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

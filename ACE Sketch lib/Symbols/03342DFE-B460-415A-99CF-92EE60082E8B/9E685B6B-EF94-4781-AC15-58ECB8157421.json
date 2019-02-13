@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E685B6B-EF94-4781-AC15-58ECB8157421",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF567318-1CEC-4981-988A-0939333C15A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4704886D-E46E-4105-9D01-F011A6B6CEEE",
+    "height": 46,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid / Action bar (beta) / Items / Dropdown menu / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E454AC5-BC0A-402A-AEED-40B03F365B87",
+      "overrideName": "0B0E08BF-9146-4D1C-91C1-9CF9C287BABB_symbolID",
+      "value": "C4E9274A-7652-4CC9-B11D-B0132D80893F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9108E6A1-3BD7-47D7-A9D8-58FB4B89FACD",
+      "overrideName": "0B0E08BF-9146-4D1C-91C1-9CF9C287BABB/747C20F4-C207-4F17-B4A9-40A2466D0B7E/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle",
+      "value": "053992B8-3A04-487F-887A-C6F64D93B60E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD479997-E4D8-4DF8-BFA9-372A1A772DFF",
+      "overrideName": "0AEDFE19-3C53-40FE-90CC-E37566A8A959_layerStyle",
+      "value": "85BB30D5-3634-46CC-9647-4672DCB79C5D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8102C36D-3439-40C2-BB00-80D156777C74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E6B434FC-9B6D-4327-BC84-8EED927DDE99",
+  "verticalSpacing": 0
+}

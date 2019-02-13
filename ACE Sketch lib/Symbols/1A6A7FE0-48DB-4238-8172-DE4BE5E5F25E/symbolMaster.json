@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
   "do_objectID": "1A6A7FE0-48DB-4238-8172-DE4BE5E5F25E",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 8790,
+    "x": 15182,
     "y": 132
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "DNA / Icons / Pen / Small",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7299F322-2A98-4FE0-A303-608E213C9A2D_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 18,
   "clippingMaskMode": 0,
   "do_objectID": "7623C413-19B3-4A3B-808E-46B69175D29A",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 7398,
+    "x": 13790,
     "y": 132
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "DNA / Icons / Info / Circle / Small",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A447D454-4CD8-4A29-A4A4-6C0C26A03F23_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

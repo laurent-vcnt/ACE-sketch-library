@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "488FCB9E-1032-4C0F-8B1D-DD6968CF3712",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09C4BC18-0C2B-46BD-AA1C-18873CE2DFB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E5F415F-41D2-4100-ABD1-F63F97A4CFF9",
+    "height": 46,
+    "width": 184,
+    "x": 598,
+    "y": 30
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid / Action bar (beta) / Items / Dropdown menu / Opened",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E163A60-D07B-447E-A18A-A4C1E2E12CBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B207CB8D-FCB7-4100-A649-D435A4C114C6",
+  "verticalSpacing": 0
+}

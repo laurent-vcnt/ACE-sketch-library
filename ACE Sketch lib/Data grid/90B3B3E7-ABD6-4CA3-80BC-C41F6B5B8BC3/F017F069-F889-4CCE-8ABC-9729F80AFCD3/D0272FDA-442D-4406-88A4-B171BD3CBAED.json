@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0272FDA-442D-4406-88A4-B171BD3CBAED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E291B01B-951E-42E0-8B50-D1CF60EFA4B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "983AB36C-260B-45C3-86BD-A6FCCF33C145",
+    "height": 46,
+    "width": 1600,
+    "x": 30,
+    "y": 50
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid / Action bar (beta) / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A59CF07-2546-4780-B16F-2E757434ADDB",
+      "overrideName": "92F33487-ECD7-4447-86C6-D1643F1724D5_symbolID",
+      "value": "F3E02A2D-886E-4B87-B91D-94341843F154"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A40B1ED2-6D28-466A-9A5D-30DC92C0F496",
+      "overrideName": "92F33487-ECD7-4447-86C6-D1643F1724D5/7445C8BC-AA89-4B5F-B208-18FFA9D456BC/54A28538-6B77-499E-8906-73F0C75F4384_stringValue",
+      "value": "User value here"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50A1858D-C185-41B9-956A-08CCBB7799AF",
+      "overrideName": "92F33487-ECD7-4447-86C6-D1643F1724D5/7445C8BC-AA89-4B5F-B208-18FFA9D456BC/54A28538-6B77-499E-8906-73F0C75F4384_textStyle",
+      "value": "0AE4B918-78EE-4C11-8C84-BD5946F9DB16"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99E2AE2F-DFB9-4D54-892F-75936F5010CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "368DBB91-0593-4545-9EB8-23FD4BBEB477",
+  "verticalSpacing": 0
+}

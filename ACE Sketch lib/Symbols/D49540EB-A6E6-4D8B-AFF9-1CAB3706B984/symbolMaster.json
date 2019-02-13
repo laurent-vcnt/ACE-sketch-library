@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 31,
+  "changeIdentifier": 34,
   "clippingMaskMode": 0,
   "do_objectID": "D49540EB-A6E6-4D8B-AFF9-1CAB3706B984",
   "exportOptions": {
@@ -25,11 +25,14 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 10046,
+    "x": 16438,
     "y": 264
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -55,6 +58,18 @@
   ],
   "name": "DNA / Icons / Search / Small",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "50B65043-821D-4AB6-BA90-2CC6FE2758B2_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "50B65043-821D-4AB6-BA90-2CC6FE2758B2_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

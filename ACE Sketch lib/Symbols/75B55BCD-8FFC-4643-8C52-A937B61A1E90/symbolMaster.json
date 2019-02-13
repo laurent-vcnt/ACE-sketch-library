@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 24,
+  "changeIdentifier": 27,
   "clippingMaskMode": 0,
   "do_objectID": "75B55BCD-8FFC-4643-8C52-A937B61A1E90",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 44,
     "width": 300,
-    "x": 11886,
+    "x": 18278,
     "y": 1884
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "Form elements / Autocomplete / Dropdown / Opened / Without value",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "FA9F077C-649D-460D-BD3B-13552469CD2E/0F78AB3B-8705-4B7D-8DA0-737AD267CD2E/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FA9F077C-649D-460D-BD3B-13552469CD2E_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

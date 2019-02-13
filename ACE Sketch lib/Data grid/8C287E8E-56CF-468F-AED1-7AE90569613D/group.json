@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C287E8E-56CF-468F-AED1-7AE90569613D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1364,
+    "width": 913,
+    "x": 2477,
+    "y": -2298
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "B2DC9E52-7920-4991-9226-6819A6DE7AE8"
+    },
+    {
+      "class": "bitmap",
+      "id": "B31C46C6-CA15-4078-B9F8-55604EE2D743"
+    },
+    {
+      "class": "bitmap",
+      "id": "58BF83BF-B987-47DC-8BC9-58C3C6722397"
+    },
+    {
+      "class": "bitmap",
+      "id": "3509D02F-24CC-41F0-9BB2-7AC95D954A79"
+    }
+  ],
+  "name": "Action bar menu screenshots from production",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

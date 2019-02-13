@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 211,
+  "changeIdentifier": 214,
   "clippingMaskMode": 0,
   "do_objectID": "677C9737-661A-4168-8A69-43AA260DC28B",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "26C52F89-3347-41CA-884F-7133CBD9C8C6",
     "height": 308,
     "width": 300,
-    "x": 14967,
+    "x": 21359,
     "y": 364
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Form elements / combobox / opened with list",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7DBDE467-64FA-4660-953F-44D0B3FDD6C3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "7DBDE467-64FA-4660-953F-44D0B3FDD6C3/0F78AB3B-8705-4B7D-8DA0-737AD267CD2E/C9D9695A-88A4-4B60-AB11-9A87CD02A8A6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "15ECACD6-ED71-45C2-8D51-6DBAA87C0BAC_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

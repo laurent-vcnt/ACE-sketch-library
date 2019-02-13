@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 16,
+  "changeIdentifier": 19,
   "clippingMaskMode": 0,
   "do_objectID": "6977A08F-20E0-480F-9B02-657D3D9CBE99",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 3222,
+    "x": 9614,
     "y": 1868
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "DNA / Icons / Arrow / Plain rounded / Up / Small",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E582F08-52D1-48E1-AE09-925B91DD1078_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

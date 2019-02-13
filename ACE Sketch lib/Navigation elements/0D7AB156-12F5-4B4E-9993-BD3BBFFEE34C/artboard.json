@@ -27,6 +27,9 @@
     "x": 1300,
     "y": -513
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -44,15 +47,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "522F07B5-B7AB-4A9B-B100-71C980B6430A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9B303A8F-A4EC-4E6A-AAAB-CB173A1F3099"
     },
     {
       "class": "symbolInstance",

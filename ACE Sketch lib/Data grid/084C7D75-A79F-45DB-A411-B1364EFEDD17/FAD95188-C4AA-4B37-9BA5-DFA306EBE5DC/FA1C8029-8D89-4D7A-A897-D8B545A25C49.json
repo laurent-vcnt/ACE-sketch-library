@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA1C8029-8D89-4D7A-A897-D8B545A25C49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 1600,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid / Action bar (beta) / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D61F93ED-D711-43C6-99E0-E1B2B321ADEF",
+      "overrideName": "AC61E96B-F265-4A1A-B1EE-3357DA4E3C6C_symbolID",
+      "value": "0E1BFC5A-B355-4DC6-A5D1-ECDB47830545"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7C0E854-38F8-4529-84DB-B4091223811C",
+      "overrideName": "AC61E96B-F265-4A1A-B1EE-3357DA4E3C6C/19D157DE-49DC-426F-B100-572918DF65C3_symbolID",
+      "value": "98492C50-0D3A-423F-BA66-AC0EF19046E8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "368DBB91-0593-4545-9EB8-23FD4BBEB477",
+  "verticalSpacing": 0
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 112,
+  "changeIdentifier": 115,
   "clippingMaskMode": 0,
   "do_objectID": "C78770DD-8641-4BA8-902D-11FDB0DAB098",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "1C519A6B-8489-4AEE-854E-7E8967EEB0AC",
     "height": 20,
     "width": 20,
-    "x": 14527,
+    "x": 20919,
     "y": 120
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,18 @@
   ],
   "name": "Form elements / checkbox / Indeterminate / hover-active",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "096A5455-2EB1-46D4-A301-8D443543E4A4_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "096A5455-2EB1-46D4-A301-8D443543E4A4_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

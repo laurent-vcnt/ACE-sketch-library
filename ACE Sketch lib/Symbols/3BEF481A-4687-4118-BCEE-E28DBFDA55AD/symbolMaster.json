@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 44,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "3BEF481A-4687-4118-BCEE-E28DBFDA55AD",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 42,
     "width": 126,
-    "x": 960,
+    "x": 1192,
     "y": 284
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "Buttons / Reject / Hover",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A3BF7BE2-F4D8-4FA3-B5A3-382A5D912735_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A3BF7BE2-F4D8-4FA3-B5A3-382A5D912735_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

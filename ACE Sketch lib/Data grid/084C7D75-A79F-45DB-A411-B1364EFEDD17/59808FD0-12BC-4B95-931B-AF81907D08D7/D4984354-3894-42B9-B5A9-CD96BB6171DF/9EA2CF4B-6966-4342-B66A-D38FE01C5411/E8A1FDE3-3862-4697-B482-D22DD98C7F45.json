@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8A1FDE3-3862-4697-B482-D22DD98C7F45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFF5C6FE-703B-4621-A049-5C4CAD4D39B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E4220D5-355C-4800-8AD8-D0C6C05D381D",
+    "height": 20,
+    "width": 86,
+    "x": 0,
+    "y": 116
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / radio button with label / Not checked / Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD8639BD-C0CF-40D3-97F8-217E1952AD30",
+      "overrideName": "2BC2B3BB-FD0E-4B2E-90BB-962CAAF803DE_stringValue",
+      "value": "Value D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1F75502-D829-4D5C-8A75-3AE617E23334",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74AD0EC0-9953-40B7-A1F6-4C526072B672",
+  "verticalSpacing": 0
+}

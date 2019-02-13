@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 44,
+  "changeIdentifier": 47,
   "clippingMaskMode": 0,
   "do_objectID": "DDBEEBDC-F8A3-495C-AF8F-C24D2D35B38F",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 4614,
+    "x": 11006,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "DNA / Icons / Cogwheel / Medium",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75B405E5-CFF1-4372-BEEB-CB793D110B4F_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75B405E5-CFF1-4372-BEEB-CB793D110B4F_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

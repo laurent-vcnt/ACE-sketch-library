@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 32,
   "clippingMaskMode": 0,
   "do_objectID": "F56E1402-0C7F-4883-9E6B-8F8E17AE7C04",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 80,
     "width": 1600,
-    "x": 29977,
+    "x": 35205,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,12 +60,28 @@
       "id": "B526C66A-090E-45B7-967C-D625979EEEF2"
     },
     {
+      "class": "rectangle",
+      "id": "DFE54313-2132-44CB-BAF7-90A3ABE90C12"
+    },
+    {
       "class": "text",
       "id": "AFAE38AD-609D-482C-B682-F810B67F02FE"
     }
   ],
-  "name": "Navigation elements / Header / Title bar / Base",
-  "nameIsFixed": false,
+  "name": "Header / Title bar (beta) / Base",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AFAE38AD-609D-482C-B682-F810B67F02FE_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AFAE38AD-609D-482C-B682-F810B67F02FE_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,120 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CDB731BA-0159-49EB-A77B-84112E95184E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 208,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B7AEDEB-BAB7-4922-B991-EACE1215A2BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBEC684C-578A-449C-A675-35824EBEFC20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD7D9375-C95A-45F4-9EEE-41CA43A0F4F2",
+    "height": 80,
+    "width": 1600,
+    "x": 35205,
+    "y": 180
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0BF93B0F-370D-4123-91F1-23523F2FA65D"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "727BED3F-1D13-41A6-AB1E-DA056742289C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "76FDD648-96A5-4354-829E-2AEED5B3939B"
+    },
+    {
+      "class": "rectangle",
+      "id": "93BBE0D3-9BF3-467B-BBCF-C0D8025DBBA8"
+    },
+    {
+      "class": "rectangle",
+      "id": "DCB1DF7B-C2DD-47F2-82FF-D3A1033919F7"
+    },
+    {
+      "class": "text",
+      "id": "53A8AEF4-14DD-4F7D-BD80-ECCCDC8AA59F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8478719B-17D4-460C-A11C-268B7C45A040"
+    }
+  ],
+  "name": "Header / Title bar (beta) / Base with back button",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "53A8AEF4-14DD-4F7D-BD80-ECCCDC8AA59F_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "53A8AEF4-14DD-4F7D-BD80-ECCCDC8AA59F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8478719B-17D4-460C-A11C-268B7C45A040_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BB76B53-C34E-44FA-90A5-6F7D1A2BE223",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EFB257B9-B6C3-4F92-9470-E5B927CE2DBB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE7238F7-1523-4129-AF3D-C3F905DF16DD",
+    "guides": [
+    ]
+  }
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 262,
+  "changeIdentifier": 265,
   "clippingMaskMode": 0,
   "do_objectID": "D42AB072-F32D-40CA-B475-FFD4969D9D2E",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "5938D8AC-1AD0-45D6-A31F-890A37E41B4E",
     "height": 20,
     "width": 86,
-    "x": 13449,
+    "x": 19841,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,23 @@
   ],
   "name": "Form elements / checkbox with label / Checked / Disabled",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FADF76B9-519A-4684-87C8-63F47F9B2D53_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E1144887-94F8-4953-96AA-EF3C0EEEB65C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FADF76B9-519A-4684-87C8-63F47F9B2D53_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

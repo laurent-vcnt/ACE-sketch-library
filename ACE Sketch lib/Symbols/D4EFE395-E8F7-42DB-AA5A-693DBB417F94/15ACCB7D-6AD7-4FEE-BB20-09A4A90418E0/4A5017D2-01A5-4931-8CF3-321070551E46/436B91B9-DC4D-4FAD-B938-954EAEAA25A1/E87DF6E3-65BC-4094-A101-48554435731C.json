@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E87DF6E3-65BC-4094-A101-48554435731C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid / Action bar (beta) / Items / Dropdown menu / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA4C7DF5-2FBC-44BA-ADD1-425DDC046E6A",
+      "overrideName": "CC618976-1AAC-4AA8-A125-EE99D0277A41_symbolID",
+      "value": "7443ED67-27F5-4EE0-AA23-827F2945752F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E2762D4-A542-43E5-8326-D774038643E3",
+      "overrideName": "CC6811B3-0E6D-4E05-9B70-6170D86C1D0F_stringValue",
+      "value": "As of today"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E6B434FC-9B6D-4327-BC84-8EED927DDE99",
+  "verticalSpacing": 0
+}

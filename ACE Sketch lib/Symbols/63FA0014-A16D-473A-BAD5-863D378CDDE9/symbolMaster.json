@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 66,
+  "changeIdentifier": 69,
   "clippingMaskMode": 0,
   "do_objectID": "63FA0014-A16D-473A-BAD5-863D378CDDE9",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 2990,
+    "x": 9382,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "DNA / Icons / Account group / Medium",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B5B1F13E-6D35-40E9-BA73-ECDC80F82BF0_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B5B1F13E-6D35-40E9-BA73-ECDC80F82BF0_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

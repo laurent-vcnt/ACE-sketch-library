@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5460,
+  "changeIdentifier": 5463,
   "clippingMaskMode": 0,
   "do_objectID": "68242D46-DDFE-490B-81ED-161B5AEC2AE8",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 7166,
+    "x": 13558,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,6 +59,18 @@
   ],
   "name": "DNA / Icons / In progress / Medium",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B95852B8-BCE6-4790-AE28-9F95E005F9B6_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B95852B8-BCE6-4790-AE28-9F95E005F9B6_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

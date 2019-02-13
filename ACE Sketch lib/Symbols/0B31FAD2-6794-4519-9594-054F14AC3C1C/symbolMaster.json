@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 41,
+  "changeIdentifier": 44,
   "clippingMaskMode": 0,
   "do_objectID": "0B31FAD2-6794-4519-9594-054F14AC3C1C",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 7862,
+    "x": 14254,
     "y": 380
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,18 @@
   ],
   "name": "DNA / Icons / Locker / Opened / Small",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C53D54C7-AF16-4A87-9522-C99254DC9FED_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C53D54C7-AF16-4A87-9522-C99254DC9FED_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

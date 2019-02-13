@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 164,
+  "changeIdentifier": 169,
   "clippingMaskMode": 0,
   "do_objectID": "C566CA68-D1DF-4CCC-8FF5-0B3B7B8D15FA",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 44,
     "width": 360,
-    "x": 34137,
+    "x": 43699,
     "y": 288
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,6 +70,48 @@
   ],
   "name": "Notifications / Informative / With notification type",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "99477D2A-CC00-404B-B13E-E3EE5B8D0BD4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E11AA91E-1637-4C51-BF3A-2087FD1DC987_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "99477D2A-CC00-404B-B13E-E3EE5B8D0BD4/A447D454-4CD8-4A29-A4A4-6C0C26A03F23/75CCDB14-3E0A-4C1E-874C-E471A134E432_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8410FEB-8B41-48E5-8078-99BFE84B8E78_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "99477D2A-CC00-404B-B13E-E3EE5B8D0BD4/A447D454-4CD8-4A29-A4A4-6C0C26A03F23_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EB6CF530-4D63-4FE2-92F4-844BD562940D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F8410FEB-8B41-48E5-8078-99BFE84B8E78_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EB6CF530-4D63-4FE2-92F4-844BD562940D_textStyle"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

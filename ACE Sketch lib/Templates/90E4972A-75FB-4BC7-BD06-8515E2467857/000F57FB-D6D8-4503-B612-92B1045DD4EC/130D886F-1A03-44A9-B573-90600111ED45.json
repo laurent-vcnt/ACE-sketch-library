@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 34,
     "width": 1600,
     "x": 0,
     "y": 0
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Header / Breadcrumb (beta)",
+  "name": "Header / Breadcrumb (beta)",
   "nameIsFixed": false,
   "overrideValues": [
   ],

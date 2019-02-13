@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C30DFAD8-E177-4E49-A4D1-F2D16B6ECBEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC0EBEF1-DCC8-4952-89A4-D3AD7F887D0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D38604CE-F657-433E-BC0D-43A63ACC108D",
+    "height": 104,
+    "width": 1600,
+    "x": 0,
+    "y": 816
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation elements / Footer / Logged in",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75C6F062-5C43-422C-9A89-B45E89F67EEF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "352E637E-0471-43E2-9531-75BEEC376338",
+  "verticalSpacing": 0
+}

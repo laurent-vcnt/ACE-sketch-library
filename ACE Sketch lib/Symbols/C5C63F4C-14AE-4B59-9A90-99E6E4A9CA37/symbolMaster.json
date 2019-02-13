@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 104,
+  "changeIdentifier": 109,
   "clippingMaskMode": 0,
   "do_objectID": "C5C63F4C-14AE-4B59-9A90-99E6E4A9CA37",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "843C281E-B79B-4465-A768-45FBEACD98D7",
     "height": 100,
     "width": 1600,
-    "x": 31777,
+    "x": 41339,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,6 +70,33 @@
   ],
   "name": "Navigation elements / Portal navigation bar (beta)",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "71D0DC49-3239-429B-9105-50A3DBC59951_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "A4DE50BC-5CCF-4B68-BB45-151F3B7A303D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "30DA1C38-BE50-480A-9321-736AC7DA7862_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "7D1E1CA6-2511-4DE1-A2C9-64E1E53EBFF2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "873D5B38-4D3D-4CDE-983E-BA2EF21B258F_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

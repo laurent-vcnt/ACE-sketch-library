@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 44,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "5F446248-3F65-4C62-B9C8-E7749597D32F",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 42,
     "width": 126,
-    "x": 960,
+    "x": 1192,
     "y": 426
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "Buttons / Reject / Normal",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CE2A2872-8CE4-4CEB-B60F-1D51E58C795B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CE2A2872-8CE4-4CEB-B60F-1D51E58C795B_textStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

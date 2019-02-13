@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0360AB0-E884-4A1C-AEAE-7D18B3F90484",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7D10C58-3EFA-4F86-BB60-9A1BA09657BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC7A7427-5525-40A4-AEC1-314C5AB83D62",
+    "height": 52,
+    "width": 266,
+    "x": 30,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Title bar (beta) / Dropdown / Opened",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "997D54AB-2C50-4CBC-9178-1C47416942A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FBF0C0E-0464-49C7-BC3B-D44AF07462D1",
+  "verticalSpacing": 0
+}

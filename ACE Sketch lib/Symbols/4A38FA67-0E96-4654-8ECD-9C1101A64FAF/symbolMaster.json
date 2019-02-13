@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 21,
+  "changeIdentifier": 24,
   "clippingMaskMode": 0,
   "do_objectID": "4A38FA67-0E96-4654-8ECD-9C1101A64FAF",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 172,
     "width": 365,
-    "x": 12386,
+    "x": 18778,
     "y": 432
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,68 @@
   ],
   "name": "Form elements / Autocomplete / Input text / Focus with list opened / Multi-values",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/EDBD50EE-0026-4225-8538-D1D37D53240E/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/D587CF8E-C7E2-4CFF-B959-FA56C8039E38/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/8E85083B-A371-4EC4-86BF-D1C57C4E6BC8/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/B4DEA128-C1DC-4E39-A3D7-064B5C8A6CEE/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/9E4141A2-367D-4B4D-9E3A-61655C75D399/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/9E4141A2-367D-4B4D-9E3A-61655C75D399/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/EDBD50EE-0026-4225-8538-D1D37D53240E/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/B4DEA128-C1DC-4E39-A3D7-064B5C8A6CEE/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/D587CF8E-C7E2-4CFF-B959-FA56C8039E38/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5BF0534B-FCCE-4C67-9E0C-652A5FD5CBA3/8E85083B-A371-4EC4-86BF-D1C57C4E6BC8/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DAEB79DC-DF98-436B-A9D7-1AA3168E59D7_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 35,
+  "changeIdentifier": 38,
   "clippingMaskMode": 0,
   "do_objectID": "8D9F393B-6DFC-4125-8F9F-1018813677CF",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 100,
     "width": 250,
-    "x": 2090,
+    "x": 8482,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,8 @@
   ],
   "name": "DNA / Colors / Primary / Cool white",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

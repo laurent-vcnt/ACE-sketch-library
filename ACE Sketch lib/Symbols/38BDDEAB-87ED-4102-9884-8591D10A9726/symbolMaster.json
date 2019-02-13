@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 336,
+  "changeIdentifier": 339,
   "clippingMaskMode": 0,
   "do_objectID": "38BDDEAB-87ED-4102-9884-8591D10A9726",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "CDAF295E-AC9B-45A2-A43C-61086DEED02A",
     "height": 44,
     "width": 298,
-    "x": 15467,
+    "x": 21859,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,13 @@
   ],
   "name": "Form elements / combobox / list / item / disabled",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "26951547-7DDA-418E-8355-62F7F62EF509_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

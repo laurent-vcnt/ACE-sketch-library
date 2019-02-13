@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 155,
+  "changeIdentifier": 159,
   "clippingMaskMode": 0,
   "do_objectID": "97CEC9B7-E8BA-4622-9F9C-269096904E08",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "329F5542-A06F-4163-A484-96166A783B0C",
     "height": 120,
     "width": 360,
-    "x": 20729,
+    "x": 27091,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -71,6 +74,38 @@
   ],
   "name": "Form elements / Textarea / Disabled",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3658AAD2-D119-438F-9D9B-50D0A46FA911_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3658AAD2-D119-438F-9D9B-50D0A46FA911_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0BE99633-47D0-4D4C-BF57-808F5D167390_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0BE99633-47D0-4D4C-BF57-808F5D167390_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3D5C180C-63C6-40B5-A470-D27DF23F7348_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "3D5C180C-63C6-40B5-A470-D27DF23F7348_image"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

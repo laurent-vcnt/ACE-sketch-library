@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 431,
+  "changeIdentifier": 443,
   "clippingMaskMode": 0,
   "do_objectID": "180BE4FF-C3CF-4A16-BC2A-D3DF478BD350",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "CB34D630-CC16-4848-85CA-B603E798EEAD",
     "height": 44,
     "width": 300,
-    "x": 18403,
+    "x": 24765,
     "y": 144
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,7 +70,34 @@
   ],
   "name": "Form elements / input text with embed icon / normal with value",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "675B6D65-FC88-42D4-B08B-0666BCC5D264_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D1864425-A7FD-4A18-B3BF-8782D621E9E7_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8D7C85F-3A28-49C7-A655-E627764C6CB5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D1864425-A7FD-4A18-B3BF-8782D621E9E7_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D8D7C85F-3A28-49C7-A655-E627764C6CB5_layerStyle"
+    }
+  ],
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

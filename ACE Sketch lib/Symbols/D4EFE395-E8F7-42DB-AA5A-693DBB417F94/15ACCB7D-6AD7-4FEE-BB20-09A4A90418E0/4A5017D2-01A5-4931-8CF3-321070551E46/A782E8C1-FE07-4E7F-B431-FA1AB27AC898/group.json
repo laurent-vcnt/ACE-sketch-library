@@ -16,9 +16,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 46,
-    "width": 183,
+    "width": 184,
     "x": 186,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,16 +33,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "5200DCA3-C15A-4295-A9C3-3BBA8D664F17"
-    },
-    {
-      "class": "text",
-      "id": "8D5A7720-1C90-4308-A84E-8EDED3E533ED"
-    },
-    {
       "class": "symbolInstance",
-      "id": "E3E1A717-EB11-4725-ADE4-71076B453134"
+      "id": "D3724D42-1D11-4D1C-A605-BB5C58842E58"
     }
   ],
   "name": "Edit column",

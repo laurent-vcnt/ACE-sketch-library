@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 35,
+  "changeIdentifier": 38,
   "clippingMaskMode": 0,
   "do_objectID": "5C7B3A6F-3F15-4A88-A1BF-64EDBCBB9D25",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 4382,
+    "x": 10774,
     "y": 744
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +62,18 @@
   ],
   "name": "DNA / Icons / Chevron / Up / Medium",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "1F582C65-86AE-4C7D-A881-FD3049580E1C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "1F582C65-86AE-4C7D-A881-FD3049580E1C/201EE456-E1FD-4188-A352-6187C114F62C_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

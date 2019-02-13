@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0E09249-5E91-41E4-9E2E-1086390763B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "399763E6-B9D5-4FF2-B3EC-A7D697AF20EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24E18AC4-549D-43E7-A0BE-A15082D097F1",
+    "height": 34,
+    "width": 1600,
+    "x": 30,
+    "y": 146
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Breadcrumb (beta)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "360D8263-2D06-49E3-ABF9-1D3E175EE9D7",
+      "overrideName": "9E792460-ECF5-4034-9B3C-F39C664C90FA_textStyle",
+      "value": "A9EAB7FA-E099-4CC5-B09A-58B0FD68DD85"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3846B3D-B74D-4474-9ACA-C6BCAEABDC69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA3497C8-3D90-41FE-B7B9-167797DBEAA3",
+  "verticalSpacing": 0
+}

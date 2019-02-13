@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9333333333333333,
+    "red": 0.9058823529411765
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5C62A09-C990-4CE1-A591-233BCE9250D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 920,
+    "width": 1600,
+    "x": 4328,
+    "y": 3769
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      50,
+      1550,
+      80,
+      1520
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BD185F33-11B9-4094-BCB5-6CFE06F1D95F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "679B50FB-C29B-4227-AEB8-2C211F7B036E"
+    },
+    {
+      "class": "rectangle",
+      "id": "AAE3E378-49D8-43F0-A882-B72240580E46"
+    },
+    {
+      "class": "group",
+      "id": "4067A2DC-6ED5-4EEC-B671-052D8C1EF434"
+    },
+    {
+      "class": "rectangle",
+      "id": "3F2C60FC-030C-48A6-9839-256F95406103"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D505804-D4B7-4D8B-A88A-5C616068D5C3"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15.1304347826087,
+    "guttersOutside": false,
+    "horizontalOffset": 50,
+    "isEnabled": false,
+    "numberOfColumns": 24,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1500
+  },
+  "name": "Template – Base with header, page-switcher and info bar @1600px",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop XL – 1600",
+    "offersLandscapeVariant": 0,
+    "width": 1600
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

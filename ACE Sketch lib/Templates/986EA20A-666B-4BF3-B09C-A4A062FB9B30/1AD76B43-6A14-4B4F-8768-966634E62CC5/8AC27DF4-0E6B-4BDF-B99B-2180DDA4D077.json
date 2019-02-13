@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AC27DF4-0E6B-4BDF-B99B-2180DDA4D077",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FD866E8-3EB7-412B-A983-92C47D7FBB42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28A4625B-DA33-4AFA-8D7D-081CA841F557",
+    "height": 80,
+    "width": 1600,
+    "x": 0,
+    "y": 34
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Header / Title bar (beta) / Dropdown pages menu / Base with back button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BA6D9BC-743C-4C84-9D6A-4CC8DB79349D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "675DD5DA-E25E-449F-95DE-CF20C94E1471",
+  "verticalSpacing": 0
+}

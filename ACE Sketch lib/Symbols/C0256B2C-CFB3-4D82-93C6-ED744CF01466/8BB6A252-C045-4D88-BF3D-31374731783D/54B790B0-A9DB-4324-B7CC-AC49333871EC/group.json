@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54B790B0-A9DB-4324-B7CC-AC49333871EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 272,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E57B686F-0FA2-4D58-BA0F-3E5199595BD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70481A54-2FDE-4F46-A099-2038822A4FED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DA90F2D-DD90-4AA5-B4B8-F91B6275BCBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FAD9B48-CE85-49F4-944A-C82B1EE599F0"
+    }
+  ],
+  "name": "Form elements / dropdown / list / item / normal",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

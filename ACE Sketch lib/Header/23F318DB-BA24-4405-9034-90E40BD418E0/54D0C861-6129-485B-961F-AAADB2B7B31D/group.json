@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54D0C861-6129-485B-961F-AAADB2B7B31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F6EA1A5-CA58-4A2A-9E69-1B3C26F7D3AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AADEB307-6BD3-4B55-8069-3BC0873B945F",
+    "height": 276,
+    "width": 1188,
+    "x": -1,
+    "y": 1654
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DD421408-E898-4E32-922B-3C9FA32D94BE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E36CAED3-1E62-4312-B18F-243D63543FC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6775B634-A969-4C24-845F-280F7A8936F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA5DB053-B91A-4629-B060-64893432B946"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39AE8784-5751-4FA8-B2C3-CB59D38ED460"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7277826B-731F-41C3-AD24-5BED01F0833B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93266B1E-88CD-48E9-A7CB-D3E276C72EC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36F47B2C-98E7-4D4D-9CAE-B87717442E58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E70F512B-32A6-4213-B010-B7C7C56F3670"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0360AB0-E884-4A1C-AEAE-7D18B3F90484"
+    }
+  ],
+  "name": "Sub-elements",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23D3B7A6-A5FC-4091-92A4-1E027589B91C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

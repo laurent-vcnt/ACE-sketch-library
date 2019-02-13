@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 156,
+  "changeIdentifier": 159,
   "clippingMaskMode": 0,
   "do_objectID": "C47B6AC7-021E-45BE-8FC5-8C4E26FC5165",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 100,
     "width": 250,
-    "x": 1640,
+    "x": 8032,
     "y": 600
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,8 @@
   ],
   "name": "DNA / Colors / Others / Data Visualizations / Seaweed",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -22,10 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1557,
     "width": 1600,
     "x": 1367,
     "y": -265
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,8 +58,48 @@
       "id": "AEBBF03F-EA4C-40E5-9F3C-9D244D4A5B9D"
     },
     {
+      "class": "text",
+      "id": "C2D7FA73-432A-4C1C-AA32-0C1D6B536169"
+    },
+    {
+      "class": "text",
+      "id": "EC7BA477-2B64-41DB-864D-D3601D95F9F9"
+    },
+    {
+      "class": "text",
+      "id": "0FA43106-16CC-41F7-B846-9BACD06D5D87"
+    },
+    {
+      "class": "text",
+      "id": "B1E71BA0-F616-4D09-895D-4B3C256E8030"
+    },
+    {
+      "class": "text",
+      "id": "FAE0D1CD-81E1-4126-9D3A-5B74DFDCD6FF"
+    },
+    {
+      "class": "text",
+      "id": "49614D13-6129-4065-B7F4-CBE170660A6F"
+    },
+    {
       "class": "group",
       "id": "6E383EC1-2F7B-4A64-89CF-FFF545619E72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F360930-FA6A-4139-8982-AFE3CFDC03A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA214AAC-198F-4434-9896-8A27DFDF0CB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1F191B7-B777-4E3D-BE5E-EEE0F19FFD16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "310C99F2-8540-4EE2-906C-AE21C7EDDE70"
     }
   ],
   "name": "Variants",

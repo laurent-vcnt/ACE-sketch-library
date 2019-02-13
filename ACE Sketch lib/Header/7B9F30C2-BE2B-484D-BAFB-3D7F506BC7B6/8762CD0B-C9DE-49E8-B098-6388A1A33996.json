@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8762CD0B-C9DE-49E8-B098-6388A1A33996",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06A49624-2195-405F-9E03-8ACD077EFB23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A17B0E1-68C1-493A-8C87-7489A7A7D585",
+    "height": 3,
+    "width": 1600,
+    "x": 30,
+    "y": 146
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Tab bar (beta) / Mono tab not displayed",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A56FA95-D2EC-43EA-8F62-39A2A47CDA3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2D397B07-AF46-4817-AC3D-23F3EA22C30E",
+  "verticalSpacing": 0
+}

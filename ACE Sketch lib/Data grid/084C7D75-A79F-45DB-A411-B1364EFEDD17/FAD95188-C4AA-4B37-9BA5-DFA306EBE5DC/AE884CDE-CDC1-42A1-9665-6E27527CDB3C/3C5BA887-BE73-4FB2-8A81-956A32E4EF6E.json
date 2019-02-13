@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C5BA887-BE73-4FB2-8A81-956A32E4EF6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5463320A-EA1C-40D3-8788-62A0FAE562E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6F58EBF-B434-4E06-B903-4BF0CE09DA7C",
+    "height": 44,
+    "width": 160,
+    "x": 20,
+    "y": 45
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form elements / dropdown / list / item / hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "305B6590-5A7B-424C-BDE5-7CF92B302652",
+      "overrideName": "67F13810-9FA3-4D3C-A66C-94B271DB0ADA_stringValue",
+      "value": "Glossary"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0C4D5712-F18C-41CB-B05D-8F2882A8B416",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "37C35D2D-EC48-49C4-9674-1DC2BBA07572",
+  "verticalSpacing": 0
+}

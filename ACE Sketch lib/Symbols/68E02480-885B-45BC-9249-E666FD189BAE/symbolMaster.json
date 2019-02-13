@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 304,
+  "changeIdentifier": 312,
   "clippingMaskMode": 0,
   "do_objectID": "68E02480-885B-45BC-9249-E666FD189BAE",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "F2A1E4C6-42AD-4BAC-B718-C4742859F8BF",
     "height": 44,
     "width": 298,
-    "x": 17905,
+    "x": 24267,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +66,19 @@
   ],
   "name": "Form elements / dropdown / list / item / disabled",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3BF7D2E1-C04B-41FC-AF6E-365AC554295D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3BF7D2E1-C04B-41FC-AF6E-365AC554295D_stringValue"
+    }
+  ],
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

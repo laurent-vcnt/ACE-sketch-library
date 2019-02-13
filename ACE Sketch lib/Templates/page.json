@@ -20,6 +20,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -50,11 +53,35 @@
     },
     {
       "class": "artboard",
-      "id": "90E4972A-75FB-4BC7-BD06-8515E2467857"
+      "id": "6C032DBE-2E79-49F8-8C10-6464CF581A52"
+    },
+    {
+      "class": "artboard",
+      "id": "19510173-5096-4610-9E6D-40D502E61FE2"
     },
     {
       "class": "artboard",
       "id": "089DA9CF-FA4F-429B-A12F-98329D911662"
+    },
+    {
+      "class": "artboard",
+      "id": "90E4972A-75FB-4BC7-BD06-8515E2467857"
+    },
+    {
+      "class": "artboard",
+      "id": "986EA20A-666B-4BF3-B09C-A4A062FB9B30"
+    },
+    {
+      "class": "artboard",
+      "id": "D5C62A09-C990-4CE1-A591-233BCE9250D0"
+    },
+    {
+      "class": "artboard",
+      "id": "BAC16578-A42F-452A-BBD9-2E3DC3C6C64A"
+    },
+    {
+      "class": "group",
+      "id": "5F5D9408-9EEC-4F61-9A96-B182949BC0EA"
     }
   ],
   "name": "Templates",

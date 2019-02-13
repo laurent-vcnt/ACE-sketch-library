@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B381F13B-7AF5-43EC-A35C-EBCDE234FCC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E084BF7C-FEA6-49C6-B2CA-42532AB35EF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51407743-B9F8-4539-9B13-A2980BB14C61",
+    "height": 40,
+    "width": 78,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Tab bar (beta) / tab item / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7F0CFDB-30D9-4062-AB41-1BF24ADCAA20",
+      "overrideName": "1C862BDD-805A-42DD-A6EC-18A0B30253A9_textStyle",
+      "value": "036676AD-4D80-4E53-8B69-19A76F1F61A2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEC1C3E6-F967-421D-8A49-2DAFC6BE11BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "457315E6-D677-4BBE-BE9A-7039EE62E433",
+  "verticalSpacing": 0
+}

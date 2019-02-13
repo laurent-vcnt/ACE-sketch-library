@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 109,
+  "changeIdentifier": 114,
   "clippingMaskMode": 0,
   "do_objectID": "DEF411C4-91B1-4F2C-B418-3BEFC606B783",
   "exportOptions": {
@@ -25,8 +25,11 @@
     "constrainProportions": false,
     "height": 68,
     "width": 365,
-    "x": 35817,
+    "x": 45379,
     "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -71,6 +74,83 @@
   ],
   "name": "Tags / Multi-line serie of tag items / Mono-line",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9E4141A2-367D-4B4D-9E3A-61655C75D399/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9E4141A2-367D-4B4D-9E3A-61655C75D399_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EDBD50EE-0026-4225-8538-D1D37D53240E/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B4DEA128-C1DC-4E39-A3D7-064B5C8A6CEE/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B4DEA128-C1DC-4E39-A3D7-064B5C8A6CEE/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "EDBD50EE-0026-4225-8538-D1D37D53240E/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "D587CF8E-C7E2-4CFF-B959-FA56C8039E38/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EDBD50EE-0026-4225-8538-D1D37D53240E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B4DEA128-C1DC-4E39-A3D7-064B5C8A6CEE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "D587CF8E-C7E2-4CFF-B959-FA56C8039E38/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D587CF8E-C7E2-4CFF-B959-FA56C8039E38_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "9E4141A2-367D-4B4D-9E3A-61655C75D399/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8/865E3580-5A6F-4ABE-8232-470E4E10415F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E85083B-A371-4EC4-86BF-D1C57C4E6BC8_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

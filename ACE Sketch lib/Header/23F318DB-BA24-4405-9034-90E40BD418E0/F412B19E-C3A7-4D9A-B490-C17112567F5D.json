@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F412B19E-C3A7-4D9A-B490-C17112567F5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A977125-853F-49A8-97D9-9D0EF2513875",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53A92C7B-FBBF-45B0-9C00-AD9B095D9027",
+    "height": 80,
+    "width": 1600,
+    "x": 30,
+    "y": 916
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Title bar (beta) / Dropdown pages menu / Base with back button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D1C6E60-8990-45D1-8A35-F3D55C880501",
+      "overrideName": "B826C3E9-5704-4F2E-8046-CC44051C5B22/422D4C41-C3CE-4BFA-865D-079AF46B82BA_layerStyle",
+      "value": "5E8D1609-5EEE-4DD0-A004-97F2A41CD089"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "890414D5-17CC-4175-84C1-37B58762444F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "675DD5DA-E25E-449F-95DE-CF20C94E1471",
+  "verticalSpacing": 0
+}

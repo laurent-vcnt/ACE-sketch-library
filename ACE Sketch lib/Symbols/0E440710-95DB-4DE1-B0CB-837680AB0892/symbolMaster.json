@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 259,
+  "changeIdentifier": 262,
   "clippingMaskMode": 0,
   "do_objectID": "0E440710-95DB-4DE1-B0CB-837680AB0892",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "do_objectID": "8A9FEED6-F1B2-44E6-ADFA-0E98F9FAC8ED",
     "height": 44,
     "width": 298,
-    "x": 15467,
+    "x": 21859,
     "y": 144
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +66,13 @@
   ],
   "name": "Form elements / combobox / list / item / hover",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6220EADA-A61D-4824-8F84-999B0F90B7EC_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

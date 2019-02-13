@@ -10,6 +10,8 @@ Library of UI elements based on Atomic Design approach.
 - Tags
 - Notifications
 - Navigation elements
+- Header
+- Datagrid
 - Templates
 
 ## Text styles
