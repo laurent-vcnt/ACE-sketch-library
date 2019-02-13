@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0ECCC13B-E014-4821-BF6C-A41ADD0FD02B",
+  "do_objectID": "9B395C21-11F5-43B5-8895-E1F50DC67D55",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A001C9D1-212D-4807-8107-DD2CB5D0E26C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "5D865014-2C44-443F-AFAA-5540BABA47FE",
     "height": 80,
     "width": 1600,
     "x": 30,
-    "y": 596
+    "y": 786
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Header / Title bar (beta) / Dropdown pages menu / Base",
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown pages menu / Hover Copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "13DFBA20-2518-4616-8BBD-9C0FB27A6DD9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "675DD5DA-E25E-449F-95DE-CF20C94E1471",
+  "symbolID": "E6EE9DCC-B628-4473-8A09-F2BB3BB9E680",
   "verticalSpacing": 0
 }

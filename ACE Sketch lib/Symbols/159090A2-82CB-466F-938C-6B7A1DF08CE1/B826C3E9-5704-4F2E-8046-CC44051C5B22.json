@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0ECCC13B-E014-4821-BF6C-A41ADD0FD02B",
+  "do_objectID": "B826C3E9-5704-4F2E-8046-CC44051C5B22",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 1600,
-    "x": 30,
-    "y": 596
+    "height": 52,
+    "width": 266,
+    "x": 124,
+    "y": 14
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Navigation elements / Header / Title bar (beta) / Dropdown pages menu / Base",
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown / Base",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "675DD5DA-E25E-449F-95DE-CF20C94E1471",
+  "symbolID": "8EE55533-B907-4ECD-AFFD-7FF49FEDCFB3",
   "verticalSpacing": 0
 }
