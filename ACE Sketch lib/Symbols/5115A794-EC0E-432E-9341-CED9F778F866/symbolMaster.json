@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 356,
+  "changeIdentifier": 359,
   "clippingMaskMode": 0,
   "do_objectID": "5115A794-EC0E-432E-9341-CED9F778F866",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 34,
     "width": 1600,
-    "x": 29239,
+    "x": 28871,
     "y": 0
   },
   "groupLayout": {
@@ -72,8 +72,8 @@
       "id": "DD4FD9C4-A433-40F2-9A5E-E3588C310BE8"
     }
   ],
-  "name": "Navigation elements / Header / Breadcrumb (beta)",
-  "nameIsFixed": false,
+  "name": "Header / Breadcrumb (beta)",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -88,7 +88,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1AF639C2-9941-4D19-963C-643571B6BB5B_textStyle"
+      "overrideName": "7480D7A5-63FF-4594-BAD7-50E90870F362_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -118,7 +118,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "7480D7A5-63FF-4594-BAD7-50E90870F362_stringValue"
+      "overrideName": "1AF639C2-9941-4D19-963C-643571B6BB5B_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

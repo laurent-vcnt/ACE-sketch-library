@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29,
+  "changeIdentifier": 31,
   "clippingMaskMode": 0,
   "do_objectID": "F56E1402-0C7F-4883-9E6B-8F8E17AE7C04",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 80,
     "width": 1600,
-    "x": 32839,
+    "x": 32749,
     "y": 0
   },
   "groupLayout": {
@@ -68,7 +68,7 @@
       "id": "AFAE38AD-609D-482C-B682-F810B67F02FE"
     }
   ],
-  "name": "Navigation elements / Header / Title bar (beta) / Base",
+  "name": "Header / Title bar (beta) / Base",
   "nameIsFixed": true,
   "overrideProperties": [
     {

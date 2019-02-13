@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 291,
+  "changeIdentifier": 292,
   "clippingMaskMode": 0,
   "do_objectID": "7119F7B7-BC8A-4D8E-910D-882BD7F94C0E",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 44,
     "width": 360,
-    "x": 37559,
+    "x": 41803,
     "y": 432
   },
   "groupLayout": {
@@ -77,8 +77,8 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "188D3515-CC41-42C2-BE26-6943BD5A4430_stringValue"
+      "canOverride": false,
+      "overrideName": "E08F1C97-487F-4DC4-8812-99A974E4DEAD_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -93,17 +93,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
+      "overrideName": "A183BA0D-4D4C-47CC-9DD0-423F0CE32593_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
       "overrideName": "9A7C2410-A967-4F0D-A72D-862B2655905F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2/303BD07A-4F60-4970-8F9D-312AA118137D_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
       "overrideName": "A183BA0D-4D4C-47CC-9DD0-423F0CE32593/55AB15F0-FBFA-4CF8-A2A8-C5B93CF84172_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "A183BA0D-4D4C-47CC-9DD0-423F0CE32593_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -123,12 +123,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": false,
-      "overrideName": "E08F1C97-487F-4DC4-8812-99A974E4DEAD_stringValue"
+      "overrideName": "9A7C2410-A967-4F0D-A72D-862B2655905F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "9A7C2410-A967-4F0D-A72D-862B2655905F/D71FC97B-1421-4C4A-9DC7-617158D1D7B2_symbolID"
+      "canOverride": true,
+      "overrideName": "188D3515-CC41-42C2-BE26-6943BD5A4430_stringValue"
     }
   ],
   "resizesContent": true,

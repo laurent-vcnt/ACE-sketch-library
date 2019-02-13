@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 16,
   "clippingMaskMode": 0,
   "do_objectID": "5C797074-3F55-4493-B8EE-0BE71252F583",
   "exportOptions": {
@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 78,
-    "x": 31039,
-    "y": 386
+    "x": 32471,
+    "y": 140
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -60,8 +60,8 @@
       "id": "926EB6CB-B9E6-4920-A1D7-9B67C1C0BBEC"
     }
   ],
-  "name": "Navigation elements / Header / Tab bar (beta) / tab item / Current",
-  "nameIsFixed": false,
+  "name": "Header / Tab bar (beta) / tab item / Current",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

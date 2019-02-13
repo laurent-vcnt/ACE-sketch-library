@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E70F512B-32A6-4213-B010-B7C7C56F3670",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD6DAB77-8D00-4596-BAEF-46009B5DE858",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CFB41D5-0F53-47A2-9092-7400A2CA7490",
+    "height": 52,
+    "width": 266,
+    "x": 30,
+    "y": 132
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation elements / Header / Title bar (beta) / Dropdown / Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07B77585-7BAE-46D8-95B0-9D6877A6D6DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C37D61BD-6EDE-4FCD-9DBA-FF4868A4ECC2",
+  "verticalSpacing": 0
+}
