@@ -53,6 +53,14 @@
     },
     {
       "class": "artboard",
+      "id": "6C032DBE-2E79-49F8-8C10-6464CF581A52"
+    },
+    {
+      "class": "artboard",
+      "id": "089DA9CF-FA4F-429B-A12F-98329D911662"
+    },
+    {
+      "class": "artboard",
       "id": "90E4972A-75FB-4BC7-BD06-8515E2467857"
     },
     {
@@ -62,10 +70,6 @@
     {
       "class": "artboard",
       "id": "BAC16578-A42F-452A-BBD9-2E3DC3C6C64A"
-    },
-    {
-      "class": "artboard",
-      "id": "089DA9CF-FA4F-429B-A12F-98329D911662"
     }
   ],
   "name": "Templates",
