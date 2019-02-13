@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "310C99F2-8540-4EE2-906C-AE21C7EDDE70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AF325EA-F55A-423B-ACB6-109C91D3935C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA8BD5BD-9BEA-465C-850F-33820E97FBC1",
+    "height": 32,
+    "width": 32,
+    "x": 579,
+    "y": 926
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Misc / Back button Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98532DCD-F449-4831-9F30-643BE1FD3D05",
+      "overrideName": "2D87B1CC-0F62-4577-89BD-D23150D8CFAA_layerStyle",
+      "value": "CF7F3F7C-DD09-4740-83DB-42F0818E3F47"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75EF9C56-C02D-42BD-9413-C0CC086F56F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4F9EB4B8-4718-447F-831D-E147F59C710E",
+  "verticalSpacing": 0
+}
