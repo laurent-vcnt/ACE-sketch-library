@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 30,
+  "changeIdentifier": 31,
   "clippingMaskMode": 0,
   "do_objectID": "729D5AEC-0A9A-4C68-92C1-C82BB44E97C6",
   "exportOptions": {
@@ -64,9 +64,24 @@
       "id": "D47FF47D-DD46-4F13-A747-8DB3D6B07003"
     }
   ],
-  "name": "Datagrid / Table Placholder (beta)",
+  "name": "Datagrid / Table Placeholder (beta)",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "901D0A6A-7440-4349-80B1-386ED0957918_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "01DB62EB-0A2B-44EA-BE70-17A9564ABFEA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D47FF47D-DD46-4F13-A747-8DB3D6B07003_symbolID"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
