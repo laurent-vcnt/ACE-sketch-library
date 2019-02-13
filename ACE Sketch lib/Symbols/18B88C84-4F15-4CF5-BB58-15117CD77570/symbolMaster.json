@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 26,
   "clippingMaskMode": 0,
   "do_objectID": "18B88C84-4F15-4CF5-BB58-15117CD77570",
   "exportOptions": {
@@ -49,7 +49,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -59,6 +59,26 @@
   "name": "Header / Information bar / items / Label Value",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "13FF40E3-A349-4D08-9288-D4E319780AB3_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "13FF40E3-A349-4D08-9288-D4E319780AB3_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "294F25D2-331C-4289-80E6-C754013C7A4C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "294F25D2-331C-4289-80E6-C754013C7A4C_textStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
