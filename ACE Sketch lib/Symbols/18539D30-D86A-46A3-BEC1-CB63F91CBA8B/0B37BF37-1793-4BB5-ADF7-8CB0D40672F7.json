@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B37BF37-1793-4BB5-ADF7-8CB0D40672F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20389D14-A2B8-41E5-B01C-A5D13965B6E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBF1205E-4A09-425A-B8EE-B0C3767E8FCB",
+    "height": 18,
+    "width": 456,
+    "x": 1064,
+    "y": 38
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / Information bar / items / Label Value",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D600314-A3AF-477A-83AF-CE00A6DB72CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5BE99EF4-A512-4F82-9FE0-31651FD8F6C1",
+  "verticalSpacing": 0
+}
