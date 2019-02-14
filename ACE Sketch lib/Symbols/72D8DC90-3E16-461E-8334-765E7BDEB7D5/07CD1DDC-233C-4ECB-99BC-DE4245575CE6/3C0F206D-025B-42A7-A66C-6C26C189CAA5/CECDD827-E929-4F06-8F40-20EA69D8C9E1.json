@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CECDD827-E929-4F06-8F40-20EA69D8C9E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E663AEE2-244A-48AE-9CD8-BE5CE8BC38E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FA59821-72B4-4A77-A095-7958B351A7E9",
+    "height": 50,
+    "width": 1,
+    "x": 89,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid (beta) / Action bar / Items / Separator",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "294444E0-7FA0-41CA-907F-AF3722C438FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "710EB5C1-134F-4B7C-BD5F-2CF7EAB826C2",
+  "verticalSpacing": 0
+}

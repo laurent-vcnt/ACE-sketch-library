@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44D5884A-8B5B-43A6-91AC-0EF5FA74BC53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81C2BB58-D459-426F-9CA8-D0FCBA7AAE53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23AD847F-9B6C-4D22-A560-8E14B7B91F19",
+    "height": 50,
+    "width": 1500,
+    "x": 30,
+    "y": 3349
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid (beta) / Table footer / Infinite scroll / Button / Load more / Base Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE680802-CF73-42FC-9490-6FB7541E9681",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A281067-F530-4297-9586-75197396BA46",
+  "verticalSpacing": 0
+}

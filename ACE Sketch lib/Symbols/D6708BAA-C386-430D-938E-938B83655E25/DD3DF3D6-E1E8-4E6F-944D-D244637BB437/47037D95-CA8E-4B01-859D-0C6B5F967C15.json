@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7509BDD7-60F5-4D61-8242-5904D99988EE",
+  "do_objectID": "47037D95-CA8E-4B01-859D-0C6B5F967C15",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
+    "height": 50,
     "width": 1500,
     "x": 0,
     "y": 0
@@ -31,9 +31,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle 233 Copy 12",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 0,
   "points": [
     {
       "_class": "curvePoint",
@@ -88,21 +88,58 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.5010380244755245,
-          "blue": 0.7598996162414551,
-          "green": 0.8883756995201111,
-          "red": 0.3143693506717682
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6,
+                "green": 0.176470588235294,
+                "red": 0
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4627450980392157,
+                "green": 0.1333333333333334,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

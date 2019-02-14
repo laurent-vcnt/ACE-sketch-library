@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 1594,
   "clippingMaskMode": 0,
   "do_objectID": "AC5CDC92-2B36-4413-8A43-CD764B18F4F5",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
+    "height": 52,
     "width": 1500,
-    "x": 6332,
-    "y": 615
+    "x": 4632,
+    "y": 1136
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -53,12 +53,124 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "7509BDD7-60F5-4D61-8242-5904D99988EE"
+      "id": "2B8EFE4A-55ED-46A0-995C-526DFEC1417F"
+    },
+    {
+      "class": "rectangle",
+      "id": "69B8B367-FF4C-4899-B726-E416CBED950F"
+    },
+    {
+      "class": "group",
+      "id": "A3896CB6-3C73-464F-8E69-7CE30CCE6ED1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10783116-D87F-4D99-82E5-56805AC7D353"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEBD649A-CCBD-407C-B554-8AB38CAEBBDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88CF052B-6617-42A5-8F73-4809184531D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A2975C1-B3B8-4FE3-8CF0-282663DEF79C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A3B986F-C605-42F4-8547-146C101F4F34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0322C717-2B51-45A0-819E-651B026F07D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E5090BD-5D56-4B39-9F20-8391B866BAF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E2BA457-7056-4AAF-A2C5-A787A0BD416F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "637AD257-2CD2-4EB9-BE69-E940903B1256"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33BFD0E9-E8C5-4B34-9633-72746451CBD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3BEF313-D413-4DCC-AF77-FB93A04F4896"
     }
   ],
-  "name": "Datagrid / Table Placeholder (beta) / Header",
+  "name": "Datagrid (beta) / Table header",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A3B986F-C605-42F4-8547-146C101F4F34_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3E5090BD-5D56-4B39-9F20-8391B866BAF5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6A2975C1-B3B8-4FE3-8CF0-282663DEF79C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E2BA457-7056-4AAF-A2C5-A787A0BD416F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E3BEF313-D413-4DCC-AF77-FB93A04F4896_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "637AD257-2CD2-4EB9-BE69-E940903B1256_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "10783116-D87F-4D99-82E5-56805AC7D353_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "33BFD0E9-E8C5-4B34-9633-72746451CBD6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "88CF052B-6617-42A5-8F73-4809184531D5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DEBD649A-CCBD-407C-B554-8AB38CAEBBDC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0322C717-2B51-45A0-819E-651B026F07D3_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B8EFE4A-55ED-46A0-995C-526DFEC1417F_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

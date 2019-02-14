@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 345,
+    "height": 932,
     "width": 1500,
     "x": 0,
-    "y": 78
+    "y": 52
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Datagrid / Table Placholder (beta) / Body",
+  "name": "Datagrid (beta) / Table body / 20 rows",
   "nameIsFixed": false,
   "overrideValues": [
   ],

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 151,
+  "changeIdentifier": 160,
   "clippingMaskMode": 0,
   "do_objectID": "DE8B260D-CFA4-46A6-B9B9-D85A7B511637",
   "exportOptions": {
@@ -56,7 +56,7 @@
       "id": "7E3B88BE-94E9-47CE-BA62-E7532EC4ED55"
     }
   ],
-  "name": "Datagrid / Action bar (beta) / Items / Dropdown menu / Hover",
+  "name": "Datagrid (beta) / Action bar / Items / Dropdown menu / Hover",
   "nameIsFixed": true,
   "overrideProperties": [
     {

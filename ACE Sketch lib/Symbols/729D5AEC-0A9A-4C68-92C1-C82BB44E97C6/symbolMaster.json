@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 31,
+  "changeIdentifier": 558,
   "clippingMaskMode": 0,
   "do_objectID": "729D5AEC-0A9A-4C68-92C1-C82BB44E97C6",
   "exportOptions": {
@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 501,
+    "height": 1036,
     "width": 1500,
     "x": 4632,
     "y": 0
@@ -57,16 +57,21 @@
     },
     {
       "class": "symbolInstance",
-      "id": "01DB62EB-0A2B-44EA-BE70-17A9564ABFEA"
+      "id": "D47FF47D-DD46-4F13-A747-8DB3D6B07003"
     },
     {
       "class": "symbolInstance",
-      "id": "D47FF47D-DD46-4F13-A747-8DB3D6B07003"
+      "id": "01DB62EB-0A2B-44EA-BE70-17A9564ABFEA"
     }
   ],
-  "name": "Datagrid / Table Placeholder (beta)",
+  "name": "Datagrid (beta) / Base",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D47FF47D-DD46-4F13-A747-8DB3D6B07003_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -76,11 +81,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "01DB62EB-0A2B-44EA-BE70-17A9564ABFEA_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D47FF47D-DD46-4F13-A747-8DB3D6B07003_symbolID"
     }
   ],
   "resizesContent": false,

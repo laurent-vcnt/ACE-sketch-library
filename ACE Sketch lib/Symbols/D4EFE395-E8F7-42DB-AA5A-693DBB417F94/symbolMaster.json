@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1239,
+  "changeIdentifier": 1261,
   "clippingMaskMode": 0,
   "do_objectID": "D4EFE395-E8F7-42DB-AA5A-693DBB417F94",
   "exportOptions": {
@@ -56,13 +56,13 @@
       "id": "15ACCB7D-6AD7-4FEE-BB20-09A4A90418E0"
     }
   ],
-  "name": "Datagrid / Action bar (beta) / Base",
+  "name": "Datagrid (beta) / Action bar / Base",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1E2A405C-32AC-49DC-8E82-7A3FC15B1D4E_symbolID"
+      "overrideName": "D3724D42-1D11-4D1C-A605-BB5C58842E58_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -137,7 +137,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D3724D42-1D11-4D1C-A605-BB5C58842E58_symbolID"
+      "overrideName": "1E2A405C-32AC-49DC-8E82-7A3FC15B1D4E_symbolID"
     }
   ],
   "resizesContent": false,

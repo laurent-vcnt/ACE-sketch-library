@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "976CEEE9-0834-4AFF-8180-902B2FE4C1B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EEB1C544-106F-48D5-B7A0-1FD221717A75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DED2EBB3-FF1C-4EC9-AE77-0A79B22A53F6",
+    "height": 42,
+    "width": 1500,
+    "x": 0,
+    "y": 46
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Datagrid (beta) / Table body / Row / Base",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21FBABED-A355-4E58-ADF4-31FC183B3239",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2BC351A5-E3BA-438E-8294-29362EE9B2C5",
+  "verticalSpacing": 0
+}

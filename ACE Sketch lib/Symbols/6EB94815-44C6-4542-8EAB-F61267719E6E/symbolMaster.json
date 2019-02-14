@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 151,
+  "changeIdentifier": 159,
   "clippingMaskMode": 0,
   "do_objectID": "6EB94815-44C6-4542-8EAB-F61267719E6E",
   "exportOptions": {
@@ -73,13 +73,13 @@
       "id": "7445C8BC-AA89-4B5F-B208-18FFA9D456BC"
     }
   ],
-  "name": "Datagrid / Action bar (beta) / Items / Quick Search / Active",
+  "name": "Datagrid (beta) / Action bar / Items / Quick Search / Active",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EDB36498-9B80-4FE2-A183-73BA4FF5B99F_textStyle"
+      "overrideName": "EDB36498-9B80-4FE2-A183-73BA4FF5B99F_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -99,7 +99,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EDB36498-9B80-4FE2-A183-73BA4FF5B99F_stringValue"
+      "overrideName": "EDB36498-9B80-4FE2-A183-73BA4FF5B99F_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

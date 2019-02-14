@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 594,
+  "changeIdentifier": 614,
   "clippingMaskMode": 0,
   "do_objectID": "243CC187-029F-45D6-910F-CD1C50C80166",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "do_objectID": "FCC863EA-9054-49A1-810D-55DC17FF1293",
     "height": 44,
     "width": 300,
-    "x": 23767,
+    "x": 31488,
     "y": 0
   },
   "groupLayout": {
@@ -97,7 +97,7 @@
       "overrideName": "CA4A83E6-EC16-4C69-94A3-F17F961E097F_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
