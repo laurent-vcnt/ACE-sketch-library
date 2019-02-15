@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
+    "height": 52,
     "width": 1500,
     "x": 0,
-    "y": 431
+    "y": 984
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Datagrid / Table Placholder (beta) / Footer",
+  "name": "Datagrid (beta) / Table footer / Simple pagination",
   "nameIsFixed": false,
   "overrideValues": [
   ],

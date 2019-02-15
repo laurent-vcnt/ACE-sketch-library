@@ -22,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2099,
+    "height": 4042,
     "width": 1600,
-    "x": -2500,
+    "x": -2498,
     "y": -512
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,15 +47,71 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6FBE8EE5-D4DC-44B4-A754-D1D674D7FA73"
+    },
     {
       "class": "symbolInstance",
       "id": "85EFA720-8614-4E2D-9D87-1B85897B9030"
     },
     {
+      "class": "symbolInstance",
+      "id": "AA7F31D9-C7DE-4061-88DF-0759E5436727"
+    },
+    {
       "class": "text",
       "id": "FE33D88C-BA3F-4297-9FC1-8C97A42007EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0F70B53-A6FA-4455-B275-29322A1DB6F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DBF5EF6-6CFA-49B1-8A27-ACAF4A1052A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC7965AA-A5EE-4D84-9CAC-AFCF1937EFAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F4016A0-5464-49AE-80F4-E52440F4581B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A06F1C5-DFC7-4015-915B-FC57D573A05D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31647DDC-9EE3-4128-BC7A-BF7506DB90E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85A41E9E-4244-48F8-AF12-06399FDA6A56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F098A5F-61FF-49F8-A002-8BF7D6C5AEF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44D5884A-8B5B-43A6-91AC-0EF5FA74BC53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "016B99BF-0A0E-40E8-BA37-4C4D97448D8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C4DFBA0-BE7B-4632-9A39-D036C4A124B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1471BEFD-EE6C-4C1B-AF07-50A8FB0D3717"
     }
   ],
   "name": "Datagrid / Table",

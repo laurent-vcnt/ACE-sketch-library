@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 501,
+    "height": 1036,
     "width": 1500,
     "x": 50,
     "y": 287
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Datagrid / Table Placholder (beta)",
+  "name": "Datagrid (beta) / Base",
   "nameIsFixed": false,
   "overrideValues": [
   ],

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56F412CD-BFF8-4025-BF5C-22A76B59A215",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63103FDA-A7E0-44E9-973F-13ABE243F72F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "666831AD-B315-42B8-B017-E3029712FE37",
+    "height": 50,
+    "width": 1500,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F8460A0B-CD74-4B16-A965-627CE1A13DA6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4599802D-63B4-4B8E-8733-CF13CA8E8C7D"
+    },
+    {
+      "class": "text",
+      "id": "76C81524-E6EA-49CA-8B99-2F18ACD48BAC"
+    }
+  ],
+  "name": "Datagrid (beta) / Table footer / Infinite scroll / Button / Load more",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47852453-953A-4726-835F-30D11D0D1774",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

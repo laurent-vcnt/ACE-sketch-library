@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 501,
+    "height": 1036,
     "width": 1500,
     "x": 30,
-    "y": 96
+    "y": 135
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,10 +27,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Datagrid / Table Placholder (beta)",
+  "layerListExpandedType": 2,
+  "name": "Datagrid (beta) / Base",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C11FCF3-1DDF-4FD9-882B-1CE112B913E8",
+      "overrideName": "D47FF47D-DD46-4F13-A747-8DB3D6B07003/80C583BE-39B3-4192-B8EF-F33EA36BE32F_layerStyle",
+      "value": "489B8DCA-E77B-4B9D-89A5-741DB4558445"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

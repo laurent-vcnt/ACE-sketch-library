@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 223,
+  "changeIdentifier": 232,
   "clippingMaskMode": 0,
   "do_objectID": "03342DFE-B460-415A-99CF-92EE60082E8B",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "9E685B6B-EF94-4781-AC15-58ECB8157421"
     }
   ],
-  "name": "Datagrid / Action bar (beta) / Items / Dropdown menu / Opened",
+  "name": "Datagrid (beta) / Action bar / Items / Dropdown menu / Opened",
   "nameIsFixed": true,
   "overrideProperties": [
     {

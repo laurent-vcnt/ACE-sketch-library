@@ -14,12 +14,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "31D95D55-5EF8-4E21-9BCC-27D97EE7487B",
-    "height": 345,
+    "height": 932,
     "width": 1500,
     "x": 0,
     "y": 0
@@ -33,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy",
-  "nameIsFixed": false,
+  "name": "Placeholder",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -81,6 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "8B431A87-CA08-4CC7-B4B2-EAC022E43949",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -91,7 +92,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.5010380244755245,
+          "alpha": 0.25,
           "blue": 0.7598996162414551,
           "green": 0.8883756995201111,
           "red": 0.3143693506717682

@@ -25,9 +25,9 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "DNA / Icons / Chevron / Down / Medium",
   "nameIsFixed": false,
   "overrideValues": [

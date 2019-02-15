@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 69,
+  "changeIdentifier": 77,
   "clippingMaskMode": 0,
   "do_objectID": "19AC4A8F-2768-4A4D-A929-3941A4EE66D6",
   "exportOptions": {
@@ -64,7 +64,7 @@
       "id": "2560D69C-F52A-4492-92B7-249EC470B8D6"
     }
   ],
-  "name": "Datagrid / Action bar (beta) / Items / Quick Search / Base",
+  "name": "Datagrid (beta) / Action bar / Items / Quick Search / Base",
   "nameIsFixed": true,
   "overrideProperties": [
     {
